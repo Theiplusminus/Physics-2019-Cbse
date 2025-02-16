@@ -1,0 +1,1094 @@
+
+ 
+
+
+
+
+
+
+
+"@f-;i.
+Roll No.
+
+12 Ph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   2-	1 2
+
+
+
+
+
+
+
+tfit5 'rf.
+Code No.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R'l/rnd eJ./21 .- 3 FR"
+Time allowed : 3 hours
+
+PHYSICS (Theory)
+
+
+    31felchdJ./ 0Tcfi : 70 Maximum Marks : 70
+
+
+
+
+
+
+(i)
+(ii)
+(iii)
+
+m:ft JIU 3/Rc//2/,.6 I	JIU- W if'2 7 JI .-/ 6 I
+JIU-W	q,r ${/J/ 6.. @US- @US- @US-"B" 3/tr @US-q 1
+@US-31 if 5 JI .-/"!, Jlr-iJq, cfiT1 0Tcfi 6 I @US-if if 7 JI .-/ t, Jlri!ch	2 0Tcfi t I @US-"B"
+if12 JIU 6, JlriJch	3 0Tcfi	I @us-q if 3 JIU -g Jlr4c/?	5 0Tcfi 6 I
+
+
+
+
+
+
+55/1/2	1	[P.T.O.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+
+
+(iv)	J,/?-f-1T?T -ii. e(r) 	'K	Rlr:/?fll	1 d Jfci	3Tcfi m ef	·il ef	· ·m ef
+il efJ;r ·	•	m 'i:/1(	•	if 3/fr q1"'#	·	•	m M	· if 311. ,1Rr:/? #2/.-f J,/i;/rf
+/c;,211 172/7g I -&ft	.	if J-119	7Tlf #2/.f if ii  r.t& [!qi .W.f {I r:/?<.fl	I
+
+(v)
+
+,j//q/(2/r:/?	fl 3111/ A.I ,J#tf&d 1/Jfrtr:/?  R2/d/c/?/0	11R7' r:/?/ 392/117 r.fif &r:/?d ! :
+c=3	X 108m/s
+h = 6.63 x 10-34 Js
+e = 1.6 x 10-19 C
+µo = 4n x 1o-7 T m A-1
+80 = 8.854 X 10-12 C2 N-1 m-2
+1	= 9 X 109 N m2 c-2
+4n80
+ fl T.:i cfll	l-11.J (me)= 9.1 x 10-31 kg
+ T.:i cfll  l-11.J = 1.675 x 10-27 kg
+si12.T.:i cflT  J.11.:i = 1.673 x 1o-27 kg
+;fllqlllls?l -t-i@I = 6.023 x 1023	!-Ill-I lTTC1
+ciiT ?_':lll-11.J Pi  aicf> = 1.38 x 1o-23 JK-1
+
+i ' General Instructions:
+I (i)	All questions are compulsory. There are 27 questions in all.
+-•
+
+I	(iiJ
+'I	(iii)
+
+This question paper has four sections : Section A, Section B, Section C and Section D. Section A contains five questions of one mark each, Section B contains seven questions of two marks each, Section C contains twelve questions of three marks each, and Section D contains three questions of five marks each.
+
+(iv) 	There is no overall choice. However, an internal choice(s) has been provided in two questions o.£.one mark, two questions of two marks four questions of three marks and hree questio i of five marks weightage. You have to attempt only one of the choices
+zn sucn '({J_U s't:,l_Ons.
+(v) Youa} use the following values of physical constants wherever necessary:
+c=3	X 108m/s
+h = 6.63 x 10-34 Js
+e = 1.6 X 10-19 C
+µo = 4n X 1o-7 T m A-1
+80 = 8.854 X 10-12 C2 N-1 m-2
+
+--1
+4n80
+
+= 9 X 109 N m2 c-2
+
+
+
+
+
+
+
+I 55/1/2
+'-•
+
+Mass of electron (me)= 9.1 x 10-31 kg
+Mass of neutron= 1.675 x 10-27 kg Mass of proton= 1.673 x 10-27 kg
+Avogadro's number= 6.023 x 1023 per gram mole Boltzmann constant= 1.38 x 10-23 JK-1
+2
+
+@O'.g -	3l
+
+SECTION-A
+
+	 if ''	                  1
+
+
+
+
+Define the term ''threshold frequency'', in the context of photoelectric emission.
+OR
+Define the term ''Intensity'' in photon picture of electromagnetic radiation.
+
+
+••
+"
+'
+I 2.
+••
+
+
+
+3l,,	Slcf>l!tl  fcl(C'I  l-ll l-1 3ffi fll:.I.J  l-ll l-1 cit	cfl"G qfff fcf>fi)  3,1,,1(1 !3
+6119d.J cf>(dl i, it ¢1R( ffl 60° 91 1 ::itldl i I fll:.I.J lTT l-1 cflT 619clct.Jicf> Rtll[{d chl Q, I	1
+When unpolarised light is incident on the interface separating the rarer medium and the denser medium, Brewster angle is found to be 60°. Determine the refractive index of the denser medium.
+
+
+
+1
+
+
+
+
+
+'li_-d(ll ,8'tj O,jI :fSlfll(OI	qf{fl(	cf>l(cf>I in:f.tm cf>(dl	?
+
+In sky w.a e m(c)cl	'b:r propagation, why is the frequency range of transmitting signals restricted ·QIe s than 30 MHz?
+
+OR
+On what factors does the range of coverage in ground wave propagation depend ?
+
+fcf>fi) 'i:llcicf> it fuu in: Rl'l-lc!l,,I( 6ljSl --RI fcf> I ::itldl i, it  cicfS:,1-il cflT 619cl11'5 itTT
+fcr lkl cf>lfl'B Slcf>I(	i?	1
+When a potential difference is applied across the ends of a conductor, how is the drift velocity of the electrons related to the relaxation time?
+
+  	 1
+!"
+I	Draw the equipotential surfaces due to an isolated point charge.
+!
+
+I ss1112	3	[P.T.O.
+
+
+
+°cTT  \'cifl	61jl-ldii:f> (P1, V) 3ffi (P2, V)	I B	 \'cifl	(i)	fi4);;ii.:i, (ii) TTT	 I\JJ-1
+"i:f>l fchm	v mifil fi 1N1a fch 1J1 1 , it P1 3fu: P2 "9"cTTifB-ey;:rr fi4'l::it-1l if
+!tlN\I	;tlld ch1NIQ; I·	2
+Two bulbs are rated (P1, V) and (P2, V). If they are connected (i) in series and (ii) in parallel across a supnly V, find the power dissipated in the two combinations in terms
+ofP1 aN.dP2.
+"
+1. 5 619c:1J.:iii:f> 		fl l-11c:1ac1	c:l9ha1 8l	1 Wd cfilNIQ,  NIfl cfil a.-1l-la1 1 . 4 619 c:1J.:iii:f>
+l-ll l-1	ffl  -q{-5Dt  I	2
+
+
+
+
+i:f>i 'i:l	"Q,i:f> fl l-1 I§ fsi,,-l-1 cflT	if 619 cld.J i i:f> 1.6 t I 24
+-q{	fsi"'l-1 i:f>1		al-1 Rl-i:1c1.:i  9 f{i:f>R1a cfilNIQ, 1
+
+
+15 3-19 cld.J i i:f>	fchfi) l-11	l-1 if &
+
+!	Calculate the radius of curvature of an equi-concave lens of refractive index 1.5, when it is kept in a medium of refractive index 1.4, to have a power of-5D ?
+OR
+An equilateral glass prism has a refractive index 1.6 in air. Calculate the angle of
+minimum deviation of the prism, when kept in a medium of refractive index 24 15.
+
+I 55/1/2	4
+'••
+
+;
+110.	cflT cf>1on	cflT eF>icl-17 sifa R-IRsiQ, 1  
+!
+2
+
+
+
+
+
+
+
+
+State Bohr's quantization condition of angular momentum. Calculate the shortest wavelength of the Bracket series and state to which part of the electromagnetic spectrum does it belong.
+
+OR
+••
+'"
+Calculate the orbital period of the electron in the first excited state of hydrogen atom.
+••
+
+
+
+
+
+(a) 	 l-11.J	m if> fch,8) ;flltj ld cf>OI iJ -8 .f;	 llctl .	(A) cflT
+if>	!-114> @ff3/4 Q, I	V (cl{cf>  RI'l-lcl	I
+
+
+
+
+
+
+
+2
+
+
+
+(a) lot a graI?,h showing variation of deBroglie wavelength (A) associated with a cha	e.d	ic	of mass m, versus	V , where V is the accelerating potential.
+(b) An electron,,a proton and an alpha particle have the same kinetic energy. Which one has the shortest wavelength ?
+
+
+
+
+fch,8) TV clcl{ ft 
+
+flcf>dli?  	 2
+
+
+Why  a signal transmitted  from a TV tower  cannot  be received  beyond  a certain
+distance? Write the expression for the optimum separation between the receiving and
+!	the transmitting antenna.
+@
+!
+
+I ss1112	5	[P.T.O.
+
+
+
+
+
+
+
+SECTION-C
+
+
+
+
+
+
+(b) 			l@I cflB if> cf>l(OI c!.]	(!,	fcf>,8)	 tj.-fll-172.( .,,..	it fcf>,8)
+-qftq it tll{l c€i l-119 c¥lif 394lll <FIT fcf> I ;:Jf°I flcf>dl i ?
+(c) fcf>,8)	 tj.-fll-172.(	(i) cil cdl §!-llfc:<11 3W (ii) tll{I §!-llfc:<11 c€r qf{'l-lltsll R-ifu!Q, I	3
+(a) State the underlying principle of a moving coil galvanometer.
+(b) Give two reasons to explain why a galvanometer cannot as such be used to measure the value of the current in a given circuit.
+(c) Define	the terms	:	(i)	voltage	sensitivity	and (ii)	current	sensitivity	of	a galvanometer.
+•
+(b)	3-IR@ if	3-lj-81( fcf>,8)  ;f!.J.,I ciliiil	mil 'i:llcicf>,  ,8,8 ;TTT	tll{I ll Slcllfc:a
+i, if rp x 1n:	a cflT		qTf-91 1( ) {@I ' flit tll{I 12 Slcllfc:a	i I
+cTTT 91 1,9!:wH	qf{Olll-11 iiici	 ::itch 	•·I cfi) Q, I	3
+          a
+
+"
+a
+
+
+(a) Define mutual inductance and write its S.l. unit.
+(b) A square loop of side 'a' carrying a current 12 is kept at distance x from an infinitely long straight wire carrying a current 11 as shown in the figure. Obtain the expression for the resultant force acting on the loop.
+
+a
+
+
+
+
+
+-x
+a
+
+
+I 55/1/2	6
+'••
+
+
+z-	
+
+
+
+
+- q 3ffi + q	<TT 6llc! I 9hl-l I: (0, 0, - a) 3ffi (0, 0, a)  
+(0, 0, ± z) 3ffi (x, y, 0) in:WR 	 3
+
+
+Draw equipotential surfaces corresponding to the electric field that uniformly increases in magnitude along with the z-directions.
+Two charges - q and+ q are located at points (0, 0, -  a) and (0, 0, a). What is the electrostatic potential at the points (0, 0, ± z) and (x, y, 0) ?
+
+
+
+
+fch{"=n4>	R l-11 cfll 39 1l I =:­
+tl1(1  qf{ct>R-la chl Q,:
+
+qf{q if 40 n 3fu: 20 n	siRlu it sic11 a
+'c­	3
+
+A ---
+
+80V
+-	+
+
+20n	•
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+E--­
++	-
+
+10 n
+
+40V
+• "
+fchfi) fui\gif 61-c-4 "jR.  I 	i	? fcf>B Slcf>I{ 9{1 d fch I ::itldl	? fchfi) Jft?J:i\gc€r
+<TT 'Pfl3TT if 9hl-1 1: R = s n 3fu: s si Rlu	1	si Rlu s cfi'l fll-11.:i  si Rlu wu:ric (
+)	::itldl i, (f) .J I figC'I.J  
+i I S cf)f l-11.J  qf{ct>R-ia chl Q, I
+
+
+
+
+
+
+
+
+
+
+
+A	C
+
+E	K
+
+
+7	[P.T.O.
+
+;
+"
+I
+I•
+'0'
+I
+
+
+Using Kirchhoffs rules, calculate the current through the 40 n	and 20 n resistors in the following circuit :
+80V	20n
+
+'•
+'••
+I
+•
+
+A-----
+
+ +	
+
+
+400
+
+---B
+
+'"	D	c
+
+
+
+
+
+E----
++	-
+
+.,....---F
+10 n
+
+40V
+OR
+
+What is end error in a metre bridge ? How is it overcome ? The resistances in the two arms of the metre bridge are R = 5 n and S respectively.
+When the resistance S is shunted with an equal resistance, the new balance length
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+;
+11s.	'ailll!-1' c€r qf{'l-l1ts11 R-IRsiQ, 1 131 - 1 aiJ1 fB.r;1.,1	f.l l-1 cflT aq 1J1
+!
+
+
+
+
+fcf>fi) l-llUll-1	'619clct.Jicf>' c€r qf{'l-lltsil R-IRsiQ, I	@.ifa if 619clct.Jicf>	m	R l-1 it
+fl	1 fqa cf>1	Q,	fl l-1ac1 a(l 11!-I  fl  l'..l.J l-17 ui  l-1 ft RI{fl 	.:w-if fi'i:l(01 cf){ wr i  1	3
+Define the term wavefront. Using Huygen's wave theory, verify the law of reflection.
+OR
+Define the term, ''refractive index'' of a medium. Verify Snell's law of refraction when a plane wavefront is propagating from a denser to a rarer medium.
+
+
+
+
+i 19.
+!
+,'s.
+
+(a)
+
+(b)
+
+
+
+
+
+sic11 a	= i, fcf>m ;ft.J.,1 c1icil1	mil 'i:11c1cf>	flil t11{111 sic11 a ITT i, it
+
+
+
+'a'	in: @.ia i I	91!tl '-RWH qf{Olll-11 cilc@i
+
+
+
+
+
+
+
+
+		 a
+
+\;::itch Sll'-<1 cf>) Q, I	a\\O	3
+
+
+
+
+
+!!	(a)	Define the term 'self inductance' of a coil. Write its S.I. unit.
+g
+I !	(b)	A rectangular loop of sides a and b carrying current 1	is kept at a distance 'a'
+
+from an infinitely long straight wire carrying current 11 as shown in the figure. Obtain an expression for the resultant force acting on the loop.
+
+
+
+
+
+
+
+
+
+
+a
+
+
+I ss1112	9	[P.T.O.
+
+
+
+
+(a)
+
+(b)	C-E  RI	If! i:f n-p-n s:,i R{
+@ff3/4Q, I oq l@I	cf>1 Q, fcf>
+
+
+ 6l c11a.-ifu1ch cf)T 31 4.J cfiG	qf{q
+6l cil fulch lcf>B Slchl{ Sllqj fcf>41 ::itldl i I	3
+
+
+
+
+
+I'
+'••
+
+
+
+
+1?1 d(ll	2chl{l cf)T-qftq 61R@ @f-i:lch{  fief>) chlllRI cfiT &ql@I cf>) Q, I
+d(ll 91ci'r m 6llc1Rsld cf>1 Q, I
+(a)	Describe briefly the functions of the three segments of n-p-n transistor.
+
+I	(b)	Draw  the circuit  arrangement  for studying the output  characteristics of n-p-n
+I	transistor	in	CE	configuration.	Explain	how	the	output	characteristics	is
+'•
+
+0'a
+'••
+0
+
+
+
+a
+s
+!
+0
+
+obtained.
+
+
+OR	•
+
+Draw the circuit diagram of a full wave rectifier and explain its working. Also, give
+the input and output waveforms.
+
+
+
+
+!,.
+!
+0'••
+!'••
+, '•
+, 'i
+•
+•
+§
+•
+, •
+'!•
+''•
+''
+
+
+21.	(a)	
+
+
+
+(b)
+
+
+
+fcf>-Efl 611411-1¥113R1a ail  I	 3Mchal-l 3fu f.-11.1a1-1  61141l-il cit A 3fu: B wu Pl fi-la
+"9"ey if l-1l§fl.J	 -i:lch jch	ozj::it ch R1Rs! Q, I
+
+15 V  I@{  c:Jl 2.dl cfiT  fcf>,8) clli:(ch d(ll cfi"I l -ll§ci.J c fiG
+
+0•
+'•••
+•
+a
+s
+•
+
+20 kHz 3-llq@ 3ffi 10 V  I@{ ci1 2.a1	fcf>,8)	·-:,-,	rnl.J("I cfll 39 1ll fcf>41  ll41 i I
+l-ll§ci.J	-i:!chich qf{chR-ia cf>1 Q, I flll-ll d: l-ll§ci.J -	 -i:!chich Q:-f) "if chl-1 ffi {@I ::itldl
+
+
+•
+0'
+s
+••
+' .,
+a
+!
+!,.
+!
+'••
+'••
+, •
+•'•
+'••
+•
+•
+••
+!
+•
+0'•
+'• 55/1/2
+''••
+
+
+
+
+(a)
+
+
+(b)
+
+	 3
+
+If A and B represent the maximum and minimum amplitudes of an amplitude modulated wave, write the expression for the modulation index in terms of A & B.
+A message signal of frequency 20 kHz and peak voltage 10 V is used to modulate a carrier of frequency 2 MHz and peak voltage of 15 V. Calculate the modulation index. Why the modulation index is generally kept less than one ?
+10
+
+(a) 	 lislf,(q if> lll3fl cf>) R l-1 R-lfuiQ, I rr	l-l <cl	 l@I i:hJ Q, I
+(b) fcf>'81 0-$  l-isli:f>	 l-isli:h1  l$f 003TT if> 'clI{ l-1	(cl'{?l Tl R1fuiQ, I	3
+
+
+SI	i:f> cflT 'l!,ef>-"Q,i:f> 3  1   (U  I	3-lj l-isli:h1 , SI fa I  isl{) 3ffi	 l-isli:h1	m if>
+(lH  fcli1 .Ji:f>IU	R-lfuiQ, I
+(a) State Gauss's law for magnetism. Explain its significance.
+(b) Write the four important properties of the magnetic field lines due to a bar magnet.
+OR
+Write three points of differences between para-, dia- and ferro- magnetic materials, giving one example for each.
+
+
+
+
+
+(a)
+
+
+
+(b)
+
+0'-
+
+
+
+  9(1-8 R1fui Q, I	•
+ i:h1	Q,  	ci I	l-11.J	l$f cflT 3-0fl  d	l'..l.Jc'cl 3ffi W ci I	l-11.J	I  isl ch) l$f if>
+3-rlf!a-f.l'..l.-lc§( if> fll-11.J	I -...	...._'--"		e\l\	3
+
+''i	(a)
+0-
+0'
+'•'
+
+Identify the part of the electromagnetic spectrum used in (i) radar and (ii) eye surgerY,. Write their frequency range.
+
+•
+
+i
+!''•
+..,
+!•
+'0•
+!
+••
+§
+'•
+e
+'••
+•
+!''
+••
+'-
+'•
+!-
+i
+'.,
+•
+
+(b)
+
+
+
+
+24.	(a)
+
+
+
+
+(b)
+(a)
+
+Prov:e.t,hat	n€ :verage energy density of the oscillating electric field is equal to
+that 0£the oscillating magnetic field.
+
+
+
+(ITT 4>lllsl ls D1, D2 3ffi D3	3ltf'cllcicf>I if>	 .Jcf>	- rd{lci shl-1 1:
+2.5  eV, 2 eV 3fu: 3 eV	I	it cht.r m	4>llls14ls 600 nm d(ll Uf if> Sli:f>l I cflT
+zj -tj.J ".J"@	flcf>l11 ?
+ l@I i:hl Q,	4>1lls14ls1 cf>I Sl'cllci.J q 'q	li:f> isll fl	i:f>(.JI ffi  lcl	i:f>	I	3
+Three photo diodes D1, D2 and D3 are made of semiconductors having band gaps
+
+'i
+'•
+'••
+!-
+''
+''-•
+e
+••
+
+
+
+
+(b)
+
+55/1/2
+
+of 2.5 eV, 2 eV and 3 eV respectively. Which of them will not be able to detect light of wavelength 600 nm?
+Why photodiodes are required to operate in reverse bias ? Explain.
+
+11	[P.T.O.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5	---.i•_J.-•	1_0
+cm	cm
+II (a)	Describe any two characteristic features which distinguish between interference and diffraction phenomena. Derive the expression for the intensity at a point of
+the interference pattern in Young's double slit experiment.
+(b)  In the diffraction due to a single slit experiment, the aperture of the slit is 3 mm. If monochromatic light of wavelength 620 nm is incident normally on the slit, calculate the separation between the first order minima and the 3rd order maxima on one side of the screen. The distance between the slit and the screen is 1.5 m.
+
+OR
+I 55/1/2	12
+'••
+
+;
+i"	(a)	Under what conditions is the phenomenon of total internal reflection of light
+•
+i	observed ? Obtain the relation between the critical angle of incidence and the
+refractive index of the medium.
+
+(b) Three lenses of focal lengths +10 cm, -10 cm and +30 cm are arranged coaxially as in the figure given below. Find the position of the final image formed by the combination.
+
+
+0
+
+
+
+
+
+
+
+I+- s ---l..i• 4	1 o _
+cm	cm
+•
+
+(a) 		it¥,fcf>fi) fll-11•,I{ 9 cf>I	tilf{;J	9 cf>l;fil if> 3-lltj!tIl .Jl d[{d cflB
+c€r Slfshlll cflT zja.)i:r if ffl	chl Q, I fcf>fi) '8tilf{;J if '8f3/4d	if> &i::itcf>	 •·I
+	 on\
+(b) ,.,fchm fll-11•,I{ 9 cf>I	tilf{;J cfiT fcl cll•,I{ V def> 6lltj ld  fcfilll lllll i I	ffl it
+
+fcl:1-ll	"i/:'lldl.J tilf{dl	fcf>fi) 3P1	3-1.Jltj ld	tilf{;J	m	'84l d  fcfilll lllll  I
+ •
+fl\/.1)&1,;i it -EiR:!d	3fu: m	if Q,cf>c1  Btilf{;i if -EiR:!d	cflT 61:l,91d qf{cf>R-id
+chl Q, I	5
+
+
+
+
+(a) fcf>m	r.::	'H9 c€r Rlgc1d	if> fcf>m    
+chl Q, I
+
+(b) I fl 4-81-1   
+cflT "<it- dlfl{I 3-lltj!tl 'Q'	6lltj!tLJ cfiT P-lcil cllctl 	in: Slcf>I{  {@I i fcn
+Rcf>lll '8gc1.J if {1:1dl i I ;flltj!tl Q c€r @.iRl 3ffiNq, Id	chl Q, I
+13	[P.T.O.
+
+;
+!•;;
+
+
+•
+
+0
+
+
+
+
+(a) Describe briefly the process of transferring the charge between the two plates of a parallel plate capacitor when connected to a battery. Derive an expression for the energy stored in a capacitor.
+(b) A parallel plate capacitor is charged by a battery to a potential difference V. It is disconnected from battery and then connected to another uncharged capacitor of the same capacitance. Calculate the ratio of the energy stored in the combination to the initial energy on the single capacitor.
+OR
+
+(a) Derive an expression for the electric field at any point on the equatorial line of an electric dipole.
+(b) Two identical point charges, q each, are kept 2m apart in air. A third point charge Q of unknown magnitude and sign is placed on the line joining the charges such that the system remains in equilibrium. Find the position and nature
+
+
+
+
+(a)
+
+
+
+
+
+(b) LCR -qftq if·3-lj.JI @.ifa if 3fu: zjtilf{?I fuu in: C!l cdl;fil	f3/4.ia-11 i:f>fll,,I(    i ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+•
+
+I 55/1/2
+'••
+
+(c)
+
+
+	
+cit 50Hz 3-lliH	200 V	ac ffl"B fi 1 a f3/4.i 1 ::itldl	'	dT cf>clfl 0.5A tll{I
+tr Slcll d	i I  l@I ch1 Q, =	Sli:f>(OI if tll{I i:f>l-1 i	I	cfll fcl {cf,c'cl
+m qf{i:f>R-ia chl Q, I	5
+
+
+
+14
+
+
+ 
+
+
+
+
+
+
+
+
+
+       c1I .J ft 4000-220 3-19-i:l llll
+
+
+
+
+
+
+(a)  In a series LCR circuit connected across an ac source of variable frequency, obtain the expression for its impedance and draw a plot showing its variation
+!	with frequency of the ac source.	•
+I'	(b)	What is the phase difference between the voltages across inductor and the
+••
+
+capacitor at resonance in the LCR circuit ?
+
+(c) When an inductoJ?is connected to a 200 V de voltage, a current of IA flows through it. When the same inductor is connected to a 200 V, 50 Hz ac source, only 0.5 A Gurrent flows. Explain, why ? Also, calculate the self inductance of
+the·	"
+OR
+
+(a) Draw the diagram of a device which is used to decrease high ac voltage into a low ac voltage and state its working principle. Write four sources of energy loss
+in this device.
+I    (b)  A small town with a demand of 1200 kW of electric power at 220 Vis situated 20 km away from an electric plant generating power at 440 V. The resistance of the two wire line carrying power is 0.5 n per km. The town gets the power from the line through a 4000-220 V step-down transformer at a sub-station in the
+town. Estimate the line power loss in the form of heat.
+I ss1112	15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+•
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+''••
+
+55/1/2	16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+

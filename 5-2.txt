@@ -1,0 +1,964 @@
+CBSE Class 12 Physics Question Paper 2019 (March 5, Set 1 - 55/2/1)
+
+
+
+
+
+
+
+
+
+
+-;i.
+Roll No.
+
+cfils -;j-.
+Code No.
+
+
+
+
+
+
+
+
+
+
+
+
+• ti9lll ::iii-ct cf){ fcfi	--1-  if	19	I
+• Sl ;i-'Cf?f	if  --rT"'t--"T""'"t-  m	3ffi	r--1,o,.  •	--11--isl{ aj'	@151 3f1{-gff<ii:hl	-	1n:
+  I
+• ti9lll ::iii-ct cf){	fcfi	--1- if  27	--1	I	 
+• ct,q41 !.I ,V-i clil 3ft< fi.1@"'1I	......	· , 5:1 .:t	shq ich	€4 ti	ft,I	I
+• SI  ;i  -'CB[	aj.'	?	-;:;.....,._...  15. ,,..._. cf>T fll-1	--ti---r-T-r-r	l I	I	SI  .-l-'Cf?f cf>T' ftjd (0 I
+if 10.15	f3/4)lll '1ill(lll I	10.15		10.30		def) @ 5t cf>ct Sl!?;i-'Cf?f aj'	.?
+3fR	::-:-----rt-cq	it 3f1{-gf fdcf>I 1R --r-+-:::r	3ft(	fa@  I
+• Please check that this question paper ,contains 19 printed pages.
+• Code number given on the right hand side of the	question paper should be written on the title page of the answer-book by the candidate.
+• Please check that this question paper contains 27 questions.
+• Please	write	down	the	Serial	Number	of	the	question	before
+attempting it.
+• 15 minute time has been allotted to read this question paper. The question paper will be distributed at 10.15 a.m. From 10.15 a.m. to 10.30 a.m., the students will read the question paper only and will not write any answer on the answer-book during this period.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time allowed : 3 hours
+
+1'11\"i::l;J.$.(lik .-. -1',',;,1>:' ill\tolifl1N n=; (fl,c .-,)"lt,'l;l,Y..lfh:-,:,,y'J
+55/2/1
+
+PHYSICS (Theory)
+
+
+
+1
+
+
+
+31fitcfJdJ../	afq,: 70
+Maximum Marks: 70
+
+·i
+l'lll"J:Cl'.; (ll'( •v'.f	.-,;J r, 1i 1--:,,irl'il'l-f'l;:r, (rh¦ l"Jl:Nio°r.;L1 •11't-.:,;,, i
+
+
+R/1-/1r?./ f4 1:
+(i) R"'Jft Wirf 3/Rc/72/r ff I p:{	>IH-7Pf q 
+(ii) p:{Wirf-7Pf	#/? 'J./717 ff: &us  31, &US 'if{, &US 'B' 3ffr &us	I
+(iii) &us 31 -,f- qi# 	>IH ff, gfilq; 'cfiT '([cn" 3Tcfi	I &us 	-,f- Rlrl >l rf 6, >lfilct>	3Tcfi t I	&US 'B' q d/l?G >f rf 6, gfilq;	nT-1 3Tcf; t 3hr &US	q nT-1Wirf ff, gfilq; qi#  3Tcfi ff I
+(i V)	Wirf-7P{ q ?-IJ../!J	w	fdtq;(Y"q -;rt(	I ?f,	,	'([cn" 3Tcf; ----+_,	.Y.-1 •	#,	.  .	+_,
+y-	•	#, nT-1. .	';::n;:::;:t	ill?	'J-1 •  q 3hr qif4 .	.	;::::rr;:;;;:t .,,,,,,.,,,...,	y-	•	q 31trf1Rcb -b12lrf
+>l lrf fd/,217 17217	I #	y-	•	-,f- 317qq;7	T{({ #2/rf q #  c/& '([cn" Wirf tf cb<rfl	I
+(v)	31/c/ 2/cf>	3Tf1l' R:,,1/ftfistd 1/Jl?tq; R21d1cf>1·	· 'cfiT Jq2/J1/	cfR: ?-lcf>d ff:
+c = 3 x 108 mis
+h = 6·63 x 10-34 Js
+e = 1·6 x 10-19 C
+µ0 = 4n x 10-7 Tm A-1	
+Eo =  8·854 x 10-12 c2 N-1 m-2
+
+
+
+4ni::0 "	"
+  cf{T.-tcf>Toll'-11.-t(me) = 9·1 x 10-31 kg
+ l'"i cf>T   l-1l'"i = 1 ·675 x 10-27 kg Sllc.l'"i cf>T  &ll-1l'"i = 1 ·673 x 10-27 kg
+3-f lcflllld) fi&-ll = 6·023 x 1023 >I"@  ll-1
+ , c: l-1l'"i Rll<1icf> = 1 ·38 x 10-23 JK-1
+General Instructions :
+(i) All questions are compulsory. There are 27 questions in all.
+(ii) This question paper has four sections : Section A, Section B, Section C and Section D.
+(iii) Section A contains five questions of one mark each, Section B contains seven questions of two marks each, Section C contains twelve questions of three marks each, Section D contains three questions of five marks each.
+!fl )!HoN,yfflY.,:(l tTh:(,r,fh ) !Il,N,l{ftf'I' !Tl-"',!
+
+(iv) There is no overall choice. However, an internal choice(s) has been provided in two questions of one mark, two questions of two marks, four questions of three marks and three questions of five marks weightage. You have to attempt only one of the choices in such questions.
+(v) You  may use the following values of physical constants wherever necessary:
+c = 3 x 108 mis
+h = 6·63 x 10-34 Js
+e=1·6xlo-19C
+µ0 = 4n x 10-7 Tm A-1
+Eo =  8·854 x 10-12 c2 N-1 m-2	•
+l	=  9 x 109 N m2 c-2
+4n£o
+
+Mass of electron (me) = 9·1 x 10-31 kg
+Mass of neutron= 1·675 x 10-27 kg Mass of proton = 1·673 x 10-27 kg
+Avogadro's number= 6·023 x 1023 per gram mole Boltzmann constant= 1·38 x 10-23 JK-1
+
+
+
+SECTION A
+1. fchtj)	l-lf3/4 q  ISd @*f3/4 I	1
+Draw equipotential surfaces for an electric dipole.
+
+2. fchtj) Sllc.1'"1	3 cf> WT	3-f cil-cifq<l_ cf> l-11'"1 jl-cifch1ll	-i-j-
+
+cfi{I
+
+-	f3/4 ql..-<1{ V	def> ,qf(<1 - -"---'" lllfl	I	f3/4t1q(..-<1{	-=.---r'T'	'	"ffi
+jl-citch1ll	St7c.T'"1	 ftlcf>I{ 'Cf	8t'3-lf 1 --	stcf>I{ qf(qfda --r+-r-r+-	?	1
+A proton is accelerated through a potential difference V, subjected to a uniform magnetic field acting normal to the velocity of the proton. If the potential difference is doubled, how will the radius of the circular path described by the proton in the magnetic field change ?
+
+3
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+3. 300  K  <119	 l.:ft llll-1	jl-	ll	Sl1Ri 1·2 x 105	I	<119
+jl-	ll .,..,--rt......,.	l·44 x 105 m '11 IQ! ft ?	1
+3{ 611
+fdhftl	lf{; '9GJ	jl- cf;tlf Sl1Ri x-	0·5	I	jl-	ll '9GJ2l	9i5-tjlRV: I	1
+The	magnetic susceptibility of magnesium at 300 K is 1·2 x 105. At what temperature will its magnetic susceptibility become 1·44 x 105?
+OR
+The magnetic susceptibility x of a given material is - 0·5. Identify the magnetic material.
+
+•
+4. 3lCf.f=q1(1ct>  slltls	9t5=q1Plv: Ni ch V-I (11&1fo1ct> 3-11 @	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identify the semiconductor diode whose V-I characteristics are as shown.
+
+
+
+
+mA
+
+
+
+
+
+
+
+
+volts
+
+
+
+
+
+
+
+
+
+    µA
+
+
+
+
+!fl )!HoN,yfflY.,:(l tTh:(,r,fh ) !Il,N,l{ftf'I' !Tl-"',!
+
+5. 	 -jl-citch)ll	f9cf?l-1	
+3-1 l f+i-qf{fi{ fB=IRs( I	1
+
+
+
+   	 1
+
+Which part of the electromagnetic spectrum is used in RADAR ? Give its frequency range.
+
+OR
+How are electromagnetic waves produced by accelerating charges ?
+
+
+(c)Os
+SECTIONB
+
+6. 			 51Lf>ci  'A' q q')l3TT	G)-  fil-ll a{  q ct,1zj-t11f{51,  Ni'"icfi	1! cf>'"i  'd'		' cf>T  fct,"l  citI  	de		WU 3-t1cl 1a  fct,llI l	Ill  I	I	,1  fen 3-t1cl 1a	(-l'-1(.f zj- If(51	-i-t--T-T-	fct	Iq'"i  ti  I { I ,  zj-If{51 cf>T  3-t Icl Ia			q I(17  ti  I { I		fll-11'"i ft
+I	2
+A capacitor made of two parallel plates, each of area 'A' and separation 'd' is charged by an external de source. Show that during charging, the displacement current inside the capacitor is the same as the current charging the capacitor.
+
+7. f3/4,") '3->lc.l'"i 3fu: f3/4,") Sllc.l'"i	-¢1llffi (1{l1 €4 A fil-1l'"i	I 
+Silc.l'"i ·	JIRt'-li	(2m"Ac/h) ,_.....+	I	2
+A photon and a proton have the same de-Broglie wavelength A. Prove that the energy of the photon is (2m"Ac/h) times the kinetic energy of the proton.
+
+
+
+5
+co	ege
+
+
+
+P.T.O.
+un1•
+
+
+
+a§.
+
+
+8. fchtj)	 1$ 1'111 q{l-11	fchtj) $cict?T1	3=fqf  n	q ffi  JftNia	3-tqf  acn
+ :aNia	 l-lll 3, Nfa	':f>lc.T1 0·55 v	"RU'tft fcf ";::rr;:::t	SI  1 1 
+2  eV ct>l44>ci1	'qlR3/4ct,	fch{fol<1  ch{<11	I 3-fqf n cfiT q-q lrc.l-1
+fi &-l I cnT l-111 SI lta ch) Ni	I	2
+3{	1
+12·5  eV  -:=,---r+	fot,tj)  $cicf?l1F	fchtj)	 1 1'11'"1	q{l-11	3 ch1  R• •1<1l-l
+3- iqf	JftNia	lllf I	1	J:aNia  3-fqf	q{1-11	3, Nfa a1$;?i cfiT
+ ct,<1l-l fi&-ll     chlNi I	2
+A photon emitted during the de-excitation of electron from a state n to the first excited state in a hydrogen atom, irradiates a metallic cathode of work function 2 eV, in a photo cell, with a stopping potential of 0·55 V. Obtain the value of the quantum number of the state n.	
+                             OR  	 	 A hydrogen atom in the ground state is excited by an electron beam of 12·5 eV energy. Find out the maximum number of lines emitted by the atom from its excited state.
+
+
+
+
+9. Il-11 
+
+
+
+ 
+
+                                   fchtj) @l TIffill	+-r	(	)		·	SIRIf3/4l-cit	cit11	I fch{Ul  3-tl @ @1*f3/4 I $ chl 3llcf l-1<11		O 'J1ct, ff!Rsl I		2
+3{	1
+
+fchtj) fi ct,  l-l IT ·  S1@r3/4l-cit  cit11I r-+	1 ll-1ifot,a  fch{U( 3-t R@  sfir3/4
+$ ch) f3/4t1 1 &fl-1<1I	-	&i'-l1ct> fftf@ I	2
+Draw the ray diagram of an astronomical telescope showing image formation in the normal adjustment position. Write the expression for its magnifying power.
+OR
+Draw a labelled ray diagram to show image formation by a compound microscope and write the expression for its resolving power.
+!fl )!HoN,yfflY.,:(l tTh:(,r,fh ) !Il,N,l{ftf'I' !Tl-"',!
+
+IW'f'l'll ! I,..,.,,v,•:iv,;ns (ll11<>t,fflVl'l'.I ! I10:,,"V · ti,.,..,.
+
+co	ege	
+
+10. tj) TV	 rC.l I cfiT -:,	rC.l (	T++-rr-r	R:iJ ffi	ch(1J.I
+Ni q	R:il	cf>T $((C(1	\l{l	ct>dl	'	R1f(c) I  
+Slct,{OI	om1:r   
+3-11 @ 1	qf{ {	fi=q1{ cfiT w  fcrm cnT 39lfllf f"3/4;,lf 1 '111<11	?	2
+Write the relation between the height of a TV antenna and the maximum range up to which signals transmitted by the antenna can be received. How is this expression modified in the case of line of sight communication by space waves ? In which range of frequencies, is this mode of communication used?	•
+
+
+11. fcR qf{ Rt l	j	cnT	a_,u-r 
+.	fct	c{;)Ni I---
+
+
+	 ((\
+   ? >IT fqch	fad)llch
+2
+
+
+
+Under which conditions can a rainbow be observed? Distinguish between a primary and a secondary rainbow. 
+(\
+
+
+
+
+
+	 2
+
+
+
+
+  I
+
+
+
+(b)	(i)	    . I
+
+
+
+
+Explain the fallowing :
+
+(a) Sky appears blue.
+
+(b) The Sun appears reddish at (i) sunset, (ii) sunrise.
+
+
+
+
+
+
+
+
+
+
+7
+co  ege
+
+P.T.O.
+un1•
+
+a§.
+
+
+
+
+
+SECTIONC
+
+13. 50  Hz	3-fl Ri	f3/4.;tj)	ac	cn c.<11	m	·	B lf{?f	(C)
+stRtU'Qco (R) filftNia	IC	R	.	f3/4 ctlrd{ 9",l-1 1: 120	V	90 V ,
+(f	.......+-.-r-w-		Slct l d 		l{I 3 A		I (i) .......+-i,-,p,	stRtest1m (f	(ii)  {ch,ct cfiT	l-11.-l qf{cf>Rr!a	 Ni  +--rrr	c	R		m	·		filf1Nia		.......+-i,-,p, cfiT
+ 01ict> ' '	°ITT 'JI1<1 I	I	3
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) .......+-i,-,p,	cfiT 3-f  j.-1l
+
+SI=q IR1a '"""'T"""T'  ct I ffi	...
+
+"'T'"r""'T".....,. Ff	Tf{a chlNi	I
+
+
+
+(b)    j.-llcf	-	stRtcst1m	 l{I cfiT 3=11llll-l  qf{cf>Rr!a
+ch)Ni  I
+(c) IT  fen 3-fj.-ll 3=11 Ri   LC ftltl'-li.-l    ·    f3/4 ct 91<1    
+I
+
+
+A capacitor (C) and resistor (R) are connected in series with an ac source of voltage of frequency 50 Hz. The potential difference across C and Rare respectively 120 V, 90 V, and  the  current in the circuit is 3 A. Calculate
+(i) the  impedance of the  circuit (ii) the  value of the  inductance, which
+when connected in series with C and R will make the power factor of the circuit unity.
+OR
+!fl )!HoN,yfflY.,:(l tTh:(,r,fh ) !Il,N,l{ftf'I' !Tl-"',!
+
+IW'f'l'll ! I,..,.,,v,•:iv,;ns (ll11<>t,fflVl'l'.I ! I10:,,"V · ti,.,..,.
+
+co	ege	
+
+Thefigure shows a series LCR circuit connected to a variable frequency 230 V source.
+
+
+
+
+
+230 V
+
+
+
+
+
+5·0 H
+
+(a) Determine	the	source	frequency	which	drives	the	circuit	in resonance.
+(b) Calculate the impedance of the  circuit and amplitude of current at
+resonance.	•
+(c) Show	that	potential	drop	across	LC	combination	is		zero	at resonating frequency.						
+
+
+14. ?	sl41s	n	p	\	l-ll d +---r-T-T	l&-11	,...._+
+cn1{01 {)Ni 1	-	•	slltls	S1q1f%a	1{1	chlNi : (.
+ -:it.-l(Ycdl 15V )	3
+250Q
+
+
+20V	15V
+
+
+-o---------------L.	1
+
+lkQ
+
+Give reason to explain why n and p regions of a Zener diode are heavily doped. Find the current through the Zener diode in the circuit given below : (Zener breakdown voltage is 15 V)
++o----
+
+
+
+20V
+
+
+
+lkQ
+
+
+
+
+
+
+-o---------------L.	1
+
+9
+co	ege
+
+P.T.O.
+un1•
+
+
+a§.
+
+15. fil ctffis;T.=t cnT .-lll-lifcna	3-fl @ @·ftj I	chllfchlft	ffioi;lrd	&ll I  ch)   I
+  1f	fen fil qf11s;T.-1 3-111@  -i311(1	com  8tvill1	...._.	ch{dl	1	3
+3{ €11
+(a) 3-1R(c)	fi llld I	fcntj) ·-:a;::rn'tlco (1l-cff) 'q l{(q l l qf{.-t IR1chl,	fiq
+fi I n	>I""@  ct>ict,  (1l-cif I 	'd"	 I.Cl	I	$1ql d	,	 1l-citch1ll		&i-:itch	 ,q ch)  I
+(b) c.l{T s q f{.-11 R1ct,1	+-,--,,,. SIch1{ M	?	3
+Draw a labelled diagram of cyclotron. Explain its working principle. Show that cyclotron frequency is independent of the speed and radius of the orbit.
+OR	•
+(a) Derive, with the help of a diagram, the expression for the magnetic field inside a very long solenoid having n turns per unit length carrying a current I.	   
+(b) How is a toroid different from a solenoid ?
+
+
+
+
+16. "'1-T-T---TOt · ch)	fen Gt"1"lll r	co&n-q co	-i311(1 v		fcntj) .=tlfilch	qf{st>l-11 fchtj) cf?l.-1	1l-citch1ll ...._........... evr/2	I		Slct>I{ in:		cn1oftll ·
+ctqic.4lch.co1  3=1fillJ 1a cn1 3q4)J1 ...........-r-- w. ' 1:::ri.:i q:c1-11 ,  f.:l1,1a1-1 31c1 if,
+1l-cif ch)ll .._.._.._.._.....+.	t;::;:m- &i-:itch   ,q   ch)   I	3
+Prove that the magnetic moment of the electron revolving around a nucleus in an orbit of radius r with orbital speed v is equal to evr/2. Hence using Bohr's postulate of quantization of angular momentum, deduce the expression for the magnetic moment of hydrogen atom in the ground state.
+
+17. cr	-2cr  C/m2 3-f ltj I  t.1.-1,q	GJ cit a 3-iltj la fil-1<1(1
+C.	"'
+	ch.-1 d	m?.l '3>	ol(q ff	1Pft"	I '3B
+
+
+
+
+--r"'T"T'"T"
+
+-	
+"'
+
+,q ch)	(i) q ffi -q(	.	3-IR, (ii) 
+'d"  (iii)	.	.	I
+
+
+!fl )!HoN,yfflY.,:(l tTh:(,r,fh ) !Il,N,l{ftf'I' !Tl-"',!
+
+=qI {	'"""'T'T"'T'T.	3ff'i
+3
+
+IW'f'l'll ! I,..,.,,v,•:iv,;ns (ll11<>t,fflVl'l'.I ! I10:,,"V · ti,.,..,.
+
+co	ege
+
+
+tfta-0 81 1 r1 3:fu:	
+Qtl
+(a) r     'Cf"{	3-f lcl I q f?  t I	tfta{) fSd 3:fu:
+'Cf"{	tSdll(	3-f I tj I t.1.-l,q	ch) Ni I
+(b) ctlll fcfieft -   (   fof,eft 3-tlcl I )  fl,	-	t;
+(f	'Cf"{ +--i-f'i+T-	{(1I fcn	J TIffill	3l	q I	? ellI	I ch)Ni	I	3
+
+
+Two large charged plane sheets of charge densities cr and -2cr C/m2 are arranged vertically with a separation of d between them. Deduce expressions for the  electric field at  points (i) to  the  left of the first  sheet,
+(ii) to the right of the second sheet, and (iii) between the two sheets.
+OR	
+A spherical conducting shell of inner radius r1 and outer radius r2 has a charge Q.	               
+(a) A charge q is placed at  the  centre of the  shell. Find out the surface
+charge density on the inner and outer surfaces of the shell.
+(b) Is the electric field inside a cavity (with no charge) zero; independent of the fact whether the shell is spherical or not ? Explain.
+
+
+
+
+
+
+18. --....-t	3-f l Ri fm	fot,)eft ml.-l(1	3=11 Ri fc	q(fjct, (1{l( cf>T 39lfll(	
+'Sf1.-l I t	I 3-iIll ll-1	d{l  I	+;::;..'T'T'T	 'Sfch	 ,q  ch)Ni	3,q
+3:fu: 3 tt4	"I,..,.	•	-;::;..- 	 'Sf ch 	,q	ch)Ni	I	SIchI{	-tj6hict)
+  'Jfch Sllta ch1Ni I	3
+A signal of low frequency fm is to be transmitted using a carrier wave of frequency fc. Derive the  expression for the  amplitude modulated wave
+and	deduce expressions for the	lower and	upper sidebands	produced. Hence, obtain the expression for modulation index.
+
+
+
+11
+co	ege
+
+
+
+P.T.O.
+un1•
+
+
+a§.
+
+
+
+
+19. 	SIcfilof  ,:::c:-- in m2l SI cfilfora	.	fi&-1I cnT ftj =q{OI		in +;::;..'T'T'T	J fl :g	9a    ff) 'Cffi'	a-		.		in Slcfilof cf>T  llf> @1*f3/4q: I zj		-			cfil q: fen ._			>lct>I( SIchlof  cf>T	 	 -,--+rrr	9{l-11l!J		Iftlch in 3-tR-d,q	ollI&-11 ch{d I	I zj Slltjci f3/45101			fifjllldl	 olll&-11 cfil q: fen { {lf>li Slchlof	-	Slchl{				in
+fil Sii	·	 .........+.+.	H tf{a	in  1Rt> 11fft WT in	ct,11-1  3-11a1	1	3
+Draw a plot of a-particle scattering by a thin foil of gold to show the variation of the number of the scattered particles with scattering angle. Describe briefly how the large angle scattering explains the existence of the nucleus inside the atom. Explain with the help of impact parameter picture, how Rutherford scattering serves a powerful way to determine
+an upper limit on the size of the  nucleus.
+•
+20. 5 mm 	ch	200 µF  lf{dl in f4;tj) fil-llr<1{ 9 chl B lf{51	100  Vin de
+3- tlcl l<1 f4illl  lllf I	filfl <1 {@I lllf I	I f4;tj) r--T"T"Tcqt ·
+9 chl3if in ffi	--'J_r---t-+	Cp\tJ TPfl-	-	9{1 <1ich	10
+5 mm ............... 9{I	ga	9 ch I w tJ 1flft- I chI{OI l'"""'T	&l l&-11 cfil	q: fen R1 •IR1Rsl a
+cflll	qf(qd	:	(i)  B 1f{51	 1f{a1,	(ii)	9 ch13TI in	- ,
+
+(iii) zj  If(51 cf>T :::::----r+ 	,q	?
+
+-...	 
+
+....._.	3
+
+
+
+A 200 µF parallel plate capacitor having plate separation of 5 mm is charged by a 100 V de source. It remains connected to the source. Using an insulated handle, the distance between the plates is doubled and a dielectric slab of thickness 5 mm and dielectric constant 10 is introduced between  the  plates.  Explain  with  reason,  how  the  (i)  capacitance,
+(ii) electric field between the plates, (iii) energy density of the  capacitor
+will change ?
+
+21. -			---r-t-cq	""l"'T"t--'r;::;+--r--r+	39 ff	cf>T	zj  -'31	ch@	?	f4;tj)
+  lflQfi:flq	in &illict,	9f{ l611 Rrff@q: 'd" &illich in · W
+lTT	in -;::;..- &i'J1ch	,9	cfil	q: I	3
+3{ €11
+(a)   chlll ciici in fcJ  cnlD (1"&1Uf R1Rslq: I
+(b) ::::,......,_,..._. ..'-'	in ffi	ch	Cf>ci	l-11 ch{	...:i.-,..._.	.'-'  •	in fct,tj)	l Ici
+
+
+
+!fl )!HoN,yfflY.,:(l tTh:(,r,fh ) !Il,N,l{ftf'I' !Tl-"',!
+
+i3/4Rl'-l1	in ftj=q{OI	in +;::;..'T'T'T	llf> &1*f3/4q: I llf>
+3=ifdf,a	cfil	q:	1ftlcfilll cit ci (i) 3-11ct,611, '<1" (ii) S1@ch611	1	3
+
+IW'f'l'll ! I,..,.,,v,•:iv,;ns (ll11<>t,fflVl'l'.I ! I10:,,"V · ti,.,..,.
+
+co	ege  
+
+
+
+Why is  it  difficult  to  detect  the	presence  of an	anti-neutrino	during
+ -decay ? Define the  term decay constant of a radioactive nucleus and derive the expression for its mean life in terms of the decay constant.
+OR
+(a) State two distinguishing features of nuclear force.
+(b) Draw a plot showing the variation of potential energy of a pair of nucleons as a function of their separation. Mark the regions on the graph where the force is (i) attractive, and (ii) repulsive.
+
+
+
+
+22. 2 / J3 3=f9qd.-l ict,	9 ({	IT	lTT't-	fct;tj)	Bl:!'-l1lct,({	fst l-1 cf>T	3=f9qd.-l
+60° i I 3=1l  @ 	3=1jfi ({ ,:::C"T"""P	$(cf>( (	fct,{O(	w -&	Cf>(1ct> Kb	'Cf\
+ (1l-cifqa 3=11qa.-1  ct>{d"l i  I	fst l-1	w fch{01 cnT 'Cf 3=1RRsla	<f
+"'
+ cf  -q(1'"1 ,::t:'"-- qf{ct>ffta 4>)  l	3
+p	K
+
+
+
+
+
+L  ..	 M
+
+
+
+
+
+A triangular prism of refracting angle 60° is made of a transparent material of refractive index 2 / J3. A ray of light is incident normally on
+the face KL as shown in the figure. Trace the path of the ray as it passes through the prism and calculate the angle of emergence and angle of deviation.
+p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L	M
+
+
+
+
+
+
+
+13
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+
+
+
+23. 4i1N1 fen fct;tj)	3 llRISd-3,fi'-lfcf> >[q'qcf) -q­
+cf> Ir<1{	t I
+fdhtj) ?i@iR{	3lTQR- l{I	30 µA cf>T 9f{qd.-l '"""'T"""T'	3lTQR-3,fi'-lfcf> cfl c.<11
+O·O2 V	zj!:11fjcf>	I{ I -ij- 4	mA cf>T 9 f{qd.-l 3,9	t  I	>[qcqq:)	cfl c.<11
+cq  400  t,	 l{I >lcfcq;{ :!olicf>	394)ll	fcfilll  lllfl ";:::rt;::r
+4,)Ni I	3
+Prove that in a common-emitter amplifier, the output and input differ in phase by 180°.
+In a transistor, the change of base current by 30 µA produces change of 0·02 V in the base-emitter voltage and a change of 4 mA in the collector current. Calculate the current amplification factor and the load resistance used, if the voltage gain of the amplifier is 400.
+
+24. <119	Lf> .-l		-q- (i)	tj)	-tjl cfi,	(ii)	fcfitj)	Sl cft	3lcq-tjl cf> St@U q)<11	fct-tj{OI		'"""'l""IT'r			!:lllf> @·ftj I
+
+zj{glf I'"1,q	.	.	ffl  fc.r
+
+-ct,1	-q- SIRtU ct,<11	-;:;..- oll'Jfcf> cf>T
+
+
+394)lI	&q l&-l I  4,)bi	fen <119	.....,-+----r	m	Slcf>I{ -tjl ct,	Slct,{OI -q-
+St@U	<11 -ij-	--=-+--r+  t, 'Jf	3lcq-tjI 	-ij-	t I	3
+Show, on a plot, variation  of resistivity of (i) a conductor, and (ii) a typical semiconductor as a function of temperature.
+Using the expression for the resistivity in terms of number density and relaxation time between the collisions, explain how resistivity in the case of a conductor increases while it decreases in a semiconductor, with the rise of temperature.
+
+
+!fl )!HoN,yfflY.,:(l tTh:(,r,fh ) !Il,N,l{ftf'I' !Tl-"',!
+
+IW'f'l'll ! I,..,.,,v,•:iv,;ns (ll11<>t,fflVl'l'.I ! I10:,,"V · ti,.,..,.
+
+co	ege  
+
+
+@Os
+SECTIOND
+25. (a)		fct:;eft cf>(-il-11.-l jl-citchlll		B -ij 3=f-q{ cf>lUfllf =q1(1 co	-		ct,{d), ft&-l I	N	3-tjSlf -cf>lc.		51Lf>(1	A		,	fct:;eft	,osffi	-ij 3,q fcr.cfT. cit(1 (emf)	+;::;..'T'T'T	&i'-l1ct,	,q		ch1Ni		I
+(b)	100 3ffi, Ni.-1ij Sl cf>	(1l-cit I  0·5 m '	q1(1I ,:::c"T"""'P	Y ll I,	cft-
+jl-citcfilll	 @'-l1 t-lc.cf>	3-f (1l-citq<l	-ij, 120	qf{9bl-lOI	-
+ 'ch"{	I	'f l.-1	qf{o11ift  jl-citch1ll	4 x 10-4 T (f2TT
+30°	'	'T"T'"l---'rrT	""l"'T"'i-i-  fcr.cff. cit(1 (emf)
+ch)Ni t	5
+•
+(a) fct:;eft -	-ij ti l{I I	3,q	·	ftRia	jl-citch1ll	-;::;..-	'-lien
+ ,q ch)Ni I W Slcf>I{  jl-citcfilll	t-1.-l,q	-;:;..- &i'J1ct> Sllta ch)Ni I
+(b) 5 cm	cf>T --..---+---t- cfTf q1 1, Ni(-i	01	lqdf +:"-	-ij 0·2 A ti l{I  $1q l a  m
+'	3-1R@ -ij	3=fj(-i I{ fct:;eft 3=f.-lrd	(1l-cit I	'd"R,	Ni(-i	1  A  ti l{I
+'	10	cm  ._..........	{@I	I 91 1	cf>ll[{(1	(i)	qf{o11ift
+(f2ff (ii) cit(1 -"'T"T"'I"" ,	,  q f{ct)R1a	cfil Ni	I	5
+
+
+;..._ 10	cm	> 5 cm
+
+
+(a) Derive an expression for the induced emf developed when a coil of N turns, and area of cross-section A, is rotated at a constant angular speed co in  a  uniform magnetic field B.
+(b) A wheel with 100 metallic spokes each 0·5 m long is rotated with a speed of 120 rev/min in a plane normal to the horizontal component of the Earth's magnetic field. If the resultant magnetic field at that place is 4 x 10-4 T and the angle of dip at the place is 30°, find the emf induced between the axle and the rim of the wheel.
+
+OR
+15
+co	ege
+
+
+P.T.O.
+un1• a§
+
+(a) Derive the expression for the magnetic energy stored in an inductor when a current I develops in it. Hence, obtain the expression for the magnetic energy density.
+(b) A square loop of sides 5 cm carrying a current of 0·2 A in the clockwise direction is placed at a distance of 10 cm from an infinitely long wire carrying a current of 1 A as shown. Calculate
+(i) the  resultant magnetic force, and  (ii) the  torque, if any, acting
+on the loop.
+
+0·2 A
+lA
+
+
+
+
+10 cm	> 5 cm
+
+
+
+
+
+
+
+
+
+
+
+26. 3-IR@	·	 fjllldl B &ll&:11 ch1N1  fen Slch1of 
+
+>lct,l I	Slq1>I(  Jrq fcfilt I	flcf>dI	I	
+      9lfl{T 33l P1 3fu: P2 cfil -	q1f1-3l cfil i:citct<l :c@1 lllf I  1 d)91a1 I cf>T 3lO""l""t---ll'""""T' 51ch1  1 P1  3-11qa.:i ch{a1 ,  P 1 3fu: P 2  "ffl  --.-+-r-r-1-- en;i { T -s p3 cfil"   5lcf>I{  mil   Jl I   fen  Bcf-,1  91B-3l P1    91B-3l B 45° cf>T ri:"-- cit ldl
+1 P1, P2 3fu: P3 B q1:cl1f11a  S1cf>1 1  d)91a1 qf{ct>R1a ch)Ni 1	5
+3{ €11
+
+(a) ..,_,. ·	cfil" ·  fft fulll-1 ""'_._·.
+fcf,ltl	flcf>dl ?
+
+SI{lca 
+
+(b) 	cf><:"11- isi,&		·	B 3<:"BNfa		Q,<=1-,cl0ff ai:if, Ni.:icf>	19.J y1 = a cos rot y2 = a cos (rot +		)	'	olffacf>(OI -	olffaof',(OI		3rq cf>(dl	I qf{o11ifl d)91a1	-;::;..-  &i'Jfcf>	 rq ch)Ni 'd"2l"T zj91tft		f3/4 1 ft olffacf>(OI
++;::;..'TT'T	Slfacitrq SI lea ch)Ni I
+
+(c) 590	nm	596	nm	d{ll  €4	fflfulll-1 Slcf>l I	..  cf>T 3q4)ll
+-	B 2 x 10-6  m  l(cf>	fchff)	cf>	f3/4ctd cf>T 3l llll
+-	lllf I	 I	"ffl	._......... 1·5 m	'
+Slch{Ufl	SIIC(1 f3/4ctd	.	fadlll  3{;:qtSdl
+	cf> qf{ct>R1a ch) Ni  I	5
+
+
+
+!fl )!HoN,yfflY.,:(l tTh:(,r,fh ) !Il,N,l{ftf'I' !Tl-"',!
+
+IW'f'l'll ! I,..,.,,v,•:iv,;ns (ll11<>t,fflVl'l'.I ! I10:,,"V · ti,.,..,.
+
+co	ege  
+
+Explain, with the help of a diagram, how plane polarized light can be produced by scattering of light from the Sun.
+Two polaroids P1 and P2 are placed with their pass axes perpendicular to each other. Unpolarised light of intensity I is incident on P1. A third polaroid P3 is kept between P1 and P2 such that its pass axis makes an angle of 45° with that of P 1. Calculate the intensity of light transmitted through P1, P2 and P3.
+OR
+(a) Why cannot the phenomenon of interference be observed by illuminating two pin holes with two sodium lamps?
+(b) Two monochromatic waves having displacements y1 = a cos rot and y2 = a cos (rot +  ) from two coherent sources interfere to produce
+an interference pattern. Derive the expression for the resultant intensity and obtain the conditions for constructive and destructive interference.
+(c) Two wavelengths of sodium light of 590 nm and 596 nm are used in turn to study the diffraction taking place at a single slit of aperture 2 x 10-6 m. If the distance between the slit and the screen is 1·5 m, calculate the separation between the positions of the second maxima of diffraction pattern obtained in the two cases.
+27. (a)	..............	3-iR@	fifjlll<1I B fco"l	3-iiaf{cf> S1@{)q	...............	fcrfq
+zj	R	ch)Ni	I
+(b) q,({OI {)Nig -fco fct>"l	fcr.cff. ci	(emf)  l-119	1';:'.;:m  crt clflc{
+gci  I	4l R,4)J.flc{	3q4)J1	q{)lfa1  cflll	·	I
+(c) q1 R1 1J.flc{	zjgci cil- I l qf{ct>R1<1 4ilN1 I ct>l{OI
+f91Sc 4ilNi -fco	3-1rlf	ct>1{cf>7 ·	3-t qf{q Rta ""l"""T"'	5 vfcr.cIT.
+ci  (emf)	9f{=q Ici ct>	2 V	T'T"T""'"I'"' Ifct<1 en{	,	dl
+cf>{l((	3l ql	I	5
+5 V	450 Q
+,-------10 m	,
+
+A ; 	
+l
+
+
+300mV
+
+-	'B
+
+
+
+
+
+
+
+
+17
+co	ege
+
+P.T.O.
+un1• a§
+
+
+
+
+(a) 3/4	fdt;eft 3-f ld St@{l't-l cfiT
+chlNi I
+(b) cf>l{OI {lNi
+(i) eft	3/4 -ij St@{)
+cf>T	cil.-l Ill  I  'Jf IdI  ,
+(ii) fi11-11rlf  a: zjgci.-l	ci '-cit1	cfiT -r+--r	(fR	ll	-	Pt c	
+q Dll aI	'{l- ---r-r---r+	I
+
+(c)	fdh{@l':h	Rlll-1 cf>T 39lfll(	 
+fcr qlrd{ qf{cnk1a chlNi 1	5
+
+
+(a) Describe briefly, with the help of a circuit diagram, the method of measuring the internal resistance of a cell.
+(b) Give reason why a potentiometer is preferred over a voltmeter for the measurement of emf of a cell.
+(c) In the potentiometer circuit given below, calculate the balancing length l. Give reason, whether the circuit will work, if the driver cell of emf 5 V is replaced with a cell of 2 V, keeping all other factors constant.
+
+5 V	450 Q
+
+
+
+:	10 m	:
+A	B
+
+
+
+300mV
+OR
+
+
+
+!fl )!HoN,yfflY.,:(l tTh:(,r,fh ) !Il,N,l{ftf'I' !Tl-"',!
+
+IW'f'l'll ! I,..,.,,v,•:iv,;ns (ll11<>t,fflVl'l'.I ! I10:,,"V · ti,.,..,.
+
+co	ege
+
+
+(a) State the working principle of a meter bridge used to measure an unknown resistance.
+(b) Give reason
+(i) why the connections between the resistors in a metre bridge are made of thick copper strips,
+(ii) why is it generally preferred to obtain the balance length near the mid-point of the bridge wire.
+(c) Calculate the potential difference across the 4 Q resistor in the given electrical circuit, using Kirchhoff's rules.
+8V	2Q
+---B
+6V	lQ
+D---- i	C
+
+
+
+
+
+E		
+
+------..       4Q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+co	ege  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

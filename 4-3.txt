@@ -1,0 +1,1065 @@
+CBSE Class 12 Physics Question Paper 2019 (March 5, Set 1 - 55/4/1)
+
+
+R/1-/1r?./	f4	1:
+
+(i)
+(ii)
+(iii)
+
+R"'Jft Wirf 3-IRc/12/r 'ff I Pf	>IH-1l5f ff ,::r:;::;;::r 27  >!:trf 'ff I
+Pf	>Rrf-1l5/	#/?	2/717 °ff: &US 31, &US q, &US '8' 3fk- &us 	I
+&us	31 ff Qi#  >IH °!, >!r ch cfiT 1!cfi" 3Tc/, 't I &us 	ff Rlrl >!:trf °!, gfl/q;	3Tc/,
+°ff I	&US '8' ff ti/l?G >l:trf °!, gfl/q;	'ffl;:,' #n	°ff 3fk- &us 	ff 'ffl;:,' Wirf °!, gfl/q;
+qiif #n °ff I
+
+(iv)
+
+>Rr/-1l5/ ff fll-{f)	W	fctq;(Y"q ;:rt( 't I ?f.	,	1!cfi" #n	;:::n;:;;::t
+
+'#-I •	ff,	.  .	;:::n;:;;::t
+
+...,_	ff, 'ffl;:,' .	.	';::rr;:;;:t	#/?	'I-I • q 3tk- qiif	.	.	;:::n;:;;::t
+
+
+	
+ff 3-llrdRc/J =q21r1
+
+>l lrf /ct,211 17217't I #	....,_ ff 3-17qq;7	1T[f #2/rf ff ff  c/& 1!cfi" Wirf tf cfJ<rfl 't I
+(v)	3-/lc/:t#ch m-, 3m" R:,.,f?tfistd 1/7/?tq; R21dlc/J/.	.	cfiT 3q21111 cfir f/c/Jd °ff:
+c = 3 x 108 mis
+h = 6·63 x 10-34 Js
+e = 1·6 x 10-19 C
+µ0 = 4n x 10-7 Tm A-1
+
+
+
+
+
+,	.---- l	=  9  x 109 N m2 c-2
+41tEO
+<Pl T;;icfiT i;:;o!.l'-11'"1(me) = 9·1 x 10-31 kg 1'1 cfiT0lll-l1'"1 = 1 ·675 X 10-27 kg si'lcT;icfiT&ll-11'"1= 1·673 x 10-27 kg
+3- tlcflllld) zj@ll = 6·023 x 1023 >I"@  ll-1 
+ G l-11'"1 Rll<1icf> = 1·38 x 10-23 JK-1
+General Instructions :
+(i) All questions are compulsory. There are 27 questions in all.
+(ii) This question paper has four sections : Section A, Section B, Section C and Section D.
+(iii) Section A contains five questions of one mark each, Section B contains seven questions of two marks each, Section C contains twelve questions of three marks each, Section D contains three questions of five marks each.
+(iv) There is no overall choice. However, an internal choice(s) has been provided in two questions of one mark, two questions of two marks, four questions of three marks and three questions of five marks weightage. You have to attempt only one of the choices in such questions.
+
+
+,,,v(..lh<<>f1)11,y\;l'.,l l• ....,v,11, lll.....-1l'IIV>'ll'>' lh,..,v)
+f 55;4;1	2
+
+(v) You may use the following values of physical constants wherever necessary:
+c = 3 x 108 mis
+h = 6·63 x 10-34 Js
+e = 1·6 x 10-19 C
+µ0 = 4n x 10-7 T m A-1
+Eo = 8·854 x 10-12 c2 N-1 m-2
+_l_	= 9 x 109 N m2 c-2
+4nc:
+0
+Mass of electron (me) = 9·1 x 10-31 kg
+•
+Mass of neutron= 1·675 x 10-27 kg
+Mass of proton = 1·673 x 10-27 kg		 
+Avogadro's number= 6·023 x 1023 per gram  mole Boltzmann constant =.,----...1·38 x 10-23 JK-1
+	
+
+	 SECTION A
+1. 	 cf l-1 -tj(ftch	A	B	shl-1 1: -Q	+3Q  3-fltj I	I	-
+ l-9cf,    filch{ ffl  -	._......... d   'Cf2.f6f,,	lllll i  I .........-r-+-	a;aT4l
+
+3{ €11
+fchzj't t11fftjct, lfl lll ---	tf'taD 8t'3-ll, R1 '<1"2ll ........----r-r Gi , R2   1   ---
+rt:"   rt:: 3=11tj  I Q  ?.IB i I   ""'l""'"T"_.	( i) tf't<1{)  tSd,     (ii) --.-r--r-i-+	tSd
+ tSdlll 3=f (tj I t.l ,q ctllI .........+-T-rT  ?	1
+Two identical conducting balls A and B have charges -Q and +3Q respectively. They are brought in contact with each other and then separated by a distance d apart. Find the nature of the Coulomb force between them.
+OR
+A metallic spherical shell has an inner radius R1 and outer radius R2. A charge Q is placed at the centre of the shell. What will be the surface charge density on the (i) inner surface, and (ii) outer surface of the shell?
+
+3
+co  ege
+
+P.T.O.
+un1•
+
+
+a§.
+
+2. fdhtj) (JR nflclfll-1	l"V"t.,  Ni.=tii Sl, cf> cf>T 3-f iaf{ct> St@ucq r	'<1" cif I	St@:ucq R
+t,	3fu:	zjltl Ni<1 fdhllI l	Ill I t I	(JR	-	9 f{ff'	fl l-11.-1 ti I { I
+$1ql <1 ........+-r++?	1
+Under what condition will the current in a wire be the same when connected in series and in parallel of n identical cells each having internal resistance rand external resistance R?
+3. fl1-1a191-1u:g in	qafft 3fl 1.-1 9{<1 1-11.-1q	3ft{-:iilftjaI in  
+t?	1
+3{ 611
+39 cf> 3 1fj{Ui'f  · flfjlll<11	31N   IT  fen
+      qfj.-t cfi{d)	I	1
+The	small ozone layer on top of the	stratosphere is crucial for human survival. Why ?
+OR
+Illustrate	by	giving	suitable	examples,	how	you	can	show	that
+electromagnetic waves carry both energy and momentum.
+4. 3-11 @	S1cf>1 1-	· qfg3-fl P 3fu: Q in	3-11q@a ftjf3/4.;{on ·3=11 @ v in
+m	f.:ruqt ftjtJq Vo cf)l	ftj-q:,co1	,1 , Jl I	I	.	-	qfg	........,.._,.;:rt"	(1{ll €4
+t ? -+	3ft {	"'l"'T"..T_)oT..... "' 6hl Niq: I	-... .. ..	1
+
+
+
+
+
+V
+
+The	figure	shows	the	variation	of	stopping	potential	V	with	the
+frequency v of the incident radiations for two photosensitive metals P and
+Q. Which metal has smaller threshold wavelength? Justify your answer.
+Q
+
+
+
+
+
+
+
+
+
+5. l.-1c11 cf>T
+
+V
+<1{l I zj-t3I {UI 1500 kHz :::- <1cf> 41 <1	t ?	1
+
+Why is ground wave transmission of signals restricted to a frequency of
+1500 kHz?
+,,,v(..lh<<>f1)11,y\;l'.,l l• ....,v,11, lll.....-1l'IIV>'ll'>' lh,..,v)
+f 55;4;1	4
+
+@OS¢[
+SECTIONB
+6. lll3fi Rlll-1 cnT 3=1jSllflll	+;::;..'T"T'T	ch1Ni fen fct;fft 3=I1ct 1a JTiffill	
+t;::m- r,:::rt;:;:r	 lfj{	-	Sier,({ cnT	i fen fil-lfd 3-f lct I 3ficfi -+---,- '9""{
+"'
+ficf>Paa (fii a)	1	_	2
+3{	1
+GJ· f3/4 I I   fil-1lrd{ fil-ld   .	 ct,fil-11 3=1lct I t.1 ,q + cr    -  cr   I (i)
+,     (f   (ii)   ·    lfj{    "'- Ht11f{a ch1Ni 1	2
+Apply Gauss's law to show that for a charged spherical shell, the electric field outside the shell is, as if the entire charge were concentrated at the centre.
+OR
+Two large parallel plane sheets have uniform charge densities  + cr and
+-	cr. Determine the  electric field (i) between the  sheets, and (ii) outside the sheets.
+
+7. fct;fft	fflq (fR	AB	4 A t11{1 S1q1f%a	wl" i 1 3-IR@	3=1jfil{	(fR
+$1q If%a  ti ({(	f3/4q{)a	(fR	fil-1(rd{ (fR	· 0·2 m --,-++ '9""{ 4  x 106 ms-1
+=q1 	,::c:-+--T- S11c:1 P	l1@1-11 i  1 (fR	Slq1f%a	1{1	cf>1{01 3,q jl- ch1ll
+Sile.I '9""{ 3=11()fqa		qf{cr,R1a ch1N1  1	 fichl	cnT f3/4 	tft
+ch1Ni	r	_ 	 ... ...	-...	,._,.....'-'-"""	2
+B
+4A,.	
+0·2m  p
+
+
+
+
+
+A     4 x 106 mis
+A long straight wire AB carries a current of 4 A. A proton P travels at 4 x 106 ms-1 parallel to the wire 0·2 m from it and in a direction opposite to  the  current  as  shown  in  the  figure.  Calculate  the  force  which  the
+magnetic field due to the current carrying wire exerts on the proton. Also specify its direction.
+B
+
+4A
+0·2m  p
+
+
+
+
+
+
+
+
+A	4 x 106 mis
+5
+
+
+P.T.O.
+
+co	ege 
+
+un1•
+
+a§.
+
+
+
+
+8. fdhtj) ac	fct,tj) fil-11	{ 9 of',I  zj- If{,t, Nifich) SI	ch 9 of',I cf>T	51Lf>ci  A
+-	 2.fcf>.-l	d i,	3-iltj ld	fdhltl	Wf i	I	 lf q: -fdt; zj- lf{,t
+ffi2l19.-l	l{I zj- lf{,t	3-i (tj (d	q lffi	l{I	fil-11.-l i	I	2
+A parallel plate capacitor of plate area A each and separation d, is being charged by an ac source. Show that the displacement current inside the capacitor is the same as the current charging the capacitor.
+9. ,::c:-+--T-	$(cf>( (F	fct,tj)	r	P	filf{a	Wf i	I	--	P	15  cm ._....,.....
+f3/4,eft 3ftci	3-iftlfilf{aF	'Cf	w+---r-T-rT	lllf I i	1	3fici
+Lf>lcnfi ._....,..... 10	cm i,	F	--	--	3-iftlfilf{a	?	2
+3{ €11
+fdhtj)	15 cm Lf>lof',fi ._....,.....   3=fqdci	fill-I {@I l(lf Ii   I
+-	cf>T	q Ifd	f3/4ch SI fa f3/4l-	.-l <11 i	I '"""'TMTTT'	9f{ct> fB=I<1
+ch1Niq: I	2
+A beam of light converges at a point P. Now a convex lens is placed in the path of the convergent beam at 15 cm from P. At what point does a beam converge if the convex lens has a focal length 10 cm?
+OR
+An object is kept in front of a  concave mirror  of focal length 15 cm. The
+image formed is real and three times the size of the object. Calculate the distance of the object from the mirror.
+10. ct>1:cu1	o!.11 1 4i1N1Q, fcf> Rf,eft fi (ti "'l&-1-l ff	f3/4il(--l  &11-1<11  R• ,1R1fuia
+SI enI { ·+-rt'\+-r	ch{dl i :	-=- '-	2
+(a) 3-11q@a  Sl l I	3-il R-t
+(b) 		lfch	4>lcnfi 
+Explain	giving	reason,	how	the	resolving	power	of	a	compound microscope depends on the
+(a) frequency of the incident light.
+(b) focal length of the  objective lens.
+11. 3-IR@	faf$£1 $( l(	zj i')fmf	Sll r'lch	&qqf	1141 TPfr i	I
+882 -	881 = A/4 t I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+(b)
+,,,v(..lh<<>f1)11,y\;l'.,l l• ....,v,11, lll.....-1l'IIV>'ll'>' lh,..,v)
+f 55;4;1
+WiY  T1,.c,, )/l> (B!HW 'fffi',<l H1-,f1+Y\ll)';,(1htO,tY/
+
+zjq'Jtfl &lfaof'){O(	Sl@ q	R=lfuiq: I
+.	"'41-$1	&i'Jf ct> SI lea ch) Niq: I
+6
+
+
+2
+
+co	ege 
+
+
+The figure shows a modified Young's double slit experimental set-up. Here SS2 -	SS1 = A/4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) Write the condition for constructive interference.
+(b) Obtain an expression for the fringe width.
+12. fct.;eft n-p-n ?i fc{ cf>T '3tllf RtSd 3,fi'-lfcf>   
+t1	2
+8
+7
+6
+5
+4
+'-'	3
+I	I	2
+1
+0	5  10  15 20
+VcE (V)	> 
+
+(a) VCE = 12·5 V <fm lb = 60 µA	3, :Jct, 't.l l{I, <fm
+(b) ...	crt cal -- cq '	' Niq: I
+A certain n-p-n transistor has the common emitter output characteristics as shown in the figure.
+
+
+
+
+
+
+
+<
+'-'
+0
+I	I
+
+
+
+0	5  10  15 20
+VcE	(V)	>
+(a) Find the emitter current at VCE= 12·5 V and lb=  60 µA, and
+(b) Current gain' ' at this point.
+
+
+7
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+
+
+
+
+13. (a)
+
+@Os
+SECTIONC
+fdhtj)  l'""""T'-3-t qt.1c:il 'ij cfl c.<11	m	tiI{I	-tj{ oI	r"""T	qIciI  Wtf>
+
+qf(f?	""@1*f3/4q: 'Jfciffdh -	'ij	cif I	St@uq tjl- fi 1Nia	I
+
+(b)
+(i) 
+St@uq	(R)	<1IYl-11.-l	(T)	ffl	J.lcfi{)	(Hg)	+;::;..'T"T'T 		I'+>
+3-1 R@ (a)	'ij  '"""'l""n"'  3-fjfi I{	I 4 K	Rchc. Hg	&lqfj({	&l l&-lI
+ch) Niq: I
+
+
+
+
+f 0·16 'a._/ 0·08
+
+
+I I I I I I
+:	Tc
+I
+0	2	4	6	8
+T(K)	>
+3-17{& (a)
+
+(ii) 3-1l @ 	(b)	'ij	  
+t	?
+
+I(mA)
+
+llf>	'ij St@uq ?ft-U( l,l-16h
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+317{& (b)
+(a) Draw a graph showing the variation of current versus voltage in an electrolyte when an external resistance is also connected.
+(b) (i)   The graph between resistance (R) and temperature (T) for Hg is shown in the figure (a). Explain the behaviour of Hg near 4 K.
+
+
+f 0·16
+
+
+
+
+
+
+0
+
+
+,,,v(..lh<<>f1)11,y\;l'.,l l• ....,v,11, lll.....-1l'IIV>'ll'>' lh,..,v)
+f 55;4;1
+WiY  T1,.c,, )/l> (B!HW 'fffi',<l H1-,f1+Y\ll)';,(1htO,tY/
+
+2	4	6	8
+T (K)	>
+Figure (a)
+8
+
+
+
+co ege 
+
+(ii)		In which region of the	graph shown in the figure (b) is the resistance negative and why?
+
+
+
+I		B'		I
+
+
+
+I (mA)
+
+
+
++;)
+
+(J)	Al
+
+
+
+0
+
+
+
+
+
+
+14. (a)	3-IR@
+
+0	Voltage V (V)	>
+Figure (b)
+
+
+
+
+
+
+
+
+
+(i) ---- R1 if cfilft	,
+(ii) R2 if	Cl,	,
+3-f	ct>l{cf>  3-fqf(qfda    
+cf>)Ni I
+
+
+A	B
+
+
+
+
+
+
+
+
+
+
+(b)	cn c:iftc.{	gci.-11	9ltRllt7iftc.{	Sllf3/4cf>al	
+Ni I	3
+3/4 cnT cr,14cr,1£1  oi;ia fftR§A 1	3-IR@ @1·	1 1 ch1N1 fen
+Pf,tj) -q((1ct, cf>T 3-1 ((1 Sl@{)q	Sier,({ f;r ff{a Pf,lll	fict,(1( i  I	3
+
+
+
+9
+co	ege
+
+
+
+P.T.O.
+un1•
+
+
+a§.
+
+(a) For the circuit shown in	the	figure, how would	the	balancing length be affected, if
+(i) R1 is decreased,
+(ii) R2 is increased,
+the other factors remaining the same in the circuit ? Justify your
+answer in each case.
++	-
+
+Ai	J	B
+
+
+
+
+
+•
+
+
+
+
+
+
+
+
+15. 
+(b) 
+Why is a potentiometer preferred over a voltmeter? Give reason.
+OR
+State the underlying principle of meter bridge. Draw the circuit diagram
+and explain how the unknown resistance of..'--4" a conductor can be determined by this method.
+         ii c.I.-1, rr....,r=r		""' cf>OI   fi l-11.-1 fcrti tj 1 a{ act, ,q f{a f?f,l( I J Ill I t -m "CR		1ITTf		ci'-cifq<l  cf>fil-11.-1  j'-citch'lll    B cillllll J Ill  I t  I ( i)	J 1@-:ii 3TT gci.-11 €61Ni   I   ii c.T.-1   filll 'Cf2l ·  bl'5-llI
+5 cm t,    ...., (f    ....----""' ct>oI   'Cf2IT   8i'5-llI "Rtiff{a €61Ni   I	3
+A proton, a deuteron and an alpha particle, are accelerated through the me  potential difference and then subjected to a uniform magnetic field B , perpendicular to the direction of their motions. Compare (i) their kinetic energies, and (ii) if the radius of the circular path described by proton is 5 cm, determine the radii of the paths described by deuteron and alpha particle.
+
+16. (a)	zj- -ij-  l@lll ch'lNi fen fct;tj)	'"114lc.{	--	-ij- -;:::r._-	Slcf>I{ qf{qfda  -:iildlt I
+(b)	fct;tj)	'"1t4lc.{	1,o:gffi cf>T si@\l'f.l 15 Q t (f	............ qq1.-11 fcJ
+ l{I 4 mA t	I	0 - 6 A qf{fi{	it4)c:{ -ij- qf{qfda ch)Ni I	3
+3{ 611
+f?f,tj)	;i)J.ftc.{	cfl c:J.ft c.{ -ij­ 
+
+
+
+f 55;4;1
+WiY  T1,.c,, )/l> (B!HW 'fffi',<l H1-,f1+Y\ll)';,(1htO,tY/
+
+
+
+10
+co	ege 
+
+
+(b) fchftl 1iftc{ · -ij 980 n stRtu'q fi tNia		fchftl Ptf a qf{fi{ c?t ciftc{ {"'31.-ll 1Fft- 1	-ij 470 n cnT st@{l'q fi 1Nia	fict,1 qf{fi{ mm  w '-li1a1  1   1iftc{ cnT stRt\l'q
+chlNi  I	3
+(a) Briefly explain how a galvanometer is converted into an ammeter.
+(b) A galvanometer coil has a resistance of 15 Q and it shows full scale deflection for a current of 4 mA. Convert it into an ammeter of range O to 6 A.
+OR
+(a) Briefly explain how a galvanometer is converted into a voltmeter.
+(b) A voltmeter of a certain range is constructed by connecting a resistance of 980 Q in series with a galvanometer. When the resistance of 470 Q is connected in series, the range gets halved. Find the resistance of the galvanometer.
+17. 3-1R@ -ij	3-f jfiI{ st Rtu'q R	fchftl 3-f Ill aIct,I{ "'311	ct,	MNOP	IfllI
+ll.!11	it fcf,ftl flk:lcl<!._ 1klchl.!!	B it 3-i l<:I: {@I	<f2TT itTT	B i1@1-11.:i	{(\
+
+
+X
+Ptl-.-l R111sta	-;::;:..- &i'31ct, st I ca chl Ni	:
+(a) 'ON' ct,14{a cit	3fichl
+(b) 3-flMN PO
+· lfIB ,:::t::""'-	+;::;..'T"T'T	3-f I q ll ch
+
+
+
+'<f
+ fcr.cfl. cit (emf) SI1ca ,-,J,,,.	 
+I	3
+
+The figure shows a rectangular conducting frame MNOP of resistance R
+placed	partly	in a	perpendicular	magnetic	field	B	and	moved	with velocity		as shown in the figure.
+>
+B
+X	X	X	X
+X	X	M	N
+
+
+X	X	X
+X	X	p
+X	X	X
+
+
+
+-b- - -> 0
+X
+
+11
+
+
+
+
+co	ege
+
+
+
+
+
+P.T.O.
+un1• a§
+
+
+Obtain the expressions for the
+(a) force acting on the arm 'ON' and its direction, and
+(b) power required to move the	frame to get a steady emf induced between the arms MN and PO.
+18. 3-tqqdf '"""T"T"""T	fch 2l +--r._ (Sl cf>T Sl@f3/4i:  I -r-n-r+-+	fch{UI  3=tR@ @*f3/4 I 39lflll		. .	Lf>lct,fi .....,.,i-+		W of>lUfl 3lfqq;{		'Jict, Rr!Rsf I  ch   f3/4  Sllt:a		3=tlq   ;::mnt (f  3fu:
+qf{OI14) _...... 3TT cf>T 3 ci@ cf;)Ni I _	3
+3{ €11
+(a) 	fch "Bf:!'-lilct,1{  fst l-1	3=119<1	m	f3/4=q(1	f3/4=q{UI   llf> @l*f3/4 I
+(b) 	 al-I f3/4=q(1-	3fu: rn l-1-	w	rn l-1	2f	3=tqqJ ict,
+
+cq- 	,q	ch)Ni	I
+
+  ,  ,,	3
+
+Draw a ray diagram to show the image formation of a distant object by a refracting telescope. Write the expression for its angular magnification in terms of the focal lengths of the lenses used. State the important considerations required to achieve large resolution and their consequent limitations.
+	 OR 
+(a) 	Plot	a	graph	for angle	of deviation	as	a	function	of angle of inGidence for a triangular prism.
+(b) Derive the relation for the refractive index of the prism in terms of the angle of minimum deviation and angle of prism.
+
+19. (a)	-tj	3 ci@ ch1N1 fen ;gf3/4fi 3fu: ---rT'T"T"'	Sllflll cf>T Slltl'-li	I	2IT 3fu:
+  cfll I R tScf-, Rch(1I I
+(b)	fch Sile.I 3fu: fch a-cho1	,qf{a '"""'T"""T'	,q{ch f3/4t1cfi	3=tj91<1 &i'31ct,  SI ,ca ch)Ni Ni il fi c& - Tlffi (1{l1 €4 fil-11 m I	3
+3{ €11
+(a) f3/4i  cict?T  3fu: fcf, Sftc:T	fil-11 f3/4t1q act, ,q f{a fcf,it I l1 1	I
+f3/4ificf>
+(i) fi c& - Tlffi (1{l1 t4 cf>T l-11 3lfqq:; ,	(f2lf
+(ii) ?
+SI,  ch SIch{U I	:::-"T"'"+ 3  'ct{	"'l"'T"T'r",. ,.... ch)Ni	I
+• •
+(b) 	 		0 I  cf>T  •	3fich)	-	f lffi  <1{l1 €4	                          
+llf>	f3/4=q{OI	 If	 I	3
+
+
+
+
+,,,v(..lh<<>f1)11,y\;l'.,l l• ....,v,11, lll.....-1l'IIV>'ll'>' lh,..,v)
+f 55;4;1
+WiY  T1,.c,, )/l> (B!HW 'fffi',<l H1-,f1+Y\ll)';,(1htO,tY/
+
+12
+co	ege
+
+(a) State briefly, with what purpose was Davisson and Germer experiment performed and what inference was drawn from this.
+(b) Obtain an expression for the ratio of the accelerating potentials required to accelerate a proton and an a-particle to have the same de-Broglie wavelength associated with them.
+OR
+(a) An electron and a proton are accelerated through the same potential. Which one of the two has
+(i) greater value of de-Broglie wavelength associated with it, and
+(ii) lesser momentum ?	•
+Justify your answer in each case.
+(b) How is the momentum of a particle related with its de-Broglie wavelength ? Show the variation on a graph.
+
+20. (a)
+
+
+
+3-f ftl1J l dl cf>T 3 9	11	....,....._...,	I 4)-st.:i	q{1-11	ncff cfi&TT if
+
+
+
+
+(b)	 1 1'-li'"i q(Jll	f9t?ll	f9t?4l 003-fl	a{11	f(scit1T
+it	Ha
+(?11 '"1  ..  qa-	I	3
+
+
+
+
+
+
+
+21. 
+(a) 
+Using Bohr's postulates, derive the expression for the orbital period of the electron moving in the nth orbit of hydrogen atom.
+(b) Write Rydberg's formula for wavelengths of the spectral lines of hydrogen atom spectrum. Mention to which series in the emission spectrum of hydrogen, Ha line belongs.
+f3/4ftl W .	&l'll'"i	zj  I	m	cq;r	>l"ffi ----+--a,..,;;::;:r	f"3/4-q{UI
+ llf> @*f3/4 I	q9f>	Rf;r l· 'cJ f3/4 IISC:	.	R1f(c) I	tj9f1
+ cG1ll  f3/4@os'"i	 ch1ll  zj(?lll'"1	 ·	tr S1Thhll13TT	 1 1
+ SI  I{	(d  I 	?	3
+Draw a graph showing the variation of binding energy per nucleon with mass number of different nuclei. Write any two salient features of the curve. How does this curve explain the release of energy both in the processes of nuclear fission and fusion ?
+
+13
+co	ege
+
+P.T.O.
+un1•
+
+
+a§.
+
+
+22. a1q T > 0 K	    
+@*f3/4 I
+n-Slcf>I{	Si-3l'Q-tjl cf>1	Slcf>{UI -ij  1<11 -::::-- fa{  -tj( .-t	
+i' '11 f3/4,, p- $1ct,I{	3l'q-qI	cf> -ij	-f<1{ zjltl '4)
+d'>Y"'-	I 3<!.l l:;{OI	ollI&-11 ch)NiQ.	fcn =i:l I fl .-J 3fu: zj4)4)	.	if it
+f<1{ cflll	ct,1 f;r	I	3
+Draw the energy band diagram of (i) n-type, and (ii) p-type semiconductors at temperature T > 0 K.
+In the case of n-type Si-semiconductor, the donor energy level is slightly below the bottom of conduction band whereas in p-type semiconductor, the acceptor energy level is slightly above the top of valence band. Explain, giving examples, what role do these energy levels play in conduction and valence bands.
+23. f3/4,tj) Cf1> its	Iltl s	cf>T (-iftj {-q.-t	ftj-qIij	I	"ij "'T"'T"""r	'11l <11 i ?	3 q	(t,
+3-1 l @	fl l <1I	 flch)  ct>l4sio1I				l&-1I ch1Ni I	V-I 3-f ftl1&1fo1cn1
+fl 1 a1	- - Ni fen f3/4=;eft Lf>lc.lslltls cf>T 39lf7ll sico1 1cr,	l.-t(17	zj -q.-t -ij
+Slcnl{ m	'111<11 i 1	::::	-------	-... -	3
+With what considerations in view is a photodiode fabricated? Explain its working with the help of a suitable diagram. With the help of V-I characteristics, state how photodiode is used to detect optical signals.
+
+
+
+24. (a)	3-tl ll-l l-11§ .-t -;::r...- ......,.,...,_--,r-+	?	\j" (qsf;r tj( cf> <1{l(	l-ll§ cf>	J.=t
+· l-11§ .-t	si(C(1	3-tI  ll-1  l-ll§R1<1 (1{l1	3-1I  ll-1  l-11§ .-t	r-+	· t;::;:m
+3-1 R@ @*f3/4	I
+(b)	(i)	l-11§.-t 	-qcf>i cf>, '<1" (ii) unr,::t	
+l-1 (q cf>T 3 ci@ ch)Ni	I	3
+(a) What is amplitude modulation ? Draw a diagram showing an amplitude modulated wave obtained by modulation of a carrier sinusoidal wave on a modulating signal.
+(b) Define the terms (i) modulation index, and (ii) side bands. Mention the significance of side bands.
+
+
+
+
+
+,,,v(..lh<<>f1)11,y\;l'.,l l• ....,v,11, lll.....-1l'IIV>'ll'>' lh,..,v)
+f 55;4;1
+WiY  T1,.c,, )/l> (B!HW 'fffi',<l H1-,f1+Y\ll)';,(1htO,tY/
+
+14
+co  ege
+
+
+@Os
+SECTIOND
+25. (a)	zj-	 l&-11 4iJ  fcn	fctizj)	l-llrd{ 9 ct,1 zj- 1f{51	fchzj) de
+( )	fi l d-	'-lildl i, ffi	zj-cq1f{51 -	Slct,1{ 3=1(tj ld m '-lildl
+i1
+
+(b)  
+   
+If{aI 'C'	fcf,zj)	l-11rd {	9 ch I zj-cqI f{51	fctizj)	·	'V' ---,-+-----r	a 3-i(tj (d		l(lll i I		 l-lll q =q(<l				'-lildl i
+9 chl3TT	ffl	......,.;-+ --r'T'ri--++	<ft ----r-T"'"'T'T i I	9 ct,13TI	ffl
+ftm 	1.-1	9{1	aich 1  < k  < 2 cf>T	c. I	'31Id I i I	ct,1
+Rl-.-lR=ff(c)a	cflll Sltilq	?
+(i) zj- lf{51	9 chl3TI	ffl
+
+(ii) zj-If{51	zj	a	I	•
+SI,ch  SIct,{oI	..,._..._..... 3f1{	'T"MT..."..."...".T-	4iJ	I
+
+(c)
+3-1 
+R(c)	l'"""'T...._
+
+ftqj
+
+......,.;-+	'x'	Cf> .-(	IfllIl(ll
+
+E	X	Cf>  .-(  ·		!:lllf> @·	 I	5
+
+
+
+
+
+
+
+
+
+
+
+(a) 	 Ch(-iJ-11.-t	....-.
+
+
+
+
+
+
+
+
+
+
+
+
+3{	1
++-"'--- fchzj)	...._	@'31 :::::----r+	-;:;..-  &i'31ch
+
+0 ,q	 4iJ	I	m:	fig .-!	'T'T'T St@ cqf	olll&-11 4iJ	I
+(b) qll(	3-ilq llct, i fcn +---rrr 1";:r::;:I"	....-.	i	2R	ftj q
+tft	m ?	..._..... 3f1{	3 1 {01cft	I	5
+(a) When a  parallel plate capacitor is connected across a de battery,
+explain briefly how the capacitor gets charged.
+(b) A parallel plate capacitor of capacitance 'C' is charged to 'V' volt by a battery. After some time the battery is disconnected and the distance between the plates is doubled. Now a slab of dielectric constant 1 < k < 2 is introduced to fill the space between the plates. How will the following be affected ?
+(i) The electric field between the plates of the capacitor.
+(ii) The energy stored in the capacitor. Justify your answer in each case.
+
+
+15
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+(c) The electric potential as a function of distance 'x' is shown in the figure. Draw a graph of the electric field E as a function of x.
+V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0	1	2	3	X
+OR
+(a) Derive an expression for the potential energy of an electric dipole in a uniform electric field. Explain conditions for stable_and unstable equilibrium.
+(b) Is the electrostatic potential necessarily zero at a point where the electric field is zero? Give an example to support your answer.
+((\
+26. (a)	fchtj)	LCR 3-fj I ......+........	'3-fj I	<fia:01a1' B 3Titf cflll fil-1$d	?
+01<11 thl{ch 'Q' B	-;::r._-	Slchl{.. 'tffl i ? 3-f l @ -q-	'--.
+cf>T 3  q41l I	SI'l-lI ftj<1 .....,...,.....	chI{c:f>1	elf I&-l I 4;) Ni	I +--r--rr	ICf>
+st@(lcq (R) cf>T l-11  1:idl-1 i ?
+
+
+
+
+I
+I	I
+
+
+
+
+
+CO=COr
+
+
+
+
+
+
+
+CO	?
+
+(b)	fdhtj) ac	B 2 µF 'cf>"T zj-cq1f{5t, 100	Q	cf>T stklD cn '<1" 8 H cf>T
+-ij- zj 1N1a	I ac	3-f l Ri	cf;)Ni Nificf,	........+-.-.-.  -ij­
+SIq If%<1 cq I { I	ct,<1l-1 --r+--r+- i I
+fcf.crr. citci (emf) cf>T  I@{ l-11 200 Vi, 3-fj I	-ij­
+(i)   chdl-1  'ql{I,  (f	(ii) ......+........  cf>T   {folct> (f	cq1f{<1I  stklt.-11<1  qf{ct,R1<1
+cf;)Ni I	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,v(..lh<<>f1)11,y\;l'.,l l• ....,v,11, lll.....-1l'IIV>'ll'>' lh,..,v)
+f 55;4;1
+WiY  T1,.c,, )/l> (B!HW 'fffi',<l H1-,f1+Y\ll)';,(1htO,tY/
+
+
+
+
+16
+co	ege  
+
+(a) fdhtj) ac	'-liR51 cf>T	cff2l"T 3-f l @ @1*f3/4 I	fi4i1 Ghll1f3/4fq	l	I 4i1N1
+(f	jl- 4i)lf	B,  u:gffi -ij	fi  I N,	u:gffi	51Lf>ci A
+     cf>lUftlf 3=f l Ri m	W -ij fcr.cfT.  ci 	(emf)	  folcf> l-11
+
++;:;..-rr'T'	&i'-liof', Sllld 4i1Ni I		If	-fdt; jl- oh)lf	--ij
+91 1 -ij Slfll lcf df fcr.cfT.  ci	(emf)  SI	I{	3,9	t I
+
+,:::i:-T-"T' (tT{
+
+
+(b) 3·0  x 10-2  T	V:cfifil-11  Rt'-li jl- oh)lf	-ij 10	cm Bl'3-lll	20
+ filcnl{   u:gffi  50  rad s-1	cn1uftlf  -tj(ci	... ..._... d> cfT'tR  lfi
+"l""T"'i-T---:	t  I
+(i) t1)u:gffi -ij T"T"i-i--r	of',a l-1	3flfia	fcr.cfT.	ci	(emf)	9f{of',R1a
+4))Ni  I
+(ii) 	 u:gffi	10	Q	S1@{)q cf>T	91 1	1Jt	t 'dl 1'0:gffi	-ij
+ q-;aq t11:c1	a19 of',1:cu1 lfia		9f{of',R1a oh)Ni  I		_ 		((\  5
+(a) What do you understand by 'sharpness of resonance' for a series LCR resonant circuit? How is it related with the quality factor 'Q' of the circuit? Using the graphs given in the diagram, explain the factors which affect it. For which graph is the resistance (R) minimum?
+
+R1
+I I
+I	I
+
+
+
+
+
+
+
+
+
+
+(0	= (0 r	(0	?
+
+(b) A 2 µF capacitor, 100 Q resistor and 8 H inductor are connected in series with an ac source. Find the frequency of the ac source for which the current drawn in the circuit is maximum.
+If the  peak  value  of emf  of the  source  is  200 V,  calculate  the
+(i) maximum current, and (ii) inductive and capacitive reactance of the circuit at resonance.
+OR
+
+
+
+17
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+(a) Draw a schematic diagram of an ac generator. Explain its working and obtain the expression for the instantaneous value of the emf in terms of the magnetic field B, number of turns N of the coil of area A rotating with angular frequency ro. Show how an alternating emf is generated by a loop of wire rotating in a magnetic field.
+
+(b) A circular coil of radius 10 cm and 20 turns is rotated about its vertical diameter with angular speed of 50 rad s-1 in a uniform horizontal magnetic field of 3·0 x 10-2 T.
+(i) Calculate the maximum and average emf induced in the coil.
+(ii) If the coil forms a closed loop of resistance 10 Q, calculate the maximum current in the coil and the average power loss due to Joule heating.	  
+27. (a)	--r"T"T"T"	f!l-qch if W f1 3:fu: f2 lf>lct>fl	·	·  ·	Rct>I
+fdh{UI 3=IR(c) cf>T 39lfllI	!tli  Q,fct	. .	cf>T	Rct,I  Cf>lct,f!
+f	Q_ct) w=r	......,...,v-.-,--TT"	l-1l'"ir	end I	SienI{	•.
+
+
+
+....I...!
+-	T	•
+f	f1	f2
+fi4l;ii'"i cfiT	8:ll-1<11	tft ffi	fflf@  I
+(b)	3-tl{(c)	.	.	zj4)'31'"i	si@ l-cif cfiT f?	f;r ff{a chlNi I	5
+f = + 10, - 10,	+ 30 cm
+
+
+0
+
+
+
+
+
+
+
+
+
+3{ 611
+
+I5<cm
+
+>I< 10
+
+cm >I
+
+
+(a) 39	(h 3=1l  (c) 	cf>T 39lfl l I -		oll I		I 6h1Ni	fct 3l0............,l"""'T$' 1ct)I I $16h1of'"i  $1cf>I{	f@cf><1: 0	'311<1I	I
+(b) c)- 9F>TfBa  q1Jl{T ii	ffi	00 q1Jl{T :s WR cf>T "'l""""T"r---r-	cf>{I	91{llftla
+$1ct)l I cfiT d) al	f3/4=q{OI cf>T zj-	-	chlNi I-	,::c:--	m
+<fi9tal	f3/4=q{o1 cf>T	+;::;..'T'T'T !-II'+>	sfff3/4 1-	0	o	n	f3/4=q{o1
+fdh<1	3f<qtSd 3:fu: RfiltS<3	(c)	I	Wf ?	5
+
+
+
+
+
+
+
+
+,,,v(..lh<<>f1)11,y\;l'.,l l• ....,v,11, lll.....-1l'IIV>'ll'>' lh,..,v)
+f 55;4;1
+WiY  T1,.c,, )/l> (B!HW 'fffi',<l H1-,f1+Y\ll)';,(1htO,tY/
+
+
+18
+co	ege 
+
+(a) Using the ray diagram for a system of two lenses of focal lengths
+f1 and f2 in contact with each other, show that the two lens system can be regarded as equivalent to a single lens of focal length f, where
+-	--  1 +  1 •
+
+f	f1	f2
+Also	write	the	relation combination.
+
+
+for	the	equivalent	power	of	the	lens
+
+
+
+
+(b) Determine	the	position	of	the	image	formed	by	the	lens combination given in the figure.
+f = + 10, - 10, + 30 cm
+0	•
+
+
+
+
+
+
+I<	>I< lO	>I
+5cm	cm
+
+
+
+
+
+OR
+
+
+
+
+(a) Explain, using a suitable diagram, how unpolarized light gets linearly polarized by scattering.
+
+
+
+
+(b) Describe briefly the variation of the intensity of transmitted light when a polaroid sheet kept between two crossed polaroids is rotated. Draw the graph depicting the variation of intensity with the angle of rotation. How many maxima and minima would be observed when 0 varies from Oto n?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+co	ege  
+India's Largest Student Review Platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

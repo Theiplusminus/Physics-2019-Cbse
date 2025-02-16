@@ -1,0 +1,901 @@
+CBSE Class 12 Physics Question Paper 2019 (March 5, Set 2- 55/5/2)
+
+
+
+
+
+(i)	
+(ii) 	 rf-71'5/ -#, ill? 2./717 t: &US 31, &US 'if{, &US ?1' 3hr &US C: /
+(iii) &US 31 'If qiil >IR6, >! en cfiT	3fcn # I &US  'If Rlrl >f?rf 6, >! en -#:i 3fcn t I &US ?1' q ti/l?G >f?rf 6, >! en -#, 'ffl;:,' 3Tcn t 3hr &US C: q 'ffl;:,'  rf  6, >! en -#, qiil #n'ff I
+(iv)   rf -71'5/ q ?-IJ{f) w    
+
+ff,: 'ffl;:,'
+
+ill?	'#-	• 'If 3hr qjil	--· ·
+
+, ,	·	'#-	•	'If 3-/lrf!R en -b/2/r/
+
+      'If 3-1/qen/	1l7f -b/2/rf 'If ff #,c/&	 rf	 tf en<rfl # I
+
+( vJ	3-/lc/?2/en m-, 31T7l Ff:,.,f?tfistd 1/7/?tq; R21dien1· -#:i	·	w  3q21111 cp: eenJ t:
+
+c = 3 x 108 mis
+
+
+h = 6·63 x 10-34 Js
+e = 1·6 x 10-19 C  ---­
+µ0 = 4n x 10-7 Tm  A-:1
+Eo = 8·854 x 10-12 c2 N-1 m-2
+
+
+  = 9 x 109 N m2 c-2
+<Plct?T.-t cf>T S:::oll'-11.-t (me) = 9·1 x 10-31 kg
+ l'"i cf>T  l-1l'"i = 1 ·675 x 10-27 kg Sllc.l'"i cf>T  &ll-1l'"i = 1 ·673 x 10-27 kg
+3-f lcflllld) fi&-ll = 6·023 x 1023 >I"@  ll-1 
+
+
+
+
+1-1,v..as (11	,.,uwl'.I 1"1"'v;nf'N'Q 111-.-,r11v,:n-• t11,.,..,.,
+i  55;5;2  J	2
+l•riri<(lr,....,,, ..  tlt,,.,,,,v.U-1\' lll._,.,,.,yjl,lff{Tll<..,<r)
+
+((\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+co	ege	un1• a
+
+General Instructions :
+(i) All questions are compulsory. There are 27 questions in all.
+(ii) This question paper has four sections : Section A, Section B, Section C and Section D.
+(iii) Section A contains five questions of one mark each, Section B contains seven questions of two marks each, Section C contains twelve questions of three marks each, Section D contains three questions of five marks each.
+(iv) There is no overall choice. However, an internal choice(s) has been provided in two questions of one mark, two questions of two marks, four questions of three  marks  and  three  questions  of  five  marks  weightage. You  have  to
+attempt only one of the choices in such questions.	 
+(v) You  may use the following values of physical constants wherever necessary:
+c = 3 x 108 mis	
+h = 6·63 x 10-34 Js	
+e=1•6xlo-19C µ0=4nxl0-7TmA-l
+to= 8·854 x 10-12 c2 N-1 m-2
+
+
+
+Mass of electron (me) = 9·1 x 10-31 kg
+Mass of neutron= 1·675 x 10-27 kg Mass of proton = 1·673 x 10-27 kg
+Avogadro's number= 6·023 x 1023 per gram mole Boltzmann constant = 1·38 x 10-23 JK-1
+
+
+
+
+
+
+3	P.T.O.
+
+co	ege 
+
+un1•
+
+a§.
+
+India's Largest Student Review Platform
+
+
+
+
+
+SECTION A
+
+1.		 1
+
+
+
+qll	 (	SI RI jl-cito(;)ll i:re:r2IT	cit I	jl-cit o(;)ll	
+jl-cit o(;)ll _._.................. ---r-r t?	1
+Write one important property of a paramagnetic material.
+OR
+Do the	diamagnetic substances have resultant magnetic moment in an atom in the absence of external magnetic field?
+
+
+
+2. 3-IR@	 
+
+q tjlRll: 3fu fief,,( S(d)ct,
+a	1
+
+
+
+
+
+
+    irif	zjlll 'Jf.-1	TR cfiT	SI ct)cf> @*f3/4 ll: 3fu 3ficf> I .-1 Il-1 fftR§Ill: I	1
+A J	i
+
+
+
+
+Identify the equivalent gate for the	circuit of a	combination of gates shown in the figure. Write its symbol.
+
+
+1---X
+
+
+OR
+
+
+1-1,v..as (11	,.,uwl'.I 1"1"'v;nf'N'Q 111-.-,r11v,:n-• t11,.,..,.,
+i  55;5;2  J
+l•riri<(lr,....,,, ..  tlt,,.,,,,v.U-1\' lll._,.,,.,yjl,lff{Tll<..,<r)
+
+4
+co	ege 
+
+
+Draw the logic symbol of the gate shown by the combination of gates and write its name.
+An	1
+
+B l	i
+3. rtlll fcf,4) ?iNiR{ cf>T	ISc.cnlD	-ij 3qlf1l1	fi	di	?	1
+Can  a transistor be used as a rectifier ?
+4. fdhtj) 3-f ltj Id	=q1(1cf>	 
+(1J.	qd	--r+---r+	?	1
+"'
+Why is the	direction of the	electric field  due  to a  charged  conducting
+sphere at any point perpendicular to its surface?
+5. ,q{cf> ftj<qq	Lf>(1'"1	-ij	fdhtj)	cicf?l.-l	oi-;¢11lffi  d{ll t:4 cfiT !:Illf>
+@ftj  I	1i> a	1
+Plot a graph of the	de-Broglie wavelength associated with electron as a function of accelerating potential.
+
+
+
+
+6. (a)	si@ 
+  cit?T.-l-ij
+
+(b)
+
+(c)Os'af 
+SECTIONB
+SIltd 	ch) Ni	Nifiij	fdhtj)  
+ftj  =q(1.-l	I
+
+
+											
+
+
+
+
+
+3fu:
+
+
+
+   
+
+"\	,
+Silc.1.-l
+
+
+GIZ:i-ll I	:tftll  'Cf	lll-1.-l	cf>{l 11	?	oll l&-lI
+2
+
+
+(a) Obtain the conditions under which an electron does not suffer any deflection while passing through  a magnetic field.
+(b) Two protons P and Q moving with the same speed pass through the  magnetic fields B1 and	B2 respectively, at  right angles to the
+field directions.  If  I B2 I  >	I B1 I, which of the	two  protons  will
+describe the circular path of smaller radius ? Explain.
+
+
+
+5
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+7. Sl@uq R, a1-cit I 	l 3fu: 3-fjSlf -ct,lc. &1519->a A	f3/4.;4) (fR	a1-cit I  -q- 1	:	2
+3- ljq1<1 -q-	.	-q- ct,lc.l l Ill I	I	(fR	00.-i:lch{  3fioh) al-cit I 	(SJ  (fR
+cit(  1cit(	1	·	'd"rn	'T"T'"T"'n"' -ij- fi 41Nia ,	'ffi fi 7'-li'"1 cf>T
+Sl@uq	oh1Ni I	2
+A wire of resistance R, length l and area of cross-section A, is cut into two parts, having their lengths in the ratio 1 : 2. The shorter wire is now stretched till its length becomes equal to that of the longer wire. If they are now connected in parallel, find the net resistance of the combination.
+8. f4;4)	q:cf>fil-11'"1	"'_Pd;f   i	-ij	'gcf      
+cita---.......	&i'-lict>	,q	NIi	2
+
+
+
+'gcf  _._.............,.	p	fch4)	'gcf	3l	fch4)
+ &i'-lich  ,q ch1Ni I	-;:::;..- tfl" &i'-lict, fftf(c)
+
+al-cit I  'a'	I  ---			-----	_ 	....	--7	_r">,.	\\		 2
+
+Derive an expression for the torque acting on an electric dipole of dipole moment Ji the placed in a uniform electric field E . Write the direction along which the torque acts.
+
+
+OR
+Derive an  expression for the  electric field at  a  point on the  axis of an
+
+electric dipole ofdipole momentJi. Also write its expressionwhen thedistance r >> thelength 'a' of thedipole.
+9. 10 pF ttlf{dl	ficffil-1 'fi-ttlf{;t7	-	(i)	-q-, (ii) -q- 20	V
+.	ft41Ni<1 +--r---TT-T	lIllI	I	SIcn{UI -q-  SI,cf>  zj-cq I f{5t
+fcrt1q I,<1{ (f2l""f '"""T"T"T""T SIch{OI -q- SI  ct, zj-cq I f{5t WU 3-f Nia 3-f Icl I qf{ct,ffta oh)Ni  I	2
+Two identical capacitors of 10 pF each are connected in turn (i) in series, and (ii) in parallel across a 20 V battery. Calculate the potential difference across each capacitor in the first case and charge acquired by each capacitor in the second case.
+
+1-1,v..as (11	,.,uwl'.I 1"1"'v;nf'N'Q 111-.-,r11v,:n-• t11,.,..,.,
+i  55;5;2  J
+l•riri<(lr,....,,, ..  tlt,,.,,,,v.U-1\' lll._,.,,.,yjl,lff{Tll<..,<r)
+
+6
+co	ege 
+
+10. fdhftl 3-f Ill ll-1 l-lT3faa	(i{lI  -ij c)'	·	3-f 11Rilli fk,l-1 1:	640 kHz
+660  kHz  I  qlfjct>	l-ll§cich fuJ ffi	3-tl1Rilli 1<1 ch1Niq: I 3-flllll-l l-ll§ci
+-ij 3-f Iq  !?llch	;;ftI	cfil. l-11	tFt- SII ca ch) Niq: I	2
+
+
+
+0·3  l-ll§ci   -tjcf>ict,	m2l	10	kHz  \l""lflqst)lf	cfl c.<11	fdhftl Zilflqst)lf	ql cn
+cfl c.<11 'cf>T. 3-f lllll-l l-ll§ci	m	lllf I	I	qlfjcf> (i{ll	3=111Ri 10	MHz (f
+ fict,1 3-tIll  ll-1 40 V ,	TITilrt	•	3-t11Ri	3-f Ill  ll-1  qf{ct,faa cf;)Ni q: I	2
+The  frequencies of two side bands in an amplitude modulated wave are 640 kHz and 660 kHz respectively. Find the frequencies of the carrier and the modulating signals. Also obtain the value of the bandwidth required in amplitude modulation.	
+OR	
+A sinusoidal carrier voltage is amplitude modulated by a sinusoidal voltage of 10 kHz with modulation index 0·3. If the carrier frequency is 10 MHz and its amplitude is 40 V, calculate the frequency and amplitude of the two sidebands.   
+11. fdhftl &l lqcf> zj-tjI{	olfq	'cf>T	cilcf> 3-f R@ @*f3/4q:	(i)	
+-	R1Rsl q: )::::=-	2
+Draw a block diagram of a generalized communication system and write the functions of (i) a transmitter, and (ii) a receiver.
+12. R	2R GiZJ-ll I	osfalli  P	Q (1l- q<l	--· -ij 3 lfRISd	 
+I	.......----r+	 l-1 1: I	2J3°I tll{I $1ql <1	(r)  ,	'3 llRISd	t	1-
+qf(o11ifl 11- ch)lf	'cf>T qf{l-1101	ch)Niq: I	2
+Two	coils	P	and	Q	of	radius	R	and	2R	respectively	are	lying	in perpendicular  planes having a common centre. Find the  magnitude and
+direction of the	resultant magnetic field at  the common centre, if they carry the currents I and 2 J3 I respectively.
+
+7
+co	ege
+
+P.T.O.
+un1•
+
+
+a§.
+
+
+
+
+
+
+13.
+
+(c)Os
+SECTIONC
+
+tR 3-fq cfi X, Y	Z cfiT fob#) ac	fi 1 a	'311 1	I cf>q  X
+cfiT ac	fi 1 a ri:"-	ql cal	 l{I	·	 l-11	cf> I	I
+zj 1  d '"""'T"""T'	cfl ca	I ct,I	I{ I	_n ..q.....--=q	,
+2
+	   I
+
+
+
+(a) 3-fq crf X, Y	zcfil 9 -i311R I
+(b) ·	3-fq q	 l-11	fi 1 a	(i)	"P"I--> :!01i6h R Tf{a
+cfil , 'd"2ll (ii)	Sl@ cq	cf;)	3-fj  I	2f@
+  I	3
+
+Given three elements X, Y and Z to be connected across an ac source. With only X connected across the ac source, voltage and current are found to be in the same phase. With only element Yin  the circuit, the voltage
+lags behind the the current in phase byn, while with the element Z in
+2
+
+the circuit, the voltage leads the current in phase by n.
+2
+
+(a) Identify the elements X, Y and Z.
+(b) When all these elements are connected in series across the same source, (i) determine the power factor, and (ii) find out the condition when the circuit is in resonant state.
+
+14. (a)	olfl l cfil fen m ({U(.	ct>i-i31	':;::r" ·	g	l	91<-1{1 ii
+3-iv l :!0((1 (	':;::r" · 'cf>T q{l aI crir cTT	I
+
+
+
+(b) 	 l-ld  
+(c) fct:;eft ila{T s	(-i '"'<1(1	O""l"'+--',l'"""'T	SIct,1 1F	:!Sil1{ 1 l 1 1
+m	91{llfila S1cf>1  1	d)91a1	f3/4=q{o1 cfiT
+
+
+
+
+I 91<-1{1 s
++;::;..'T'T'T m1:n
+3
+
+
+
+1-1,v..as (11	,.,uwl'.I 1"1"'v;nf'N'Q 111-.-,r11v,:n-• t11,.,..,.,
+i  55;5;2  J
+l•riri<(lr,....,,, ..  tlt,,.,,,,v.U-1\' lll._,.,,.,yjl,lff{Tll<..,<r)
+
+8
+co	ege
+
+
+(a) Good quality sunglasses made of polaroids are preferred over ordinary coloured glasses. Explain why.
+(b) How is plane polarized light defined?
+(c) A beam of plane polarised light is passed through a polaroid. Show graphically, variation of the intensity of the transmitted light with angle of rotation of the polaroid.
+
+15. fchzj't 3-f ltj I Q	c)- zjcfi sft @l@ci	,..,..·, Ni.-1ch1 Gi lll r (f	R (R>>r)	'
+SIchI{	f3/4 <1f{<1 --	l Ill I i	fen .........----t-	tSdlll	3=11tj	I t.1.-1,cf	fil-11.-1	I .........----t-	3 llR ISd
+
+,::t:'----T	f3/4 cf	+;::;..'T"T'T	&i'3-1ch	,q	ch) Niq: I
+
+
+
+
+a, b 3fu: c (a<	b < c) blvilll3TI	zjcfi;{1)
+
+
+
+
+f, c1@,
+
+3
+•
+
+		
+lffiA, B 3fu: C	tSdlll
+
+3-1I tj I t.1.-1,cf  shl-1 1:,	PT"T' 3=1jfi I{,	+ cr, - cr 3fu: + cr	I
+
+
+
+
+
+(a)	
+(b)	 r,::r.,:;r  A	C fil-11.-1 f3/4 cf "CR ,	'<11 a,	b 3fu: c -q cq	st Ica ch)Niq: I	3
+
+A charge Q is distributed over the surfaces of two concentric hollow spheres of radii rand R (R >> r), such that their surface charge densities are equal. Derive the expression for the potential at the common centre.
+
+OR
+
+
+
+
+
+
+
+9
+co	ege
+
+P.T.O.
+un1• a§
+
+Three concentric metallic shells A, B and C of radii a, b and c (a < b < c) have surface charge densities+ cr, -  cr and+ cr respectively as shown.
+(a) Obtain the expressions for the potential of three shells A, B and C.
+(b) If shells A and	C are at	the same potential, obtain the relation between a, b and c.
+C
+
+
+
+
+
+
+
+
++cr
+
+
+
+16. v1 3=t I<"t@ cf>T .........-+----	SIcf>I  I fct;tj) SIcf>I 1-""'l""T"T'""'""r+	tS<3..._ 	3=t 19<1'"1 cf>{dI	,	f;mtjt
+fcfcqq V	i  I	3-119@<1 fclfcl-,{of'i cfi'r _""l"'T-"'T'........,.	vl	m ---r-r--++	,	f;mtjt fcl q
+2
+qf{qfaa .........+--T-r  V2 m -:ill<11	I V1 3:fR V2 ifl W if	 lSd c€t	""' 3-fl<"tRi ifl
+O 'J1cp	c(;}Ni  I	----=- \	
+3=t I q@a fclfcl-i{oH c€r --."'T'"r""'T"t----r  '"""'l"'T"1r--++ m ---r-r-i+	'	I 911il acf T	c€r	ct,<1'l
+l  1@'J1	trt r--i-t- m ,'J1 l{l  o ? ct,,{O,	enN1	,	3
+When  light  of frequency  v1  is  incident  on  a  photosensitive surface,  the
+
+stopping potential is V1
+
+. If the frequency of incident radiation becomes
+
+V1 ,
+2
+
+the	stopping potential changes to V2.	Find out the	expression for the threshold frequency for the surface in terms of V1 and V2.
+If  the	frequency  of  incident	radiation	is  doubled,  will  the	maximum
+kinetic energy of the photoelectrons also be doubled ? Give reason.
+
+17. -q(1	o:gffi	.:nl-ftc.{ cf>T fuot;ia fftf@ I	(-ic(;} ct,14fclfu c€r &l I	I cf;)Ni (f
+ (-ic(;} t!>o:gffi	l{I Slqlf%a	-	3,9	-""' fcf,.,.- if;-;::;..- &i'J1cf> Sllta
+ch)Ni	I	I{I §	If%aI cfi'r 9 f{	I tSII fftf@	I	3
+
+
+
+
+
+
+1-1,v..as (11	,.,uwl'.I 1"1"'v;nf'N'Q 111-.-,r11v,:n-• t11,.,..,.,
+i  55;5;2  J
+l•riri<(lr,....,,, ..  tlt,,.,,,,v.U-1\' lll._,.,,.,yjl,lff{Tll<..,<r)
+
+10
+co	ege 
+
+&11&11	ch1N1 fen fch4l	.fl41c{		qf{ { qf{qfd<1	 ch<11	I		si@{)'q	............. qq1 1 fcr
+&i-:itch	 ,q chlNi I...........+-_.... cf>T Sl lcft si@{)q	ch)Ni  I
+
+
+
+        l:CI
+
+Slchl{
+
+
+
+3
+
+
+State the principle of a moving coil galvanometer. Explain its working and obtain the expression for the deflection produced due to the current passed through the coil. Define current sensitivity.
+OR
+Explain how a galvanometer can be converted into an ammeter of a given range. Derive an expression for shunt resistance and current for full scale deflection. Find the effective resistance of the ammeter.
+
+
+1s.	rl::	 1 4l-:it q:,:q1 3-f9.:ft  3-ctNia 3=fqf?.lf	3-iaa: -:itcit  R• •l<1l--l  3=fqf		3=11a1
+1218  A	974·3 A (1{l l t:4	f3/4 fcfi{on	3,	Nfa ch{<1I	I	-=-,---r"+"'"n •
+-cf;)-	q =q I 	ch)Ni	fi9f,l--lOI	I	+--'r-TTT	J	Ill I	'	f{sciflJ	 Rll<1ich,
+R = 1·1 x 107 m-1 I	f9t?41	cf>T	ll--1 tfl- tf1R§I Ni	-:.	..	I	3
+
+A hydrogen atom in its excited state emits radiations of wavelengths 1218 A and 974·3 A when it finally comes to the ground state. Identify the energy levels from where transitions occur. Given Rydberg constant R = 1·i x 107 m-\1... Also specify the spectral series to which these lines
+belong.
+
+
+
+19. (a)	 	I		l--1I 	f<1:C	3TT'QT{	f3/4->4) n-p-n ?i R:C	@o:sl
+f3/4	chlNi I
+(b) 3-ia:coi  3=1ftlci1&1folch  @' f 	 IT  fen 3=1ftlci1&1folch cf>T 
+tllll >[q	+;::;..'T'T'T	39lflll	-	-:itl<11	I	3
+(a) Differentiate between three segments of an n-p-n transistor on the basis of their size and level of doping.
+(b) Draw a plot of transfer characteristic and show which portion of the  characteristic is used in amplification and why.
+
+
+
+
+
+11
+co	ege
+
+
+
+
+
+P.T.O.
+un1•
+
+
+
+
+a§.
+
+
+20. (a)	51, cfi cf>T -	3 1 {01	,l-ll•Fl•211Rcfil 3lR ,l-l1-fl-11Rct>l if>	fuilG<1
+chlNi I
+(b) fchtj) 1filct> cf>T	olll-11 3 cf> fit.1cct>l if> olll-11.-ri if> lfllllf>a B 
+t ? ....._..._.... 3f1{ "c(;)- T"T"T..."...r..".."- ' 3	I  ;coI	ch)Ni	I	3
+
+
+
+
+(a) P11- Rr!Rsla	3=11 :sr cf>T qlffcf>.co1 (i)	T;f),  (ii)	l-lf IRcf>,  3lR
+(iii)	l-1	If{cf>	ch)Ni :
+
+12c	3H	198Hg	3H	197Au	14c
+6	'	2	e,	80	'	1	'	79	'	6
+
+
+(b) fchtj)	cf>T	l '-11 3 ch)	l-11  fi I	Slcf>I{	+,-- cf>.Cdl t ?
+Slct,1{	 l	I ch)Ni fen fchtj)	ch)l(	cf>T t.l ,q	lfilcf> if> l '-11
+  cflll  "	=q1	l	:=:	\\	3
+(a) Distinguish between isotopes and isobars, giving one example for each. ,
+/:.
+(b) Why is the mass of a nucleus always less than the sum of the masses of its constituents ? Write one example to justify your answer.
+
+OR
+
+(a) Classify the following six nuclides into (i) isotones, (ii) isotopes, and (iii) isobars :
+12c	3H	198H	3H	197Au	14c
+6 ,	2  e	'	80	g'	1	'	79	'	6
+
+(b) How does the size of a nucleus depend on its mass number? Hence explain why the density of nuclear matter should be independent of the size of the nucleus.
+
+
+
+
+
+
+1-1,v..as (11	,.,uwl'.I 1"1"'v;nf'N'Q 111-.-,r11v,:n-• t11,.,..,.,
+i  55;5;2  J
+l•riri<(lr,....,,, ..  tlt,,.,,,,v.U-1\' lll._,.,,.,yjl,lff{Tll<..,<r)
+
+12
+co	ege
+
+
+21. (a)	 
+(b) -:iicif ?J 3-f  lqffi	Ni'"icfi  fil-1l'"i  3-f  Ill ll-1 (a)	(f	fil-1l'"i  ct,ci lrd{ ( )	­ 3l'lltluqo1	cn{dl	'	'ffi'	 @tj-;{01		-ij dl al	f3/4a{OI
+o -J1q-i	 ,q chlNi  1	$1q-il{ zjq7t51l	f3/4'"i , fl olf Rtct>{OI	-;:;..- SIRtcifrq
+Sllld cfilNi I	3
+(a) What do you understand by coherent sources?
+(b) Derive the expression for the intensity distribution in the interference pattern on the screen when two harmonic waves having same amplitude (a) and phase difference( ) are superposed on each other. Hence obtain the conditions for constructive and destructive interference.
+22. 1¢ f4>tj)	B 90  cm	-r++	i I fct,tj) 3f1ci $	$	?J
+f3/4ftl	Rtltl,  Ni'"icf,	20 cm cf>T· 1! ct,'"i '	cfiT	S1Rtf3/41-cif
+cit'"idl i I $	lf>lcnfl -r++ qf{q-;Rrfa chlNi  I	3
+
+
+
+
+
+
+
+20 cm Cf>lcf>fi -r++ q;r	3flci $	15 cm lf>lct,B -r++	41 3-itjdci $	B
+30  cm -r-r+	i (f	·	·	·	mw	3l	fiq1dl	I	3f1ci
+$	fill-I 	30	cm  -r++	i, ffi fi -:ii'"i	3-f@q  S1Rtf3/41-cif	·
+qf{q-;Rrfa  chlNi I	cfiT 3=fqdci $	fill-I  30 cm -r++	{@I  -:iildl ffi
+    	 3
+A screen is placed 90 cm from an object. The image of the object on the screen is formed by a convex lens at two different positions separated by 20 cm. Calculate the focal length of the lens.
+OR
+A convex lens of focal length 20 cm and a concave lens of focal length 15 cm are kept 30 cm apart with their principal axes coincident. When an object is placed 30 cm in front of the convex lens, calculate the position of the final image formed by the combination. Would this result change if the object were placed 30 cm in front of the concave lens? Give reason.
+
+
+
+13
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+23. ffl$!l1q.-1  I.Cl	qf{ ltSII faRsl I de	WU fcotj) zj- lf{?I	3-fltj l<1	l-lll
+ll I	     t?
+olll&-11		I	3
+Define displacement current. What role does it play while charging a capacitor by de source. Is the value of displacement current same as that of the conduction current ? Explain.
+24. 3-11 @ -ij q =qR	Ich citIll -ij Sl-qIa .-1	3-f	chf	a fco41 3lc4=qI a ch s 14't s	cf>T.
+v-I 3=I  a1&1faI ch   1rll I l Ill I t  1
+I (mA)
+
+
+
+q 
+3-1
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+I (µA)
+3q4)J1	3lQ-ql(1ch  slllls
+
+
+
+q =q1Pt  1
+
+
+
+(b)
+
+
+(c)
+
+
+@l.ftj	 I	
+3-1 
+a1a.=1fo1ch	S11ca	   
+3qlfll(	zj- -ij  l&-11 	 I	3
+
+The figure shows the V-I characteristic of a semiconductor diode designed to operate under reverse bias.
+I (mA)
+
+
+Forward bias
+->V(V)
+
+
+I (µA)
+(a) Identify the semiconductor diode used.
+(b) Draw the circuit diagram to obtain the given characteristics of this device.
+(c) Briefly explain one use of this device.
+
+
+1-1,v..as (11	,.,uwl'.I 1"1"'v;nf'N'Q 111-.-,r11v,:n-• t11,.,..,.,
+i  55;5;2  J
+l•riri<(lr,....,,, ..  tlt,,.,,,,v.U-1\' lll._,.,,.,yjl,lff{Tll<..,<r)
+
+14
+co	ege 
+
+
+
+
+SECTIOND
+25. (a)	f?2f@	fof,41 zj <t>	 8:l-l IT q:;-r .-lll-liRha	fof,{01	 1 @	sff e;
+NiBif 3iRIl-l stRIf3/4l-cit f9 tSC: '"""'l""l'-n cfiT	<1l-1 ....,-++	cit.-l<11 i	I
+(b) 	 Bcr,1	lier,, Gtq-;1 cfiT gci.-ll	9->lcf>B	·	l{cf> q:;-r cflll·
+i ? &l  l&-lI ch)Nie; I
+(c) 			 ll	ct, cfiT 9->l ct>fi ....,-++ 4	cm i, 'Jf cit F4,	Gtct,I cfiT 9-1> cf>B ....,-++ 10	cm i I 6 cm....,-++	f?	i I
+
+(i)
+
+
+(ii)
+
+ Behl 3-i@l-l  st@f3/4l-cit  Rcf>c. 1";:r::;:I"	cit.-ld I i,	zj (t>	8:l-l  IT
+cfiT 3lfcf	l-1aI qf(q-;R1a ch) Nie; 1
+zj (t>  8:l-1 IT cfiT ci  l-cit 1	tft qf(ct,R1a ch) Nie; 1	5
+
+
+			
+
+
+(a) .-lll-1ifof,a Rf;{UI 3=I R@ cfiT Bfjlll<1I	'"1  9{lqdf  -;rr,:r  ·
+cnl4 fq cfiT &l	l&-lI ch) Nit; I	     
+
+(b) 
+
+
+          :a:tstcfla1	@l	rtci	:::-"'T""'+	3-1qf(tSct>a		 9->lchB '--+-t- 200cm		 Gtcf>I cfiT 9->lcf,B ._...,;,-+. 10 cm i, q:;-r 39lflll	 BI 'it q:;-r B8tcf>c. 3=II cf>ci.-l cf>{.-l I =qI fj <11 i	I :::+f\"T"""'r7		8 ct,I cfiT 
+Bl-lllflfita ,::t::'"'--	-	q:;-r  st@f3/41-cit	 8ct,1	40 cm ._...,;,-+.	f?
+
+SIIca	f-h{dI  i	I-	stRIRtl-cit  q:;-r	&l IB	6·0  cm  i	-I
+
+BI 'it q:;-r
+
+ lcf>ci'{	ch)Nie;  I	(	lllf I	i  fen -	1! cft	cfiT	3flBa
+  = 1·5 X 1011 m)	5
+(a) Draw a labelled ray diagram of compound microscope, when final image forms at the least distance of distinct vision.
+(b) Why is its objective of short focal length and of short aperture, compared to its eyepiece? Explain.
+(c) The focal length of the objective is 4 cm while that of eyepiece is 10 cm. The object is placed at a distance of 6 cm from the objective lens.
+(i) Calculate the magnifying power of the compound microscope, if its final image is formed at the near point.
+(ii) Also calculate length of the  compound microscope.
+OR
+
+15	P.T.O.
+
+co	ege
+
+un1•
+
+a§.
+
+(a) With the help of a labelled ray diagram, explain the construction and working of a Cassegrain reflecting telescope.
+(b) An amateur astronomer wishes to estimate roughly the size of the Sun	using his crude telescope consisting of an		objective lens of focal length 200 cm and		an		eyepiece of focal length 10 cm. By adjusting	the	distance	of	the	eyepiece	from	the	objective,	he obtains an image of the Sun on a screen 40 cm behind the eyepiece. The	 diameter	 of	the	Sun's	image	is	measured	to	be	6·0	cm. Estimate the Sun's size, given that the average Earth-Sun distance is 1·5 x 1011 m.
+•
+26. (a)	f3/4:;tj)	'	Nt il  ..........-+--7	ti({(	I ffi	W1° '	-;::;..- 3-t(rdf{ch St@D'f.l,
+fcf .cfT. citc?I (emf)	c.f4'"ic?t ftj cflrd{	ffi	cq ,q	ch)Nfe; I
+
+ V	I	ffi	llf> @*f3/4e;
+
+
+r;::r
+
+l-lfj(q	olll&-11 ch)Nf e; I
+
+
+
+
+(b)	998 Q St@ilcq cf>T	crt c:iflc:;c 2 V fcf .cfT. citc?t (emf)	2 Q  3-tiaf(ch
+St@ilcq	f€t)tj)	·	'il- fi4'Nta	1 ql c:iflc:{	·	ffi -a-irr
+c.f4'"i(17	ffi	tf1" fcf cf l d{	ch)Nfe; I q( c.i:flc.{	91dilicf>
+     	 5
+
+
+
+
+
+
+
+
+
+    filf1Nia	I W	filfl'-li'"i	fcf .cfT. citc?t (emf)	3=1iaf(q-;
+St@il q	+;::;..'T'T'T &i'-lict,	,q	ch) NiC; I
+(b)	fcf .cfT. citc?t (emf) 1·5 V	3-tiaf(cf> St@{)cq r	cf l-1		 filll Nia	-a-2TT	filll Nia 1 7g	4	l-1 St@ilm	fill1 '-li'"i
+citI	-	cf>T ti I { I SI I '"i	W	I ::-::-........ 3 til St@{) cq cf>T ,::i::"'T"""P cfi c.iflc.{
+       c.f4'"ic?t cfl c.dl 1·4 V l-119dl	I Sl cf>	cf>T 3=fl•df(ch St@{)cq qf(ct,Rrfa ch1Nte;1			5
+
+
+
+1-1,v..as (11	,.,uwl'.I 1"1"'v;nf'N'Q 111-.-,r11v,:n-• t11,.,..,.,
+i  55;5;2  J
+l•riri<(lr,....,,, ..  tlt,,.,,,,v.U-1\' lll._,.,,.,yjl,lff{Tll<..,<r)
+
+
+16
+co	ege 
+
+
+(a) Derive a relation between the internal resistance, emf and terminal potential difference of a cell from which current I is drawn. Draw V vs I graph for a cell and explain its significance.
+(b) A voltmeter of resistance 998 Q is connected across a cell of emf 2 V and internal resistance 2 Q. Find the potential difference across the voltmeter and also across the terminals of the cell. Estimate the percentage error in the reading of the voltmeter.
+
+OR
+(a) Two cells of different emfs and internal resistances are connected in parallel with one another. Derive the expression for the equivalent   emf  and   equivalent   internal   resistance  of  the
+combination.	              
+(b) Two identical cells of emf 1·5 V and internal resistance r are each
+
+
+
+,..  ..,.
+
+connected in parallel providing a supply to an external circuit consisting of two resistances of 17 Q each joined in parallel. A very high resistance voltmeter reads the terminal voltage of the cell to be 1·4 V. Calculate the internal resistance of each cell.
+
+
+
+
+
+27. (a)	cil-citl  'l'	St@{)q 'R'	qJg  ·	-."'T'"r""'T"r--""T  'v'  'B	cn{llll
+i	·	mu Gt I 'l'	filll
+'T"T"'H--T: ............... cf>{d) i
+tjcilf	'B  {<11 i (f2lf	tjcilf	cil-cittj<l i I 3l	fll-1lrd{
+Rlld	l;cf>fll-11.-1  1l-citch1ll	'B'W   1.-1	3qff' i I
+(i)	
+(ii) 1l-citch1ll	-ij- $1q 1fua	l{I	cf>l{OI			ct,14{a citci
+· qf{l-11 oI	+--r-n-r-T	t;::;:m	o	'3-1ch	Ia ch) Ni 	I
+
+(iii) 	Slcf>I{,	    Sllta ch1Ni I
+
+
+17
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+(b)	fdhftl	1,0:sffi	fdhftl 11- 4->)lf	B	Rlla WT B lfj{ Plq-;1a1
+l(lf (	I	w 1,u:gffi	:::-+.......+	St@{)q	......,........Ot	<fl" '	cflll w
+)u:gffi	B lfj{ Plq-;1a.-11	{a ?	5
+
+
+
+
+
+(a)		3-f Illa Iq-;1{  u:sffi fchBl q:cr,l-11.-1 1-ch1ll tjt 8JUT  ......++-+--r- fci.cfT.  a (emf) 3th: I{I   I@{ l-11.-1 tjt    chlNi I  14>    a (emf) f3/4=q{o1	,f I
+
+
+         wt·	I fchftl &i'Sf q-; SI Ica 4->)Ni	I (mt)	m	T"H-r--r  fci.cfT.
+
+
+Cb)	 a.-11q-;1{ ---	@1@<1	B .......-+- ----  fr1{dl	_.+--T-
+fchftl J.i ch a	cf>T 3-fj q q-;{d)	I	St @	f3/4ttll
+3lftf cfllI R&if> Ptq-;1a	q-;a	? elf I	I chlNi I	. ....	5
+(a) A metallic rod of length 'l' and resistance 'R' is rotated with a frequency 'v' with one end hinged at the centre and the other end at the circumference of a circular metallic ring of radius 'l', about an axis passing through the centre and perpendicular to the plane of the ring. A constant and uniform magnetic field 'B' parallel to the axis is present everywhere.
+(i) =-- Derive the expression for the induced emf and the current in the rod.
+(ii) Due to the presence of current in the rod and of the magnetic field, find the expression for the magnitude and direction of the force acting on this rod.
+(iii) Hence, obtain an expression for the power required to rotate the rod.
+(b) A copper coil is taken out of a magnetic field with a fixed velocity. Will it be easy to remove it from the same field if its ohmic resistance is increased ?
+
+OR
+
+
+
+
+
+
+1-1,v..as (11	,.,uwl'.I 1"1"'v;nf'N'Q 111-.-,r11v,:n-• t11,.,..,.,
+i  55;5;2  J
+l•riri<(lr,....,,, ..  tlt,,.,,,,v.U-1\' lll._,.,,.,yjl,lff{Tll<..,<r)
+
+18
+co	ege 
+
+
+(a) A rectangular coil rotates in a uniform magnetic field. Obtain an expression for induced emf and current at any instant. Also find their peak values. Show the variation of induced emf versus angle of rotation (cot) on a graph.
+(b) An iron bar falling through the hollow region of a thick cylindrical shell made of copper experiences a retarding force. What can you conclude about the nature of the iron bar ? Explain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+co	ege  
+India's Largest Student Review Platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1051 @@
+CBSE Class 12 Physics Question Paper 2020 (March 2, Set 1 - 55/1/1)
+
+
+
+
+Hll-//r2/	f4	/:
+R,,1/?tfistd R{ 1,· "cfiT	e1c1mift 8 'T"T"'f---irT- 3i7r Jrfc/?7  e.&{) 8 q/&rf c/ilfJIQ. :
+(i) >Rrf-1l5/ ill? &US/. if fcr'J./tfJtd fct,217 17217 -g- 'cfi, 6',	11 3i7r cl I
+(ii) p:{ >Rrf-1l5/ if 3 7 >l!lrf	ff I ::;r->..... Wirf 3-IRc/12/r ff I
+(iii) @Osqi	-	Wirf eiffe/1 1 8 20	def> :;_-;'1--'r f?g-JdV2/ Wirf 6, >lr#cf> >IR 1
+-g/
+
+
+
+
+
+
+
+
+
+
+•
+31cfi 'cfiT
+
+(iv) @Os 6f - >IR Hl-6#7 21	ff 27	de/?  f?g-Jd<?2! >l!lrf 6, 3/r#c/? >IR 2  -.·.	'cfiT -g I
+(v) @Os		11 -	>l!lrf	eiffe/1 28	8 34	def>  --++r-+-Jd<?2!  >lc/?I<	>IR 6, >tr#c/?  Wirf
+3 .	·'cfif-g I
+(vi) &OS  cl -	Wirf	eiffe/1 35	8 37	def>	eft --++r-+-JdV2/  >lc/?7<	Wirf	6, >1r#c1,  Wirf
+5 .	·'cfif-g/
+(vii) >Rrf-1l5/  if	?-11-BI fclc1>crq -;rt/ -g I 'ff.	,	T:[cfi-T:[cfi 3Tcfi	_y_,•	if,  -	· ·
+_y_,•	if, eft;:r_ eft;:r .	.	-_,	T:[cfi Wirf if d"2ll qiq- qi=q  --·.	-_,	.
+if 31/dRc/?  fclc1>crq "";::!'.,.,..,..,. 17217 -g I #	_y_,•	if #?c/& T:[cfi tf fclct>crq 'cfiT Jd< c{/(JIQ. I
+(viii) 3-lfrtRch, 31/c/!!2/cf>dljHI<, >tr#c/?  &as 	3i7r Wirf	??12/ ?.12/7/#d -,......;--,+7T"T"  Rlf 1T(f
+ff I
+
+(ix) 
+(x) 
+
+#>	c12<1· 312/c!T &111 Ji1&1·	>1ef/11 qfJ- 3-!jJ./IPt	• -g 1	
+3-//c/!12/cf>	31111' R:,,1/?tfistd 1/71?/ct, R21d1ch1·	
+C = 3 X 108 m/s	
+h = 6·63 x 10-34 Js	
+e=1·6xlo-19C
+µ0=4nx 10-7TmA-1
+Eo = 8·854 x 10-12 c2 N-1 m-2
+_l_	= 9 x 109 N m2 c-2
+4nc0
+;icf?T..J cf;"T s;:_c,;qq I..J (me) = 9·1 x 10-31 kg
+T	cf;"T	olll-11 = 1·675 x 10-27 kg
+Sile.I cf;"T	l-11  = 1·673 x 10-27 kg
+3=f lqlllld) fi&-ll = 6·023 x 1023 >I"@  ll-1 
+ c.'itl-11 Rll<1ict) = 1·38 x 10-23 JK-1
+"'
+
+
+2
+
+
+
+
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper comprises four Sections - A, B, C and D.
+(ii) There are 37 questions in the question paper. All questions are compulsory.
+(iii) Section A - Questions no. 1 to 20 are very short answer type questions, carrying one mark each.
+(iv) Section B - Questions no. 21 to 27 are short answer type questions, carrying two marks each.
+(v) Section C - Questions no. 28 to 34 are long answer type questions, carrying three marks each.
+(vi) Section D - Questions no. 35 to 37 are also long answer type questions, carrying five marks each.
+(vii) There is no overall choice in the question paper. However, an internal choice  has  been  provided  in  2  questions  of  1  mark, 2  questions  of 2 marks, 1 question of three marks and all the 3 questions of five marks. You have to attempt only one of the choices in such questions.
+(viii) In addition to this, separate instructions are given with each section and question, wherever necessary.
+(ix) Use of calculators and log tables is not permitted.  
+(x) You may use the following values of physical constants wherever necessary.
+c = 3 x 108 mis	
+h = 6·63 x 10-34 Js
+e=1·6xlo-19C
+µ0 = 4n x 10-7 Tm A1
+Eo = 8·854 x 10-12 c2 N-1 m-2
+_l_	= 9 x 109 N m2 c-2
+4rrco
+Mass of electron (me) = 9·1 x 10-31 kg
+Mass of neutron= 1·675 x 10-27 kg Mass of proton = 1·673 x 10-27 kg
+Avogadro's number= 6·023 x 1023 per gram mole
+Boltzmann constant = 1·38 x 10-23 JK-1
+3	P.T.O.
+
+
+
+
+
+
+
+
+
+
+1. 	fch41	tSa B	.	q((11	      Rcf>l(11	fict,a1	fen				1
+(A) a B ,::Z::"T"""'P	ltj  I qf{cstc&	1
+(B) a	"'T'"t-r-T"	fi l-11'"i	-	f3/4 l-11'"i	I
+(C) a f\	r	B._......_....	r	def> 
+(D) 
+2. L	  ct,'"i (f2l"f	+ q 31tt - q 3-t(tj fl B cif'"il	fof,tj)	cf>fil-ll'"i
+"'- £if	 l	ltjf if I	cM iBR- Rt'-li -	1
+        	 a
+(B)	
+(C) - qLE
+(D) -2	qLE
+3.  q1 R14li-t1cl f3/4-itj)	cf>T fcf.crr. cif(1 (emf) l-119 ficf><il	ct lfch	1
+(A) Yl R14ll-llc{ "cM §!:11 <11 m	'--+-++  t I
+(B)  
+(C) zjg(1'"i	fi l-1ll  q1 R1 , l-17c{  <fR B ,::Z::"'T""'T		1{  1 St q  1	a	 
+(D) 3-tlr<if{cf> St@uq "cM '3qm	'cTT ----r-r---i'+  t I
+4. fct;tj)	.	B 4 Q 31tt 6 Q	SIRtu	·	R1	31tt R2 cfiT
+l  Ill  I t  I	·	S1Rt\1 · 'ij 1fcta	cf>T 3-tj91a P1 : P2	1
+(A) 4: 9
+(B) 3 : 2
+(C) 9 : 4
+(D) 2 : 3
+
+
+I!]
+-
+SECTION A
+Note :		Select	the	most	appropriate	option	from	those	given	below	each question:
+1. If the net electric flux through a closed surface is zero, then we can infer	1
+(A) no net  charge is enclosed by the surface.
+(B) uniform electric field exists within the surface.
+(C) electric potential varies from point to point inside the surface.
+(D) charge is present inside the surface.
+2. An	electric	dipole	consisting	of charges	+ q	and	- q  separated	by  a
+
+distance L is in stable equilibrium in a uniform electric field electrostatic potential energy of the dipole is
+(A) qLE
+(B) zero
+(C) - qLE
+(D) -  2 qE L:.	,
+
+
+3. A potentiometer can measure emf of a cell because
+(A) the sensitivity of potentiometer is large.
+(B) no current is drawn from the cell at balance.
+(C) no current flows in the wire of potentiometer at balance.
+(D) internal resistance of cell is neglected.
+
+E. he
+
+
+
+
+
+
+
+
+1
+
+
+
+4. Two resistors R1 and R2 of 4 Q and 6 Q are connected in parallel across a battery. The ratio of power dissipated in them, P1: P2 will be	1
+(A) 4: 9
+(B) 3 : 2
+(C) 9 : 4
+(D) 2 : 3
+
+5	P.T.O.
+
+
+
+5. f3/4:;41	I{Iq I l	) u:gffi cfiT 11-cs1cf;)ll	........ R1 •IR1Rsla -ij
+
+cf>{dI?1(A) ,o:gffi -ij tf>UfiI
+(B) t!>osffi	3-fjSlf -cf>lc cnT  51Lf>ci
+(C) t!>osffi -ij Slql a  l{I
+(D) 	 ,osci1	tf>U cnT '9GJ
+6. fct,tj) @lTiffill -;:rr;r	w:f cfiT est (	l{ch	1
+(A) f3/4 .-1 &1qa 1 -ij c	I
+(B) S1@f3/41-cs1	=qqcf>	cf,q	I
+(C) 51@f3/41-cs1	 	l ':l1 -ij c	"-"1l	I
+(D) cil-cit I	 cf>q	I	•	
+7. 3-tqqJ.-ticf, 1·47	ct>i-i31	cst.-11	3	1ftci  w:f fct,tj)	-ij	I
+3-f  ll W '111<11	3fu cf,i=q	 qaci  q cf,I	-:,	olfqfjl{  ch{dl	I	cfiT
+3-tqq J.-1ict>	:.::	-		,c.,.---,.,	'IIIJ-'	1
+(A) 1·47 -------------	
+(B) 1·62
+(C) 1·33
+(D) 1·51	
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. { ':hli qT:sci	3-fj I{ P11-.-1R1Rsla -ij	cf>t.:r-m en	· ?	1
+(A) f3/4:;tj) q{ql'1	n.	3 cf>I 3lftlcf,i I tllll (c)lcil	I
+(B) ·	3W  (1cts;T.:i	chl4{a	ciTl-fl  cstci	Sl lq -ij qf{soq1
+i1
+(C) q{ql'1 cfiT 3lftlct>i I	olfq1.-1 (f2l""f 3 cf,I	 .-lltj I 3 cf,	 i a 
+I
+  l(lfl I
+6
+
+I!]
+-
+5. Thmaegnetic dipole moment of a current carrying coil does not	depend
+upon	1
+(A) number of turns of the  coil.
+(B) cross-sectional area of the  coil.
+(C) current flowing in the coil.
+(D) material of the  turns of the  coil.
+
+6. Larger aperture of objective lens in an astronomical telescope	1
+(A) increases the resolving power of telescope.
+(B) decreases the brightness of the image.
+(C) increases the size of the image.
+(D) decreases the length of the  telescope.
+•
+7. A biconvex lens of glass having refractive index 1·47 is immersed in a liquid. It	becomes invisible and	behaves as	a	plane glass plate. The refractive index of the liquid is				1
+(A) 1·47
+(B) 
+(C) 
+(D) 
+
+8. For	a  glass  prism, the angle of minimum  deviation will be smallest for
+the light of 	 1
+(A) red colour.
+(B) blue colour.
+(C) yellow colour.
+(D) green colour.
+9. Which of the following statements is not correct according to Rutherford model?	1
+(A) Most of the space inside an atom is empty.
+(B) The	electrons revolve around the nucleus under the influence of coulomb force acting on them.
+(C) Most part of the	mass of the	atom and its	positive charge are concentrated at its centre.
+(D) The stability of atom was established by the model.
+7	P.T.O.
+
+[!l [!l
+
+
+10. 0·5 eV chl4Lf>ci.-l ·		4tllfrt1jcf>	ISd	1 eV 3fu 2 ev-=----r+3TI	':f>lc.1.-l 9f>l-llll(1 3=119<1.-l ,:::c:-_......	I	.	Slcf-,{Ufl		 cf-,dl-1 3'>'-li	Slchl lch- cf?T;ii	ll@'Jf
+3TI cnT 3=1j91a	1
+(A)  1:2
+(B) 1 : 1
+(C) 1 : 3
+(D) 1 : 4
+:	Jlf!jch Jd< ff ftm	.	qf/ T"7"T'"'""T' c/ilfJ!l{ :
+11. cft"	fcf,4) 2ll.-l	jl- cfilll	3fu	.....,...-+-rn-	91',l-l I: 0·3 G	30°	I W
+	1.-l	cft"	jl- cfilll	'3> cfi €.le.cf-> cf>T l-11.-l 		I	1
+
+12. fco4l ?l• LF>T4{
+
+t11{13TI	R••lal-1	qc:ff1a
+
+
+	
+13. f3/4,,4) qf{.-lI ff1chI	(1 l- I	3fi o[;) 3-f jSIf	-cf-,I c.	51Cf>ci	+--'r--T',-	qf{qd.-l
+tf>U	ft&-ll	.	i	I W	qf{.-llkict-,1 cf>T	 - {cf>,q
+:fTT	'Jf I l{l  11 I	---- 	1
+14. 9{l-11'1 l-llsci	3-tjfil{  ct?T.-l	en	.......+-.-1-	¢1Tlffi a{ll t:4
+
+
+	
+
+15. fcf,4) ct,j=q
+
+
+
+3{ €11
+ 	 1
+=ll=t I  fuyq it	{cfl	fcf,4) Slcf-,1 1	{OI	fu l-1	
+
+ {I { 3-t dl-l f3/4=qci.-l._......_... i	I W	fu l-1	2f	3-t9tjd.-l ict-, cf>T l-11.-l	_
+i1	1
+:	f:/1.1/?tfistd	Jfl< c{)(J!l{ :
+16. Qfullt{- cR=itjci ..............	Rlll-1	llfolcflll	k1Rsl I	1
+
+
+3{ €11
+f3/4,,4)	cf?l.-l	f3/4,,4) Sil c.T.-l	-cl lci	fil-11.-l	I	
+3=1j9 la	ch)Ni	I	1
+8
+
+I!]
+-
+10. Photons of energies 1 eV and 2 eV are successively incident on a metallic
+surface of work function	0·5 eV. The	ratio of kinetic energy of most energetic photoelectrons in the two cases will be	1
+(A)  1:2
+(B) 1 : 1
+(C) 1 : 3
+(D) 1 : 4
+
+Note :	Fill in the blanks with appropriate answer :
+11. The magnetic field and angle of dip at a place on the earth are 0·3 G and 30°, respectively. The value of vertical component of the earth's magnetic
+field at the place is 	.	1
+
+12. Laminated iron sheets are used to minimize -----
+core of a transformer.
+
+currents in the
+1
+
+13. The number of turns of a		solenoid are	doubled without	changing its length and area of cross-section. The self-inductance of the  solenoid will become\----=======-- times.			                    1
+14. According to Bohr's atomic model, the circumference of the electron orbit
+is always an-- -  multiple of de Broglie wavelength.	1
+	 -=,.,  OR
+In-decay, the parent and daughter nuclei have the same number of
+	 1
+15. A ray  of light on passing through an equilateral glass prism, suffers a minimum	deviation	equal	to	the	angle	of	the	prism.	The	value	of
+refractive index of the material of the prism is 	.	1
+Note :	Answer the following :
+16. Write the mathematical form of Ampere-Maxwell circuital law.	1
+17. How	does	an	increase	in	doping	concentration	affect	the	width	of
+depletion layer of a p-n junction diode?	1
+18.		     1
+OR
+A proton and an electron have equal speeds. Find the ratio of de Broglie wavelengths associated with them.	1
+9	P.T.O.
+
+[!l [!l
+19.	SIcf>I  1-""'l""T"T'""""T'+	c.  .	M1	M2	3-f I q@a  SIcf>I  I	3-f I1 Ri (V)	m?.l
+
+f;ructjt fcr<qq (V
+
+)	cf>T f3/4-q(O(	3=tR@	3-fjfil( i  I  _..·,
+
+3lf'  cf>ll[Lf>ci
+
+9fj-i311 cfi) q: I	1
+
+
+
+
+
+
+0 .. ......	.,	
+V
+
+	 1
+•
+
+
+
+21.	f4>tj) -	3/4	cf>ll[f3/4fq	o&(r(1	&l( I  ch) q:  )	39lfll(	f4>tj)
+3-i	1a St@D cq	l-11	cfiT R	ff{a-	+;::;..'TT'T --	3-1R@@f3/4 Q. 1	a	2
+
+22.
+
+f4itj) fi l-11, <1(	9 ct,I zj- If{51 ·	9	ct,I3-fl	tt;::J:;:r	I.it cfiT ·	••
+
+lllll i 1 ,,,  ..-+--	Stcr,(01 ,	9(t	aiq:; K	-"""	lllll i 1 ._......_.... Stcr,(01 '
+3=I R@	-rl"'l"'T"TT	3=1jfiI(	fi l-11	""'l""ri--r	•  ,	cf> 9(I	a i cf> 91',l-l I: K1
+K2 '	l(lll i  I	.	ti" Slct,(Ofl	zj- lf{51	lf{dl fil-11 i  I	K, K1
+K2	cq$11Cd   c{;lRitq:I	2
+
+
+
+
+
+
+
+
+
+<	d	>
+
+
+
+<	>< 	>
+d	d
+
+-	-
+2	2
+(9fj(1(  SI	(01)	(	SI	(01)
+
+23. lflQRfcq 'Cf"GJ	'3ltj-  '	qf{ l I fflf@q: I	lflQfi:flq
+'Cf"GJ	3l'tl-  T1	T2 am f4>4l Pd1JT i:r:	·	9{141 3-fl
+fi I 91',l-l I: N1	N2 i  I	Pd1JT	fiThf>llal3-fl cf>T 3-fj91d	ch) q: I	2
+10
+
+I!]
+-
+19. Thvaeriation of the  stopping potential (V0)	with the frequency (v) of the
+light incident on two different	photosensitive surfaces M1	and	M2	is shown in the figure. Identify the surface which has greater value of the work function.					1
+
+
+
+
+
+
+0 ...	--'--------"	+
+V
+20. Why cannot we use Si and Ge in fabrication of visible LEDs ?	1
+•
+SECTIONB
+21. Explain the	principle of working of a meter bridge. Draw the	circuit diagram for determination of an unknown resistance using it.		2
+22. The space between the plates of a parallel plate capacitor is completely filled in two ways. In the first case, it is filled with a slab of dielectric constant K. In the second case, it is filled with two slabs of equal thickness and dielectric constants K1 and K2 respectively as shown in the figure. The capacitance of the  capacitor is same in the two cases. Obtain
+the relationship between K, K1 and K2.	2
+
+
+
+
+
+
+
+
+
+E--<--d-- >
+
+
+(Case 1)
+
+
+		
+<	><	>
+d-	d-
+2	2
+(Case 2)
+
+
+23. Define	the	term 'Half-life' of a	radioactive		substance. Two	different radioactive		substances	have	half-lives	T1	and	T2	and	number	of undecayed atoms at an instant, N1 and N2, respectively. Find the ratio of their activities at that instant.										2
+11	P.T.O.
+
+[!l [!l
+
+
+24. ll@ ftci a{ll	a{lll!:I	qf{ ltSII R1rul ) fjl	•	oi;lra cf>T 3q'41JI	,
+SIcf>I  I f3/4.;tj) fi t.1.-1 lIT	ftj{ci lIT	l Il-1.-1 ch{aI	'	f3/4.;tj) fi l-1aci
+3=lra{l tSd	3=lqq(f.-l cf>T RllJ-1 SIIL(-1 ch)Ni	)	2
+3{ 611
+
+w=r	cf>T 3qlllll	f3/4.;tj)	3 41-tici  w=r
+ ,q ch)N-f	I
+
+1	1	1
+-==	-	-
+f	V	U
+2
+
+
+25. 3=lr{@	3=1jfil{		.. 'eftcq fiJ-llra{ (f"R A	B '	-._......_....	d 
+2ffl  ,	fil-11.=t +--rnTT	fil-11.=t	1{1 r SlqIf%a	WT	1
+
+
+
+
+
+
+
+
+(a)
+
+I	I
+<:-X->--d----:
+(ITU	f3/4.;tj)	(fR	
+ la  cfi)N-f	I
+
+•
+
+
+x	2@	f3/4.;tj)	r	P	1l-atcfi)ll
+	 a  o
+
+
+
+(b)	x  m  , O<x<d
+
+ ,l-atchlll	f3/4=q{UI	-;:;..- !:114>
+
+@1*f3/4 I
+
+
+26. q(l-11':!  l-11:Sci cnr Jqlflll
+
+2
+
+,:::t::'"'-, fjl l'Jf.-1 q{l-11':!	ncff en	qf{st)l-11 ,:::c:-'T"'""T
+
+Wc,'i<t?T;:i	81 1	-;::;..- &i'Jfct>	,q  chlNi  I	2
+	 3{ 611
+(a) SIcf-)I  I-	""'  >f  Iq  SIltl  l I		,...... ·	R1rul	Ni.-1ch) ellI&-lI chq ci 3=11 Rl .-I		Slcf>l I- - fil-ftcf>{UI	tr		I
+""'
+(b) fct,tj)	Slcf>l I	    
+!:114>	sfff3/4	I	2
+
+27. 
+
+
+fct,tj) p-n	:Slltl:S	+;:;..-rr'T'	
+fct,tj) p-n	3-i!:l  lcf> at lllfi
+
+(a)
+
+
+fa{'	'ftjq SI141{'	olll&-lI  cf;)Ni	I
+'	(IT
+
+
+
+
+    	 2
+
+
+
+12
+
+
+
+24. Define wavefront of a travelling wave. Using Huygens principle, obtain the law of refraction at a plane interface when light passes from a denser
+to rarer medium.	2
+OR
+Using lens maker's formula, derive the  thin lens formula  _! = 1  -	1	for a
+f	V	u
+biconvex lens.	2
+
+25. Two long straight parallel wires A and  B separated by a distance d, carry equal current I flowing in same direction as shown in the figure.
+A	p	B
+G----?	0
+I	I
+<:-X-->---d---	,;
+(a) Find the magnetic field at a point P situated between them at a distance x from one wire.	                 
+(b) Show graphically the variation of the  magnetic field with distance
+x for O < x < d.	\a	e	2
+26. Using	Bohr's	atomic  model,	derive	the	expression	for	the	radius	of
+nth orbit of the revolving electron in a hydrogen atom.	2
+OR
+(a) Write two main observations	of photoelectric effect experiment which could only be explained by Einstein's photoelectric equation.
+(b) Draw a graph showing variation of photocurrent with the anode
+potential of a photocell.	2
+
+27. Explain	the		terms		'depletion		layer'		and	'potential	barrier'	in	a p-n	junction	diode.	How	are	the	(a)	width		of	depletion	layer,		and
+(b)	value of potential barrier affected when the p-n junction is forward biased?	2
+13	P.T.O.
+
+
+
+
+
+28. (a)
+
+
+
+
+(b)
+
+(c)OslJ
+.		fcr.cfT.		(emf) E1	E2 (f			3=flrdf{cf>  S1@-()q  9hl-l I: r1 r2 i I		urn;:t	fi'41'-l1'"i		fct;tj)  I		S1@-()q R it fi 1Nia
+'-l11<11 i,	fcr.cfT. 	 (emf) (f	3=1iaf(cf>  S1@uq
+ ,q ch)Niq: I	l-l(Rq: -f4;	.	-	cfiT fi llldl	w	i  I
+Slcn{OI	'J1	·	fic{fil-1 i	Sl cn cf>T fcr.cfT. 	 (emf)
+E = 5 V(f 3-fiaf(cf>  S1@uq r = 2 ni,  R = 10 n	 1	 S1@uq
+cfl c:a I q f{ct)fu-1a	ch) Ni q: I	3
+
+29. (a)	fct;tj)	 l{lql  l	fllcnl{ 1)osffi, Nificf;) Bl'3-lll r (f	cfiT fi(c)lll Ni,	it
+ l{I (I) Sltjl d m@ i I	1>0sffiit fi c& 11- cf;)ll	-;::;..- &i'J1cf> fu:IRslq: I
+
+(b)	-f4; 39	(t, 1>osffi	YZ	........-r--+--	r	-	--
+ll.!11 i I	.-	(x,	0,  0) "CR	1>0:gffi if> cf>l{OI J,q	1'-1Slch1.!!
+l-ll'"i	&i'J1cn	 ,q ch)Niq: I		 3
+3{ 611
+(a) fof,tj)	 ;rli.flc:{ cfiT	I{( §!-I( (1I cfiT qf{ 1'5I1{tNiq:	ITT	&i'J1 fu:IRslq: I
+
+
+
+
+
+
+30. 
+(b) 
+fof,tj)		;rli.flc.{ cf>T Sl@U q	G	 fi ch) ........... ql-11'"i I fcr-	'tlI{I lg i  I
+(i) ---.::	 ;rli.flc{	Io (Io > lg) def>	'tll{I 1-119	Qi.fie.{
+Slcf>I{  qf{qfdd fct;lll	fict,dl i ?
+(ii) Qi.fie.{cf>T SI	left S1@-()q ctll I i ?	3
+V = V0 sin mt	fof,tj)	it fof,tj)  S1@uq R	 lf{,t C	fi'41Nia l Ill I i I
+(a) (i) Sl@U'q	·	(ii)  lf{,t	·	 I(c){ cfl c.<11 cf>T l-ll'"i ch1Niq: I
+(b) 3-ijSl cf<1  cfl c.<11	 l{I	ct) lrd{	cf;)Niq: I	.	it
+
+i?	3
+31. Rl-'"ifu:IRsla  Sl cn Sl"311 '"i	cf>({O(	  £) Sl ll(	olf@cf>{O(	&ir'J11	ctlll
+SI  Itj	? ---.""l"'l"'T"	•	cfiT	ch) Niq: I	3
+(a) cfil	l	it	\lll.!11 ll.!11 i I
+(b) 	  f{ 1	 ?.lct,:=t	..........+--'-	{t	i  I
+(c) -	Rcf>c.  llll l(lll i I
+14
+
+
+
+28. (a)
+
+
+
+
+
+(b)
+
+
+29. (a)
+
+(b)
+
+I!]
+-
+SECTIONC
+Two cells of emf E1 and E2 have their internal resistances r1 and r2, respectively. Deduce an expression for the equivalent emf and
+internal resistance of their parallel combination when connected across an external resistance R. Assume that the two cells are supporting each other.
+In case the two cells are identical, each of emf E = 5 V and internal resistance	r = 2 Q,	calculate	the	voltage	across	the	external resistance R = 10 Q.						3
+Write	an	expression	of	magnetic	moment	associated	with	a current (I) carrying circular coil of radius r having N turns.
+Consider the	above mentioned coil placed in YZ plane with its centre at  the  origin. Derive expression  for the  value of magnetic field due to it at point (x, 0, 0).	3
+OR	
+
+(a) Define current sensitivity of a galvanometer. Write its expression.	{(\
+(b) A galvanometer has resistance G and shows full scale deflection for current lg.		
+
+(i)
+(ii)
+
+How	can	it	be	converted	into	an	ammeter	to	measure current up to Io (Io> lg) ?
+What is the effective resistance of this ammeter ?	3
+
+30. A resistance R and a capacitor C are	connected in series to a source V = VOsin rot. ===-
+Find:
+(a) The  peak	value	of	the	voltage	across	the	(i)	resistance	and
+(ii) capacitor.
+(b) The phase difference	between	the	applied voltage and	current. Which of them is ahead ?				3
+31. What is the		effect on the		interference fringes in Young's double slit experiment	due	to	each	of	the	following	operations	?	Justify	your answers.													3
+(a) The screen is moved away from the plane of the slits.
+(b) The separation between slits is increased.
+(c) The source slit is moved closer to the plane of double slit.
+15	P.T.O.
+
+
+32. (a)	&Ff>  fci,gq_ Ocii:11 Er	1'-	Ocii:11 µr	ffl	lc-'-1
+lTT	'ijSlcnl I cfiT -tj(ci	&i'J1	RrfRs( I
+(b) P11-.-1R1Rsld	'ij	39lfll1	q lcil	
+qf{fl{ R1Rsl :
+
+(i) SIOI IR1lt1	f3/4l-11.-1 -q Ici.-1  ( 'Cf-SI  l.-1 )	'ij
+(ii) ':nflffi cfiT C	-;:::;,.-	cft	39!:1 1	3
+
+
+
+
+
+33. 
+
+
+									
+3l9" f3/4d	'J1Id I i	I
+235y	231X	4H
+92	-->	90	+ 2	e	+
+
+'J1.-t	,	zjd@	a-ct,01	cfiT	cq;f	
+
+
+
+
+
+
+
+
+
+
+>11(1
+
+
+
+
+•
+
+
+"=:rrt;::J ").-ib
+
+
+
+
+
+
+
+
+
+
+
+sol-I ,=
+
+7·8 MeV, 7·835 MeV	7·07 MeV t  I	'T"T"""'+tll.C011
+
+fen
+
+	,. q  I  c.11
+
+zjd@	3-aNid 3-fqf2ff	i  (f2llThh  1cfiT
+
+	 
+( a-cbO( cf>Tolll-11.-1= 6·68 x 10-27 kg) 
+
+3ftch1	(l fl ID cfiT
+3
+
+
+	
+
+34. (a)	fchffl .
+
+":Slltl:S	I-V 3-f cil folcn cfiT ftfjl dl	,	-qftq- 3-f R@ @·=qcf>{,
+
+ fl  chl de qcl dI R ?f ct, cfiT	_:,	cf>141"3/4 fq cfiT oll I	I ch) Ni	I
+
+(b) fcnffl .	:Slltl:S	p-	n-4>cicf>1 cf>T --,....,	l-1 l .-1	
+t?	3
+
+
+
+
+
+35. (a)	J113	f.:l,Qq cf>T	3q'41J I	'	R Gl;;.1.1 I	Q,ct, "11..J	311tj 1	f3/4a:ico1	cr
+l flffi	........-r+---rl"V"t	ch({U	I	r-1,,,..  -+-r-1,,,.._.	._........	x	fchffl	r	-
+"'
+ozj'J1cf> 	,q	ch) Ni ' 'J1cflFen
+(i) 0 < x < R,
+(ii) X > R.
+
+
+
+
+32. (a)
+
+I!]
+-
+Write the expression for the speed of light in a material medium of relative permittivity Er and relative magnetic permeability µr.
+
+
+(b) Write	the	wavelength	range and	name of the	electromagnetic waves which are  used in (i) radar systems for aircraft navigation,
+and (ii) Earth satellites to observe the growth of the  crops.	3
+
+
+
+33. The nucleus
+a-particle
+
+
+
+
+
+
+
+
+235y	231X	4H
+92	-->	90	+2	e + energy.
+•
+
+The binding energies per nucleon  of the  parent  nucleus, the daughter
+nucleus and a-particle are 7•8 MeV, 7•835 MeV and 7•07 MeV, respectively. Assuming the daughter nucleus to be formed in the unexcited state and neglecting its share in the energy of the  reaction, find
+the speed of the  emitted a-particle. (Mass of a-particle= 6·68 x 10-27 kg)     3
+
+
+34. (a)
+
+ Draw circuit diagram and explain the working of a zener diode as a de voltage regulator with the help of its I-V characteristic.
+
+
+
+(b) What is the purpose of heavy doping of p- and n-sides of a zener diode?	3
+SECTIOND
+
+35. (a)
+
+
+Using Gauss law, derive expression for electric field due to a spherical shell of uniform charge distribution cr and radius R at a point lying at a distance x from the centre of shell, such that
+(i) 0 < x < R, and
+
+(ii) X > R.
+
+17
+
+
+
+
+
+
+(b) 	 -	 q:cr) l-11 i	(f	tl l,l-lct> x	'ij	+ x +-+nT-r	3-fj I
+
+er)14{<1 i	1	...	""'=a'"'T"T' m2l"-m2l" ?ft,a1 ,l-1er) x	'ij -  x +-+n"T'T·	3=1j 1
+fil-11 qf{J-1101	m2l" ct>l4{a i	1	cnT l-11	E  =  200	N/C	x > o
+ (f	E = -  200  N/C	x < 0	-;:;..- i	I ai:cif (  20	cm 3fu: 81\j"lll 5 cm
+cf>T	ai=cif-.....,..--+-;r-TT'  R=ifflos{  x-3l	3-lj  I	Slcf>I{ f?	i	fen  fict>I
+3fu:	Lf>acf>
+
+
+x =
+ 1<1 ch)Ni :
+(i) R=ifflos{ B 
+(ii) R=ifflos{	
+
+
+(a)	          -
+
+
+
+ q(al	ciff% @1  lfflrtfi I
+3qff ¥13-tlct I  I	5
+•
+
+					
+
+
+ql 3fu: q2	Rct,l<-1 ,ti-  @,,jj '"""'T"'""""'	&i'J1ct) $118  c(;)Ni  I
+(b)	
+ftj8a ch1N1 I	
+
+(c)	+ 1  µC, - 1 µC 3fu: + 2 µC	'$J	...	3-f lct I ::-::-T'"'T'"T""f\..... 'ij -	B 3-f...a
+     l:R	I	311tj rf	10 cm	fcFizj)  1-1-sll§,	·	l:R
+
+ ,feta-	--ij
+
+lllf I ¥1-	qf{ct>ff!a  c(;)Ni 1	5
+
+36. (a)		fc!.;zj)ct11Glc.{	3-f  llf <1lcf>I{ ti l{lq1 1	osffi		cf>ll[{<1  cifa­     &i'J1cr)	 ,q ch) Ni  I jJ.cifchlll	3-f{)lf	cif	Ill I  'J11<11 i	?
+(b) fc!.;zj)  a-cr)o1	10 kV	f3/4 q(.-<1{ def>  ,qf{a	lllf Ii  (f2ff	x-3l
+3-fj I l(@l-1(  i	I		y-3l		3-fj I ct>l4{<1 B = 2 X 10-3 T	q:cf>fil-11 jJ.cif ch)ll	'ij		cf>{d I i	I		'Cf2l"	8'5-ll I	ch) Ni	I
+(a-cf>O( cf>T   l-11 = 6·4 x 10-27 kg ffiNi )	5
+
+3{	1
+(a)   		ll-1ifof)a	3-f R@	fifjllf <1I	B fof)zj)	3-c=q 141	?I• Lf>llf{	14f3/4 olfl&:11 c(;)Ni 1 Pli: fflf@a		olfl&:11	cr)1{01  {}Ni :
+(i) ?I• Lf>llf{ cnT ..........-t--- qc:ffla	i	I
+(ii) a9c.l  'ij	(ct>TY{)	llR '<1"R cnT 3q4)J1 -	'J1l<11 i	1
+
+
+I!]
+-
+(b) An electric field is uniform and acts along + x direction in the region of positive x. It is also uniform  with the same magnitude but acts in - x direction in the region of negative x. The value of the field is E = 200 N/C for x > 0 and E = - 200 N/C for x < 0. A right circular cylinder of length 20 cm and radius 5 cm has its centre at the origin and its axis along the x-axis so that one flat face is at x = + 10 cm and the other is at x = - 10 cm.
+Find:
+(i) The net outward flux through the cylinder.
+(ii) The net charge present inside the cylinder.	5
+OR
+(a)	Find the  expression for the  potential energy of a  system of two
+
+external  electric field  E.	_	_...--- 	_----	..._....	0	((\
+
+
+(b)
+
+
+(c)
+
+
+
+36. (a)
+
+Dr-aw equipotential surfaces due to an isolated point charge (- q) and depict the electric field lines.	
+Three point charges + 1 µC, - 1 µC and+ 2 µCare initially infinite distance	apart.	Calculate	the	work	done	in	assembling	these charges at the vertices of an equilateral triangle of side 10 cm.		5
+Derive the expression for the torque acting on the rectangular current carrying coil of a galvanometer. Why is the magnetic field made radial ?
+
+(b)   An a-particle is accelerated through a potential difference of 10 kV and moves along x-axis. It enters in a region of uniform magnetic field B = 2 x 10-3 T acting along y-axis. Find the radius of its  path.
+(Take mass of a-particle= 6·4 x 10-27 kg)	5
+OR
+(a) With the	help of a	labelled diagram, explain the	working of a step-up transformer. Give reasons to explain the following:
+(i) The core of the  transformer is laminated.
+(ii) Thick copper wire is used in windings.
+19	P.T.O.
+
+
+[!l [!l
+
+
+
+(b) stfa{)cq 0·1	n		20 cm ci'-41	-tjlcicr) @-$ PQ	'3q uflll stfa{)cq f3/4ct>..ft  fil-11.-a{  qc:f{lt1 AA'	3fu: CC' f?2IB	I			qc:f{lf1	fi{cf> fict)dl	(f		 qf V:ct>fil-11.-1  j'-cflc-€lll		B = 0·4 T 3,q		
+'f2Wfr j'-cflcf>	.	ffi  00	1 3-f R@ -ij	3-fjfi I{	qc:f{lli,
+(f	j'-cflcR1ll	'$f	9{ftl{ ci'-cflq<l	3-fl -q	I	9c.f{lf1	-	A
+3fu: C coT ci392Ff	,	c-€lN1
+(i) v = 10	cm/s	V:ct)fil-11.-1	WT	lf@	
+3=II q ll cf>  cfl I	cflci , 3fu:
+(ii)     	 5
+•
+x	A	x	P	x	A'
+
+
+X	0	------:	V	X
+B
+-	C'
+xC-----x--..	Q	X
+
+
+
+
+
+
+
+37. (a)
+
+
+
+(b)
+
+\a
+f?irfu	+;::;.."T"r"I"	fct)4) @lflffill	r;::z::- cf>T fct:;{01 3-f"R @' ff3/4 Nifiij 3-f@q
+stfaf¢ti:cft3-f.=t.-a	cfl.-ldl	I	f3/4	l-ldl	-	&i'Jfcf>
+fftf@	I
+f3/4,)4) @l TI(17ll	r;::z:­
+
+f3tCf)I	Cf1>
+
+cf>fi	1 cm	I
+
+
+
+(i)	
+(ii)	coT	39ltll I	=q.- 1-11	-ij	-	'Jf I a  1	,
+,	st fa f3/4'-cfl cf>T 0llIfi	c=€) Ni	I	JI  I
+fen =q  l-11 cf>T ellIfi 3·5	x  106  m (f2ff	=q  l-11	cf>8TI	bl'3-llI
+3·8  x 108 m	I	5
+
+
+
+
+20
+
+I!]
+-
+(b) A conducting rod PQ of length 20 cm and resistance 0·1 Q rests on two smooth parallel rails of negligible resistance AA' and CC'. It can slide on the rails and the arrangement is positioned between the poles of a permanent magnet producing uniform magnetic field B = 0·4 T. The rails, the rod and the magnetic field are in three mutually perpendicular directions as shown in the figure. If the ends A and C of the rails are short circuited, find the
+(i) external	force	required	to	move	the	rod	with	uniform velocity v = 10 cm/s, and
+(ii) power required to do so.	5
+•
+
+x	A	 x
+
+X
+
+P	x	A'
+
+V X
+
+
+
+
+X	C	X
+
+	,;	c'
+X
+
+
+
+
+
+
+
+
+
+
+37. (a)
+
+\a
+Draw the ray diagram of an astronomical telescope when the final image is formed at infinity. Write the expression for the resolving power of the telescope.
+
+
+
+
+(b) An astronomical telescope has	an	objective lens of focal length 20 m and eyepiece of focal length 1 cm.
+(i) Find the angular magnification of the telescope.
+
+(ii) If this telescope is used to view the Moon, find the diameter of the image formed by the objective lens. Given the diameter of the Moon is 3·5 x 106 m and radius of lunar orbit
+is 3·8 x 108 m.	5
+OR
+
+21	P.T.O.
+
+[!l [!l
+
+
+
+(a)	 tj) 3-fq <1(1 '"""'l'T'TTTT	fi Ill f?	I	'"""'T"""T'	9IllI '-liI<11
+      cf>T 3lf"'""'l"'T""T SI faf3/4l-	.-11	I  SIfaf3/4l-	.-1.-11	-;:;..- fct,{oI
+
+
+
+(b)	...........-t--	...............	fct,tj)	fill<1(1-3ft(1	filll , Rifficf>	lLJffill	ISd	q9f><11 BIZilll 20 cm '		filll	30 cm.....,...;,+	f?	I				cf>T
+3-f 9qd.-1icf> 1 · 5 ,	'ffi	SIRIf3/4l-	f?2f@	....---r-t----r	ch) fitq: I	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+
+
+
+
+(a) An object is placed in front of a concave mirror. It is observed that
+a virtual image is formed. Draw the	ray diagram to show the image formation and hence derive the mirror equation .!_ = 1 + 1 .
+f	U	V
+
+(b) An object is placed 30 cm in front of a piano-convex lens with its spherical surface of radius of curvature 20 cm. If the refractive index of the material of the lens is 1·5, find the position and nature
+of the image formed.	5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+
+
+
+
+
+
+
+
+

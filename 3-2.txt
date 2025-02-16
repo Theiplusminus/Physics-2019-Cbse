@@ -1,0 +1,863 @@
+CBSE Class 12 Physics Question Paper 2019 (March 5, Set 2- 55/3/2)
+
+
+R/1-/1r?./f4	1:(i)
+(ii)R"'Jft Wirf 3/Rc/72/r ff
+p:{Wirf-7Pf	#/?  'JI p:{	>IH-7Pf q
+./717 ff: &us  31, &US
+'if{, &US 'B' 3ffr &us
+I(iii)		&us 31 -,f- qi#	 >IH ff, gfilq; 'cfiT '([cn" 3Tcfi	I &us 		-,f- Rlrl >l rf 6, >lfilct>	3Tcfi ff I	&US 'B' -,J- d/l?G >l rf	ff, gfilq;	'rft;:r 3Tcfi ff I	&us 	-,f- 'rft;:r Wirf	ff, >lfilct> qi#  3Tcfi ff I
+(i V)	Wirf-7P{ q ?-IJ../!J	w	fdtq;(Y"q -;rt(	I ?f,	,	'([cn" 3Tcf; ----+_,	.Y.-1 •	#,	.  .	+_,
+y-	•	#, 'rft;:r .	.	';::n;:::;:t	ill?	'J-1 • q 3hr qif4 .	.	;::::rr;:;;;:t .,,,,,,.,,,...,	y-	•	q 31trf1Rcb -b12lrf
+>l lrf fd/,217 17217	I #	y-	•	-,f- 3-17qq;7	T{({ #2/rf q #  c/& '([cn" Wirf tf cb<rfl	I
+(v)	31/c/ 2/cf>	3Tf1l' R:,,1/ftfistd 1/Jl?tq; R21d1cf>1·	·	'cfiT Jq2/J1/	cfR: ?-lcf>d ff:
+c = 3 x 108 mis
+h = 6·63 x 10-34 Js e = 1·6 x 10-19 C
+µ0 = 4n x 10-7 Tm A-1	
+Eo =  8·854 x 10-12 c2 N-1 m-2
+
+
+
+4ni::0 "	"
+  cf{T.-tcf>Toll'-11.-t(me) = 9·1 x 10-31 kg
+ l'"i cf>T  l-1l'"i = 1 ·675 x 10-27 kg Sllc.l'"i cf>T  &ll-1l'"i = 1 ·673 x 10-27 kg
+3-f lcflllld) fi&-ll = 6·023 x 1023 >I"@  ll-1
+ , c: l-1l'"i Rll<1icf> = 1 ·38 x 10-23 JK-1
+General Instructions :
+(i) All questions are compulsory. There are 27 questions in all.
+(ii) This question paper has four sections : Section A, Section B, Section C and Section D.
+(iii) Section A contains five questions of one mark each, Section B contains seven questions of two marks each, Section C contains twelve questions of three marks each, Section D contains three questions of five marks each.
+2
+co	ege  
+
+(iv) There is no overall choice. However, an internal choice(s) has been provided in two questions of one mark, two questions of two marks, four questions of three marks and three questions of five marks weightage. You have to attempt only one of the choices in such questions.
+(v) You	may use the following values of physical constants wherever necessary:
+C = 3 X 108 m/s
+h = 6·63 x 10-34 Js
+e = 1·6 x 10-19 C
+µ0 = 4n x 10-7 Tm  A-1	•
+Eo = 8·854 x 10-12 c2 N-1 m-2
+l	= 9 x 109 N m2 c-2
+41tEO
+
+
+
+Mass of electron (me) = 9·1 x 10-31 kg
+Mass of neutron= 1·675 x 10-27 kg Mass of proton = 1·673 x 10-27 kg
+Avogadro's number= 6·023 x 1023 per gram mole Boltzmann constant = 1·38 x 10-23 J 1
+
+
+
+SECTION A
+
+1.	            1
+Draw a plot of resistivity versus temperature for a typical semiconductor.
+
+2.		 1
+Define the term 'attenuation' in communication system.
+
+
+
+
+
+3
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+3.	-U'tft mQlU	W	1R3/4ct,	A	B	-	1-q4, -ij	1 3=11 @
+3=1j I{ ,::c:	 .-lltj ld @	 p	A	Rct,c. ";::;I'	tI"f.,	_.· cITT
+1:f cf> ,::c:-	@:S. P	cITT	lflll t  I	A	B	3=f ltj r)
+ ?•	1
+
+
+
+
+
+
+IR3/4ct> TTt;:::rr	4)	-U'tft 3lfQ"R	{@I t I fct;tj) ?ftOI ltj f<1 @	cITT
+·Plenc. ci Icn{, l"TT 3-f j	1{	cITT CU'D'I--u	· l Ill	I t I	Jll'I-'04  cITT
+
+
+
+
+
+
+
+
+
+
+
+
+
+Two metallic spheres A and B kept on insulating stands are in contact with each other. A positively charged rod Pis  brought near the sphere A as shown in the figure. The two spheres are separated from each other, and the rod Pis  removed. What will be the nature of charges on spheres A and B?
+
+
+
+OR
+A metal sphere is kept on an insulating stand. A negatively charged rod is brought near it, then the sphere is earthed as shown. On removing the earthing, and taking the negatively charged rod away, what will be the nature of charge on the sphere? Give reason for your answer.
+
+--
+Ground
+
+
+
+
+
+
+4
+co	ege
+
+
+
+
+4. fchtj) Sien( (-	3,fi\l{.-( -q,	3-f 1q@a	ftjf3/4;,{un	
+qll (	Cf1> i)	cfT;ii	ch<1l-l lIRI'-li -:=---r+ tjt	r--t+	'11I l{l TI ?
+chlNi  I	1
+In photoelectric emission, when the frequency of incident radiation is doubled, will the maximum kinetic energy of photoelectrons also be doubled? Justify your answer.
+5. f?irfucf>T    
+fich<1I i I	1
+3{ 611
+3-11q@a	 ll..fl stct,1 1	cilci stcf>1 1	T'T't--'r-r	,feta	,	dl	41 cf>T
+fSI l-1 -q	<1l-1 f3/4=qci.-1	cf>T f3/4=q{UI	SIct,I{	?	e	--- ..	1
+State the condition under which a large magnification can be achieved in an astronomical telescope.
+OR	
+How does the  angle of minimum deviation of a glass prism vary if the incident violet light is replaced by red light ?
+
+
+
+@Os'af	
+SECTIONB
+
+6.  cif.-( ( f4;tj)		i I	2 Show that the image formed by a convex mirror of an	object is always virtual.
+
+
+7. 	 c{;)lf	zjcill.-1	.=tlfilchlll  f3/4(c)s.=t	f3/4 .-1 ch)Ni I Sl ct) cf>T	3 1fj{U( cftNi I				2
+Distinguish	between	nuclear	fusion	and	nuclear	fission.	Give	one
+example for each.
+
+8. f4;tj)  fjI	l '11.-1 q{l-11	-q ,:::C:.....-T	cicf T.:i
+>f	RI·I <1l-1	3-f q f2TT -q 6kI.-1	cf>{<1I i
+3-f jq  I <1	ch) Ni	I
+
+3flN1a	3-fqf2TT -q i w	q{1-11
+1 w	stijhlf 1 -ij 3,fiNfa	<1{ll	cf>T
+2
+
+
+An electron in a hydrogen atom in the second excited state jumps to the first and ground state of the atom. Find the ratio of the wavelengths emitted during this process.
+
+
+5
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+
+
+
+9. 'l'	fct;tj)	9i-61 'T'ri-t-rT+	9i-61	 r	3-tltj I,  .=tii Sl ch + q i,
+t  I w	3-fftj I -  q	9f{o11J.ft	 a 	cnT 9f{1-1101
+c(;)  I	_	2
+3{ €11
+m  olll-11.=t	fct;tj)	-_.	B	 {a  ffiach cfiT a1- 1 z	B Ptc?if3/4a
+lflf I i  I w -_.	tl.=tltj I q i  1	(17ach d>'t:qlw	3W '+---rr--T	dl a1
+E	ll:chfil-11.-1	 -		-ij-	i	I g'6,cflll	a 	Sl lq	'3q&,T '""""I"""' iflc1cti
+chl4{a	 a	 cr,1{01  (17acr,	---+---r- cnT 3-tlq<fchla	c(;)   1	2
+Five point charges, each of charge + q are placed on five vertices of a regular hexagon of side 'l'. Find the magnitude of the resultant force on a charge - q placed at the centre of the hexagon.
+OR	•
+A simple pendulum consists of a small sphere of mass m suspended by a thread of length l. The sphere carries a positive charge q. The pendulum is placed in a uniform electric field of strength E directed vertically downwards. Find the period of oscillation of the pendulum due to the electrostatic force acting on the sphere, neglecting the effect of the gravitational force.  
+10. 	 l-lll t	m	3H&1f3/4a ;rffe ·	N	f3/4=q;co1 cfiT	 ltf> @1·R:1 I w ltf>
+cnT 39 ll	   fcn fct;tj) 1: 1Qfctcq	3l'4     'd" 3ft a
+stcfil{ f;rcqff{a	 chdl i  1	2
+Plot a graph showing the variation of undecayed nuclei N versus time t. From the graph, find out how one can determine the half-life and average life of the radioactive nuclei.
+11. 0·5 m a1-4)  tj) 9f{.=tlff1ct,1	flrc.llftc{  10	t d	  c(;) 3-fjSlf -ct,lc cnT
+ 5ftf>a 1  cm2 i  I	W 9f{.=tlk1ct,I B $1q(f%a ti({( 0·1s -ij- 1 AB 2 Am
+i, ffl	·	'T"H+-r ctl ca	1 9 f{ct,R1a	1	2
+3{ €1I
+91 -91	tf>U qfffi 140	5 cm2	 5ftf>a	qlffi	-619tl	3-1rtjtft	)osffi
+0·09 T		jl- c{;)lf	3,9-	-l'V"t	 IRt> llcil jl- cf>	.	00 i m	dl al B w		B  (fj{		'J1llll lflf I i I 9f{ct)R1a c(;) 
+
+(a) Wtposffi  B
+(b) W  1,osffi -ij- 
+r '""-5'""5"'","'.·,1,·.,.·,3/,.2	,,,_i
+,t
+l"""";I j Ilo)llo'tfl+v,j, {11>":><,'.'f.( (I j Il.:.),Vf'HVl'(I$ (11,:(>tf)
+
+jl- c(;)ll  lfflcf  -ij- 9 f{qd.-1'	d
+fcr.cfT. a	(emf)  I
+6
+
+
+
+2
+
+co	ege	
+
+A 0·5 m long solenoid of 10 turns/cm has area of cross-section 1 cm2. Calculate the voltage induced across its ends if the current in the solenoid is changed from 1 A to 2 A in 0·1 s.
+
+OR
+A small flat search coil of area 5 cm2 with 140 closely wound turns is placed between the poles of a powerful magnet producing magnetic field 0·09 T and then quickly removed out of the field region. Calculate
+(a) change of magnetic flux through the coil, and
+(b) emf induced in the coil.
+
+
+12.
+
+•
+3-IR@	100  v """-"'T'TT"T"	fi4'1Nia qi-q B 1f{ii	c.qcf>	11ll1 lllfl	1	c.qcf>
+fif3/4a ¥1	qf{cr,ffta 4=>1Ni 1	_ 	((\	2
+		
+lOOV
+
+The	figure shows a network of five capacitors connected	to a 100 V supply. Calculate the total energy stored in the network.
+3 µF
+
+
+
+
+
+
+
+3 µF ----
+
+---- 2 µF
+1 µF
+
+
+
+
+
+
+
+
+
+
+..	
+
+2 µF
+
+---I,I:a	'
+lOOV
+
+
+
+
+
+
+
+7
+co	ege
+
+P.T.O.
+un1•
+
+a§.
+
+
+(c)Os
+SECTIONC
+    ,	4 Q	stRtu	.	ql c:J.ftc:{	tf>T	q1 icf>	
+3
+2Q	2Q
+
+
+16V
+SQ	4Q	V
+
+
+
+
+
+
+2Q	2Q
+In	the	circuit  given	below,  find  the	voltmeter	reading  across  a	4  Q
+resistor.
+2Q	2Q
+
+
+
+16V
+
+
+
+
+
+
+
+
+
+\..._.--------7	2Q
+
+
+SQ	4Q	V
+
+
+2Q
+
+
+14. fontj) de	fontj) fll-llr<1{ 9 cf>I zj-t11f{51	3-fltj l<1  
+ (Y .-tlJ.ftc.{  folcf> ---	 11<1 I i ?
+ffl l9.-l  tll{I	&i-itcn Sllfi ch)bi 3fu	11	fen tll{I	3-fqf2ff	-tjlci.-l
+ti l{I	SIchi{	.. 	i  I	3
+When a parallel plate capacitor is being charged by a de battery, why does a galvanometer show a momentary deflection ?
+Obtain the expression for the displacement current and show how it is related to conduction current in a steady state.
+
+15. (a)
+
+3-IR@	3-fjfll{ ac -	,::c-+--P L	 {cf>,q cf>T	(f	R  stfauq cf>T
+stfaU	filflbia	I .	3-f l @ 	cf>T 3qlflll ,:::c-  ....	'	 l	I ch)bi
+fen-	ql c.<11 cf>cil	tll{I	3Uf	I
+
+
+
+(b)
+
+stfau	.	f3/4 q lr<1{ 160	V	'<1-"
+
+.	f3/4t1q lr<1{ 120	V
+
+i I 3-f jSI ct, cfl c.<11 cf>T >f"' l-11.-l	ch)Ni	I	-	>f"'........r--i-+ ti I{ I
+l·O Ai,	'<11 'Cfft9-	stRt 1m  qf{cnffta  ch)bi  1
+8
+co	ege	
+
+
+(c)     
+ ?•	3
+R	L
+
+
+
+
+
+
+
+
+
+
+
+
+t	= t0 sinrot
+
+
+3{	1
+ac  ........+-.-.-.	........+-.-.-.	3=f qlf crf X	Y	M- filfl'-li.-l	cit.-l I	I cql{I	chaI
+
+
+cil("ca1 it n
+4
+
+W	I	3-lcliicl  X 100 Q cf>T	51@{)-q '	<ft
+
+(a) -	3-iqlfq Ycf>T .-lll-1 R1Rsf I
+(b) cil caI cf>T rms	l-11.-l 141 V ,	<ft cqI { I cf>T rms l-11.-l qf{ct,if1a ch)Nf	I
+(c) ac Wd	de Wd 	1fcta-	,	<ft cflll	?	3
+(a) An ac circuit as shown in the figure has an inductor of inductance L and a resistor of resistance R connected in series. Using the phasor diagram, explain why the voltage in the circuit will lead the current in phase.
+(b) The potential difference across the resistor is 160 V and that across the inductor is 120 V. Find the effective value of the applied voltage. If the effective current in the circuit be 1·0 A, calculate the total impedance of the circuit.
+(c) What will be the potential difference in the circuit when direct current is passed through the circuit?
+R	L
+
+
+
+
+
+
+
+
+
+
+
+t	= t0 sinrot
+OR
+
+9	P.T.O.
+
+co	ege 
+
+un1•
+
+a§.
+
+An ac circuit consists of a series combination of circuit elements X and Y.
+The current is ahead of the  voltage in phase by n.  If element Xis  a pure
+4
+resistor of 100 Q,
+(a) name the circuit element Y.
+(b) calculate therms value of current, if rms value of voltage is 141 V.
+(c) what will happen if the ac source is replaced by a de source?
+
+16. (a)	3f3/4a 3=I R@ cf>T 3q 4)J 1	fcl.,ff) islI t?J	l$f c€r 39	if	fcf,fft
+=q1acn	f3/4.;ffl q{1 ga	q  I{	3ia{ c€r 'B	&:11 1 cf;'tNi 1
+(b)	fcl.,ff) q{I	ga	· 'T"""TTTT	c€r qf{	ItSI I	R1f(c)	'<1"	-l$f	f3/4.;ff)
+ f(c)cf> fll-l  lcf> q{1 ga	&i'J1cf>  R1f(c) I	_	.	3
+(a) Explain briefly, using a proper diagram, the difference in behaviour of a conductor and a dielectric in the presence of external electric field.
+(b) Define the term polarization of a dielectric and write the expression for a linear isotropic dielectric in terms of electric field.
+17. lll-1.-l  ct>{dl 3-fftlfllU	Slcbl I 'F 3=1R@	3-fjfll{	f3/4.;ff)	--	P
+fl If{a	1	wF	-cr2l	1·5  3=Iqqct.-lict,	ct,i =q	fcf,ffl TTt;::t cITT
+--- '-l1I<11 ,	ffi S1@f3/4l-cit c€r	f?ir@ qf{cf>R1a cf;'t Ni I ---.---+ -_.	S1@f3/4 l-cit
+fct,{013-f11@ tfl" @*f3/4	I	3
+
+p
+
+
+
+
+
+-l<--20cm-->I
+3{ €11
+20 cm olllfl	fcl.,ff) cbi=q	TTt;::t	tSd 'Cf\ 3-ifct,a fct,")	'O' cITT,	f?ir@
+--	0	'ttcn fl • !_!@	cf>i=q	._.....f."",j,,,,.----  '"""'"rr"""T'T	'-l1I <11	I	cf>i =q cf>T 3=Iqq d.-li6h
+1 ·5	,	'ffi	Sl@f3/4 l-cit	f?ir@	cf;'t Ni I Sl@f3/4 l-cit	cit.-l.-lI  -r""n"'T'T"'
+f3/4.;{oI 3-f I @	tfl" @*f3/4	I	3
+  A
+0	C	P
+
+10
+co	ege  
+
+A converging beam of light travelling in air converges at a point P as shown in the figure. When a glass sphere of refractive index 1·5 is introduced in between the path of the beam, calculate the new position of the image. Also draw the ray diagram for the image formed.
+
+
+
+-		p
+
+ ------
+
+
+
+
+-l<---20cm-- >I
+
+OR
+A point 'O' marked on the surface of a glass sphere of diameter 20 cm is viewed through glass from the position directly opposite to the point 0. If the refractive index of the glass is 1·5, find the position of the image formed. Also, draw the ray diagram for the formation of the image.
+
+
+
+18. (a)	Pcfi{ Cf>	Rlll-1cf>T Slllll I	o lc.fc.l'"i  
+ch)Niv: I
+(b)	 oi;lr(1	3lf lf{(1	Slllllfrlq,,  3-lj$1lllll cftNiv: I	3
+(a) Use	Kirchhoff's	rules	to	obtain	the	balance	condition	in Wheatstone bridge.
+(b) Give one practical application that is based on this principle.
+
+19. (a)	>1ct,1 1-+--r-=r, >f  lq	""T"T.""'Tt\	-q- 3-f1q@a	f3/4fch{on 'ch)" 3-11Ri	m	FfU'qT
+fcf	ftj=q{OI	'"""T"n"T"T	!-1 ICf> @·		V: I
+
+
+(b)	   iftcn{o1 cnT 39l!7l I
+!-114>  cf>T  39l!ll I	(i)	:::rt	3-f1  Ri, (f	(ii)
+ SI  I{	 ct,<11	I
+
+1Niv:fcn
+Cfli	Rll<1i	cf>T f;r
+3
+
+
+
+
+
+
+
+
+11	P.T.O.
+
+co	ege 
+
+un1•
+
+a§.
+
+(a) 3-1I  RI		SIchI 1- l"""'T.....	lftch{UI	·	fjIll <1I	SIchI 1zjcl4)	<1fj
+ct?T;ii	3, '4	l-1$-11	cr,<11	?
+(b) Tt;::rttrt::r:rrrr  cnT	Cf>(?'!	4·2 eV	I	2·5 eV  
+ <1fj	3-11q@a	'	'<11 cfllI	ct?T.-tl cnT 3, '4  ?•
+€{;)Ni I
+
+
+(c) SI  I  1- l"""'T	SI Iq	
+Lf>lc.l cf?T;ii	cr,dl-1  ll@'Jf
+
+-q- f;ruqt	f3/4cqq	1·5	V	I	3, Nfa
+fct,a4) '-+-r-i-+	? J101 1	-ij- chlNi 1	3
+
+(a) Plot a	graph to show the	variation	of stopping potential with frequency of incident radiation in relation to photoelectric effect.
+(b) Use Einstein's photoelectric equation to show how from this graph,
+(i) Threshold	frequency,	and	(ii)	Planck's	constant	can	be determined.
+
+OR 
+(a) ,.. ... How does one explain the emission of electrons from a photosensitive surface with the help of Einstein's photoelectric equation?	
+(b) Work function of aluminium is 4·2 eV. If two photons each of energy 2·5 eV are incident on its surface, will the emission of electrons take place? Justify your answer.
+(c) The stopping potential in an experiment on photoelectric effect is 1·5 V. What is the maximum kinetic energy of the photoelectrons emitted? Calculate in Joules.
+
+
+
+20. (a)	  
+(b) 3-tj 9 3fu: 3-fchlll zj-q I{	f3/4	chlNi  I
+(c) ?i silfi{ 3fu: g {lqdch	fff Rsl I	3
+(a) What do you mean by bandwidth of a signal ? Give its importance.
+(b) Differentiate between Analog and Digital communication.
+(c) Write the functions of transducer and repeaters.
+
+12
+co	ege
+
+
+
+
+21. P11- R1Rsla	3fl{ cftNi :	3
+(a) 11-chlll	fch4l i) .cTll s	n.+t---rT-   'T"TTT'T""":	qf( c&	fi cr,dl
+,	r 	fdt;tj) 'efttjt qf( lkricf>I	f'l,;-+---r,r,	I	?
+
+(b) 
+
+I	jl- ct,	...,
+
+...._.+.			({O(	fqzj	...,
+
+...._.+.	3,9{
+
+3-11Dfcta cr,{a I i _?
+
+_,.._..,. 3 fl .c	...........- ch1Ni	1
+
+(c) 'J1	ct T  fchtj)	·	3ffi qf{9hl-ll cr,{<11 i, '<11	
+jl- ch)lf	""""'T"T"'I""	-;::;..- ozj'J1cf>  SII R ch) Ni	I
+Answer the following :
+(a) Magnetic field lines can be entirely confined within the core of a toroid, but not within a straight solenoid. Why ?	 
+(b) Does a bar magnet exert a torque on itself due to its own field ?
+Justify  your  answer.	_	_-----	 - 	((\
+
+(c) When an electron revolves around a nucleus, obtain the expression for the magnetic moment associated with it.
+
+
+
+
+22. (a)	(i)
+(ii) 
+
+3=ffcha P	3lR Q	TR:T	fiflll-11  fil{oft  R1Rsl  1
+fiflll-11 fi ({Oft R1Rsl I
+
+
+
+
+A
+
+B	.,. 	
+
+
+--,
+
+
+
+
+
+	 3
+
+
+
+
+
+
+
+
+
+
+(a) elf l@lf I chlNi fen fchtj) p-n	slltls	f3/4 q SI141{	SI	I{	f3/4	a
+i,
+(b) q =q  lcf>  llffi	fdt-;4) p-n zjfcq slltls	V-I 3-f cil&=tfolcf>	3l'llflf
+   qf2ff @*f3/4 I	Slcf>{O(	V-I 3-f cil&=tfolcf> @*f3/4 I	3
+13	P.T.O.
+
+co	ege
+
+un1•
+
+a§.
+
+(a) (i)	Write the truth tables of the  logic gates marked P and Q in the given circuit.
+(ii)	Write the truth table for the circuit.
+A1	1
+B 1	1
+(b) Why are NOR gates considered as universal gates?
+OR
+(a) Explain how a potential barrier is developed in a p-n junction diode.
+(b) Draw the circuit arrangement for studying the V-I characteristics of a p-n junction diode in reverse bias. Plot the V-I characteristics in this case.	
+23. (a)	fchzj't -i3IIcier, ---	11-cstc(;')ll	chl4{a t	cf{	til{I
+3,q	.	?	
+
+(b) ...........-r-+ 394'1ln 3=1jSllttln	3 1t5{01cnNie;1
+
+(c) .-J 	 cf{  1{13TI	fjlRlll	--	Sler,I{  chl--l
+
+fichdl i ?	3
+
+(a) 	How are eddy currents generated in a conductor which is subjected  to a magnetic field ?
+(b) Write two examples of their useful applications.
+(c) How can the disadvantages of eddy currents be minimized?
+24. (a)	olf (@-1(	ch)Nil; fen	3lo,-+---,---r $1ch( (	q ( \  IT lff	•	'Cf ep
+';:rr;::;t	3=frd  {  I  tSd	3-t19<1.-l  ch{dI i, '<11·	+---r--T""T  SIchI{	m '-liI<11
+C.	"'
+,-t---,	I
+0
+
+
+
+(b)
+
+fct;zj't q({ IT lTT	O""ll""""T  -	Slchl I 3-t19<1.-l ch{dI i  I 3-t9cf d.-l
+30° i  I	ch1Nie;
+
+(i)
+(ii)
+
+   (f2fi.
+lTT	cf>T 3=1qcf d.-lich I	3
+
+(a) Explain how an unpolarised light gets polarised when incident on the interface separating the two transparent media.
+(b) Green	light	is	incident	at	the	polarising	angle	on	a	certain transparent medium. The angle of refraction is 30°. Find
+(i) polarising angle, and
+(ii) refractive index of the medium.
+
+
+14
+co	ege
+
+
+@Os
+SECTIOND
+
+25. (a)	ctlll c)" fqd?f	 cf'>qoff Slchl I	.	·	&l@	{U(	SIIA	fichdl	?
+&ll I ch)   I
+(b) 3-tl @  -q-	f4>4l	fa[${) S14ll( cfil· S114lfr1ch	&lqf  -q-
+3f'cqf£d (0)	dl al Io	I	,_...,;,,+	OP	cfiT.	_-i:(1 1 cf>T -	
+i, <fl	 lf q_ fcF>	..	p 1:R_  dl aI Io  '""""l'"T"T'	I
+4
+I
+:I P
+
+(c) fa[${) Sllfll( -ij- f$f{ltl'	ffi	ch	0·5	mm	(f	f$f{ll1
+i  I	91 I JI  I i fcF> '"""T'T"T"'T'	chlffi .	qi=qcft·  =qJ.lcf;)ffi
+-r++  4·13 mm	I Sl ct> Slchl I cfiT a{l( t:4	4il	I	5
+
+
+(a) d{l( t:4 1'v	Slchl I		cnT	39lflll	,::::t::"-	-i:(1 1	'a'	cfiT f3/4.;4)	chci		 3,q f3/4qd.-l	-ij-		Rfi7t£d		ffi		a sin	0 = A		,q
+4i)	I
+(b) ch I{UI	4i) 	fcF>	rs!J	3f'cq tS<3 cfiT	f(c)ct>	-i:(1 I	-	SIch I{
+Sit(1f3/4a	(i)	 epqoff	Slchl I	ci ((1	Slchl I	'T"T"r""""I' 1fcta
+,	(f2ff  (ii)	ffi	cfiT ....,-++ -ij- C.  Ot	?
+(c) f3/4qd.-l	1 mm	 ct>.-l		&l@ch{OI	,			·	cfiT S114lr'lch &lqf2ff3TI -ij- fil-11.-l  (1{l l t:4		 chqOIT Slct>l I cf>T 39lfll I				f3/4qd.-l  cf>  3G.t.ltS3 -q- 10 &l@ch{O( .	---.---++	I		.	S(ep{Ofl -q- 
+ffi	cfiT ,_...,;,,+  fil-11.-l ,	<fl  ct>ci	cfiT -i:(1  I 	f;rtf{a  4i)	I	5
+
+15
+co	ege
+
+P.T.O.
+un1•
+
+
+a§.
+
+(a) Can the interference pattern be produced by two independent monochromatic sources of light ? Explain.
+(b) The intensity at the central maximum (0) in a Young's double slit experimental set-up shown in the figure is Io. If the distance OP equals one-third of the fringe width of the  pattern, show that the
+intensity at point P, would equal Io .
+4
+I
+:I P
+
+
+
+
+
+
+
+
+•
+
+
+
+
+((\
+(c) In	Young's	double	slit	experiment,  the	slits	are	separated	by
+0·5 mm and screen is placed l·O m	away from the slit. It is found
+that the 5th bright fringe is at a distance of 4·13 mm from the 2nd dark fringe. Find the wavelength of light used.
+
+OR
+
+(a) Derive the relation a sin 0 = A for the first minimum of the diffraction pattern produced due to a single slit of width 'a' using light of wavelength A.
+(b) State with reason, how the linear width of central maximum will be affected if (i) monochromatic yellow light is replaced with red light, and (ii) distance between the slit and the screen is increased.
+(c) Using the monochromatic light of same wavelength in the experimental set-up of the diffraction pattern as well as in the interference   pattern   where   the   slit   separation   is  1   mm,
+10  interference  fringes  are  found  to  be  within  the  central
+maximum of the diffraction pattern. Determine the width of the single slit, if the screen is kept at the same distance from the slit in the two cases.
+
+
+
+16
+co	ege  
+India's Largest Student Review Platform
+
+26. (a)	fdhtj) n-p-n ?i fc{	-;:;..- --	3-f l @ @1*f3/4q: Nifi 3,fi'-lfcf>-3lT
+3Uf	citlll a	i  (f	3lT -fi lfjcfi	zjfq  q -q	lch	citlll a	i	I	 fich)
+
+cf>l4f3/4fq cf>T	--ij
+olf I&:I I  ch) Niq: fcn ,::z::"T"""'P
+3,fi'Jfct,-3lT
+51@{)q  11<1I i	I
+
+ch)Niq: I
+? i	fc{	3-f q.fl fiijfill	3-1qf	-ij ..._ SI cf> I{	q.fl
+SIRt\ltT	 11<11 i (f	3lT -fi!:ilfjct,	Jcq
+
+
+(b)	51@{)q RL,	({(	(S)'q	a	'<1" Rcl I Sl@\ltl	W -ij CE f3/4rlf(fi -ij
+fdt;tj) ?i fc{ >[cf ql cal ,..,,.. (S)'q   +;::;..'T'T'T &i'31cf> 0 ,q  ch)Niq: I
+elf1&-11  6h1Niq: fcn Rcl n 3fu	cfl ca1	f3/4q;()a cr,(11 -ij	t 1	5
+
+(a) Slcf>l I  3,fi'-lfcf> :Slltl:S (LED)	-ij Jqlflll	-	---	fdhtj) p-n
+:sIltl:s cf>T	f3/4{-q.-l	fi1-1ll  m  1]'"'2';:;;::JTITJ°t	f3/4-q 1{l	1.-l -ij {@ 1 '311a I i
+3.-lchl --    ch)Niq: I    fchtj) LED	qf{fi{ -ij Slcf>l I 3,fiNfa cf>{.-ll
+  t, 'ffi LED cf>T	3-lr<1{lt1 ..._ ,:::t:"'- cf>T	-tj1{%q: ?	-	3-11 @  @*f3/4q: 3fu  ch) fsh 1f3/4fq	&ll&-11 ch)Niq: I
+(b) JJED coT V-I	 (11 fo1q-; @*f3/4q:  1 q{i:q{(lla	a1q{lR	mt'-1.	g(1.-ll -ij
+E	D	...'-I • 	GJ 'ffi cf>T ....._..,._..., ch) Niq: I	5
+(a) Draw a circuit diagram of an n-p-n transistor with its emitter-base junction forward biased and base-collector junction reverse biased. Briefly describe its working.
+Explain how a transistor in its active state exhibits a low resistance at its emitter-base junction and high resistance at its base-collector junction.
+(b) Derive the expression for the voltage gain of a transistor amplifier in CE configuration in terms of the load resistance RL, current gain  a  and input resistance.
+Explain why input and output voltages are in opposite phase.
+
+OR
+
+
+17	P.T.O.
+
+co	ege 
+
+un1•
+
+a§.
+
+(a) Write the important considerations which are to be taken into account while fabricating a p-n junction diode to be used as a Light Emitting Diode (LED). What should be the order of band gap of an LED, if it is required to emit light in the visible range ? Draw a circuit diagram and explain its action.
+(b) Draw the V-I characteristics of an LED. State two advantages of LED lamps over conventional incandescent lamps.
+
+27. (a) fchtj) l{I 3-f qlfq cf>({OI fchtj) r 	jl- c[;)lf	f;r ff{<1 q 1(11 Rlll-1 R1Rsl   3fich1 olfl{§lll ch1Nt I r  Gt'Slf(   fchtj)  filth({  l{lq( l 91 ( cf>({OI --,._...._..,.. r 	1l- lf		ozj'J1Cf>  ,q ch1Nt I
+(b)	tj)	(fR	1  cm cil- I cf>T	r"""'T"T	 l{I 3-fqlfq	-
+d2IT Nifi X-3l	3-fj	I 10 A ({( $(q(f%a m WT I Y-3l
+3-iqlfq	0·5  m ._....,.....	 l{I  qlfq	cnl{OI 11- chlll	cnT qf{J-1101
+.	ch) Ni	I	5
+
+(a) blZilll  r	fcf,tj) l{lql l	1,os(1l	cr)1-lu1	o:gffi	......,.;-+	x
+ X-3l	3-tj	I 11- cfi)lf	+;:;.."'rr'T	6zj'J1cf>  ,q ch)bi I
+(b) 			I (c)  -ij	3-f jfiI{ fchtj)	I{Iq I , m	(fR,	Nifi	5 A	I{ I SIq I l%a m WT
+' cfiT 2 cm 81'5-lfl	3li1"r=r.i rr  -tj(q	3-flt,RI	.  l(lf I	I	-tj(q
+11- cfi)lf	cnT qf{J-1101	chlbt  I	5
+
+
+(a) State and explain the law used to determine magnetic field at a point due to a current element. Derive the expression for the magnetic field due to a circular current carrying loop of radius r at its centre.
+(b) A long wire with a small current element of length 1 cm is placed at the origin and carries a current of 10 A along the X-axis. Find out the magnitude and direction of the magnetic field due to the element on the Y-axis at a distance 0·5 m from it.
+OR
+18
+co	ege  
+
+(a) Derive the expression for the magnetic field due to a current carrying coil of radius r at a distance x from the centre along the X-axis.
+(b) A straight wire carrying a current of 5 A is bent into a semicircular arc of radius 2 cm as shown in the figure. Find the magnitude and direction of the magnetic field at the centre of the arc .
+
+
+•
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+co	ege  
+India's Largest Student Review Platform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
